@@ -1,0 +1,10 @@
+# Build output (if the miner tooling lands here)
+bin/
+obj/
+out/
+
+# Local / editor
+*.user
+.vs/
+.idea/
+*.tmp

@@ -1,0 +1,27 @@
+626 Mod Launcher — game manifest feed
+Attribution for upstream factual-data sources.
+
+The manifest data here is mined as FACTS ONLY — game names, store app IDs, mod
+folder paths, engine associations, Nexus domain slugs. No source code, prose,
+fix-instructions, or table structure is copied or redistributed. Under U.S. law
+facts are not copyrightable (Feist Publications, Inc. v. Rural Telephone Service
+Co., 499 U.S. 340 (1991)), so this attribution is a courtesy in keeping with the
+project's honor-the-builders ethic, not a license obligation.
+
+Sources referenced for factual data:
+
+- Ludusavi manifest — https://github.com/mtkennerly/ludusavi-manifest
+  MIT License, Copyright (c) 2020 Matthew T. Kennerly.
+  (Itself compiled from PCGamingWiki + the Steam API.)
+
+- Mod Organizer 2 — modorganizer-basic_games —
+  https://github.com/ModOrganizer2/modorganizer-basic_games
+  MIT License, Copyright 2020 Holt59.
+
+- PCGamingWiki — https://www.pcgamingwiki.com
+  Article content is CC BY-NC-SA 3.0. Only uncopyrightable facts (app IDs,
+  paths) were referenced; no article text or layout was copied. Data is
+  hand-curated / primary-source-verified, not bulk-scraped.
+
+Thanks to these projects and their contributors for documenting the PC modding
+landscape.
