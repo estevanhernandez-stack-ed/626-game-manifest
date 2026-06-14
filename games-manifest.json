@@ -110,7 +110,7 @@
     {
       "id": "dark-souls-prepare-to-die-edition",
       "name": "Dark Souls: Prepare to Die Edition",
-      "engine": "bethesda",
+      "engine": null,
       "stores": {
         "steamAppId": "211420",
         "gogId": null,
@@ -128,7 +128,6 @@
         "sources": [
           "ludusavi",
           "mo2",
-          "known-engines",
           "nexus-domains"
         ],
         "status": "auto"
@@ -189,7 +188,7 @@
     {
       "id": "divinity-original-sin",
       "name": "Divinity: Original Sin",
-      "engine": "bethesda",
+      "engine": null,
       "stores": {
         "steamAppId": "230230",
         "gogId": null,
@@ -207,7 +206,6 @@
         "sources": [
           "ludusavi",
           "mo2",
-          "known-engines",
           "nexus-domains"
         ],
         "status": "auto"
@@ -216,7 +214,7 @@
     {
       "id": "divinity-original-sin-enhanced-edition",
       "name": "Divinity: Original Sin - Enhanced Edition",
-      "engine": "bethesda",
+      "engine": null,
       "stores": {
         "steamAppId": "373420",
         "gogId": null,
@@ -234,7 +232,6 @@
         "sources": [
           "ludusavi",
           "mo2",
-          "known-engines",
           "nexus-domains"
         ],
         "status": "auto"
@@ -893,7 +890,7 @@
     {
       "id": "the-witcher",
       "name": "The Witcher",
-      "engine": "bethesda",
+      "engine": null,
       "stores": {
         "steamAppId": "20900",
         "gogId": null,
@@ -911,7 +908,6 @@
         "sources": [
           "ludusavi",
           "mo2",
-          "known-engines",
           "nexus-domains"
         ],
         "status": "auto"
