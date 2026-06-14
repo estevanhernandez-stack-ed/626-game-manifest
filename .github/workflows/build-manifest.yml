@@ -1,0 +1,62 @@
+name: Build signed manifest
+
+# Regenerates games-manifest.json + .sig: mines the Ludusavi backbone + MO2 enrichment, applies the
+# curated overrides/, signs with the MANIFEST_SIGNING_KEY secret (ECDSA P-256, matching the launcher's
+# pinned verify key), and commits the result. The launcher fetches the raw files and verifies them.
+on:
+  workflow_dispatch: {}            # manual (the first run; and after curating)
+  schedule:
+    - cron: '0 6 * * 1'            # weekly Mon 06:00 UTC — pick up upstream Ludusavi/MO2 changes
+  push:
+    branches: [main]
+    paths:                          # rebuild when curation or the workflow changes
+      - 'overrides/**'
+      - '.github/workflows/build-manifest.yml'
+
+permissions:
+  contents: write                   # to commit the regenerated manifest
+
+concurrency:
+  group: build-manifest
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout feed repo
+        uses: actions/checkout@v4
+
+      - name: Checkout launcher (the miner)
+        uses: actions/checkout@v4
+        with:
+          repository: estevanhernandez-stack-ed/626-mod-launcher
+          path: launcher
+
+      - name: Set up .NET 10
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '10.0.x'
+
+      - name: Mine + curate + sign
+        env:
+          MANIFEST_SIGNING_KEY: ${{ secrets.MANIFEST_SIGNING_KEY }}
+        run: >
+          dotnet run --project launcher/tools/ManifestMiner --
+          --with-mo2 --with-overrides
+          --overrides-dir "$GITHUB_WORKSPACE/overrides"
+          --sign
+
+      - name: Publish signed manifest
+        run: |
+          cp launcher/tools/ManifestMiner/out/games-manifest.json games-manifest.json
+          cp launcher/tools/ManifestMiner/out/games-manifest.json.sig games-manifest.json.sig
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add games-manifest.json games-manifest.json.sig
+          if git diff --staged --quiet; then
+            echo "No manifest changes — nothing to publish."
+          else
+            git commit -m "chore: regenerate signed manifest [skip ci]"
+            git push
+          fi
