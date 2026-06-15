@@ -20,6 +20,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -46,6 +47,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -72,6 +74,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -98,6 +101,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -124,6 +128,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -150,6 +155,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -176,6 +182,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -202,6 +209,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -228,6 +236,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -254,6 +263,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -280,6 +290,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -306,6 +317,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -332,6 +344,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -358,6 +371,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -365,6 +379,33 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "helldivers-2",
+      "name": "Helldivers 2",
+      "engine": null,
+      "stores": {
+        "steamAppId": "553850",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "helldivers2",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/553850/remote/input_settings.config",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -384,6 +425,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -410,6 +452,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -436,6 +479,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -462,6 +506,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -469,6 +514,34 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "marvel-rivals",
+      "name": "Marvel Rivals",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2767030",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "marvelrivals",
+      "curseforgeGameId": null,
+      "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Marvel/Saved/Config/Windows/GameUserSettings.ini",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -488,6 +561,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -514,6 +588,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -540,6 +615,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -566,6 +642,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -592,6 +669,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -618,6 +696,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -644,6 +723,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -670,6 +750,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -696,6 +777,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -722,6 +804,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -748,6 +831,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -774,6 +858,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -800,6 +885,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -826,6 +912,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -852,6 +939,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -878,6 +966,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -904,6 +993,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -930,6 +1020,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -956,6 +1047,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -982,6 +1074,7 @@
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
