@@ -27,6 +27,7 @@
 | `groupingRule` | string \| null | override to the engine's default grouping |
 | `featured` | int \| null | quick-pick rank; null ⇒ not featured |
 | `saveDirHint` | string \| null | descriptive save-location hint |
+| `banRisk` | string \| null | `"low"` / `"medium"` / `"high"` — anti-cheat/ban exposure for online modding. Descriptive only; on `high` the launcher warns + gates enabling behind a one-time acknowledgment (never auto-enables, never hard-blocks). |
 | `provenance` | object | `{ sources: string[], status: "auto" | "curated" }` |
 
 ## Known engine keys
@@ -44,3 +45,8 @@ older launcher (forward-compat) — adding a new engine is launcher code, not da
 - A bad signature / unknown schema / too-high `minBinaryVersion` ⇒ the launcher
   falls back to its embedded manifest. The feed can only ever add/refresh; it
   can never break a working install.
+- `banRisk` is descriptive — it states a game *is* ban-risky (online / kernel
+  anti-cheat); it never says how to enable/disable a mod (that stays launcher
+  code). Unlike every other field, it merges by **never-downgrade max**: a feed
+  refresh can raise a game's risk but can never silently lower a curated `high`,
+  so an auto-mined refresh can't quietly un-gate a game.

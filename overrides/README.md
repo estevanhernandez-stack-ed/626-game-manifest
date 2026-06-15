@@ -13,11 +13,14 @@ Hand-curated corrections that **win over** mined data. One `<game>.json` per gam
   "modPath": "Data",
   "nexusDomain": "skyrim",
   "featured": 20,
-  "fileExtensions": ["esp", "esl", "esm", "bsa"]
+  "fileExtensions": ["esp", "esl", "esm", "bsa"],
+  "banRisk": "high"
 }
 ```
 
 `engine` must be a known engine key: `bethesda`, `ue-pak`, `bepinex`, `smapi`, `minecraft`, `source`, `melonloader`, `fromsoft`, `custom`. Unspecified fields are left as the miner set them. A wrong `steamAppId` just doesn't match — it's reported in the build summary, never corrupts.
+
+`banRisk` (`"low"` / `"medium"` / `"high"`) marks a game's anti-cheat/ban exposure for online modding. On `high` the launcher warns and gates enabling behind a one-time acknowledgment — it never auto-enables and never hard-blocks (disable stays one click away). Flag it only where modding online genuinely risks a ban (online / kernel anti-cheat). Don't flag offline-friendly single-player games, and don't flag a game whose ban risk the launcher already mediates (e.g. Elden Ring, where the reversible EAC toggle is the safe-modding path).
 
 ## Adding a game
 
