@@ -1,0 +1,10 @@
+{
+  "steamAppId": "1222670",
+  "id": "the-sims-4",
+  "name": "The Sims 4",
+  "nexusDomain": "thesims4",
+  "fileExtensions": [
+    ".package",
+    ".ts4script"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1282100",
+  "id": "remnant-2",
+  "name": "Remnant II",
+  "engine": "ue-pak",
+  "modPath": "Remnant2/Content/Paks/~mods",
+  "nexusDomain": "remnant2",
+  "banRisk": "low",
+  "fileExtensions": [
+    ".pak",
+    ".utoc",
+    ".ucas"
+  ]
+}

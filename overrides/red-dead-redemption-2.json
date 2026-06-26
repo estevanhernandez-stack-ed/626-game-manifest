@@ -1,0 +1,13 @@
+{
+  "steamAppId": "1174180",
+  "id": "red-dead-redemption-2",
+  "name": "Red Dead Redemption 2",
+  "nexusDomain": "reddeadredemption2",
+  "banRisk": "low",
+  "fileExtensions": [
+    "asi",
+    "ini",
+    "xml",
+    "rpf"
+  ]
+}

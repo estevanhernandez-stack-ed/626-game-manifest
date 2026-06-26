@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1313140",
+  "id": "cult-of-the-lamb",
+  "name": "Cult of the Lamb",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "cultofthelamb",
+  "fileExtensions": [
+    "dll"
+  ]
+}

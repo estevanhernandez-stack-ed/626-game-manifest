@@ -1,0 +1,12 @@
+{
+  "steamAppId": "1604030",
+  "id": "v-rising",
+  "name": "V Rising",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "vrising",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "dll"
+  ]
+}

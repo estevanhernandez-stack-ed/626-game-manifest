@@ -1,0 +1,11 @@
+{
+  "steamAppId": "949230",
+  "id": "cities-skylines-ii",
+  "name": "Cities: Skylines II",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "citiesskylines2",
+  "fileExtensions": [
+    "dll"
+  ]
+}

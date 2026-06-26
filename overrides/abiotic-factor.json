@@ -1,0 +1,13 @@
+{
+  "steamAppId": "427410",
+  "id": "abiotic-factor",
+  "name": "Abiotic Factor",
+  "engine": "ue-pak",
+  "modPath": "AbioticFactor/Content/Paks/~mods",
+  "nexusDomain": "abioticfactor",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ]
+}

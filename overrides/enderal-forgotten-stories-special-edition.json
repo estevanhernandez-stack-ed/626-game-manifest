@@ -1,0 +1,15 @@
+{
+  "steamAppId": "976620",
+  "id": "enderal-forgotten-stories-special-edition",
+  "name": "Enderal: Forgotten Stories (Special Edition)",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "nexusDomain": "enderalspecialedition",
+  "fileExtensions": [
+    "esp",
+    "esm",
+    "esl",
+    "bsa",
+    "dll"
+  ]
+}

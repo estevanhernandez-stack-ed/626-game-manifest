@@ -1,0 +1,12 @@
+{
+  "steamAppId": "271590",
+  "id": "grand-theft-auto-v-legacy-single-player",
+  "name": "Grand Theft Auto V (Legacy, single-player)",
+  "nexusDomain": "gta5",
+  "fileExtensions": [
+    "asi",
+    "dll",
+    "rpf",
+    "oiv"
+  ]
+}
