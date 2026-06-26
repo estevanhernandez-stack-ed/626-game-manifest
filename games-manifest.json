@@ -6,7 +6,7 @@
     {
       "id": "7-days-to-die",
       "name": "7 Days to Die",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "251570",
         "gogId": null,
@@ -19,7 +19,9 @@
       "saveDirHint": "\u003Chome\u003E/.config/unity3d/The Fun Pimps/7 Days To Die",
       "fileExtensions": [
         "xml",
-        "dll"
+        "dll",
+        "unity3d",
+        "png"
       ],
       "groupingRule": null,
       "featured": null,
@@ -28,6 +30,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -189,7 +192,7 @@
     {
       "id": "dark-messiah-of-might-and-magic",
       "name": "Dark Messiah of Might and Magic",
-      "engine": null,
+      "engine": "source",
       "stores": {
         "steamAppId": "2100",
         "gogId": null,
@@ -198,9 +201,15 @@
       },
       "nexusDomain": "darkmessiahofmightandmagic",
       "curseforgeGameId": null,
-      "modPath": "mm",
+      "modPath": "custom",
       "saveDirHint": "\u003Cbase\u003E/mm/SAVE",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "vpk",
+        "bsp",
+        "vtf",
+        "vmt",
+        "mdl"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -208,15 +217,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "dark-souls-ii-scholar-of-the-first-sin",
       "name": "Dark Souls II: Scholar of the First Sin",
-      "engine": null,
+      "engine": "fromsoft",
       "stores": {
         "steamAppId": "335300",
         "gogId": null,
@@ -225,19 +236,21 @@
       },
       "nexusDomain": "darksouls2",
       "curseforgeGameId": null,
-      "modPath": "Game",
+      "modPath": "mod",
       "saveDirHint": "\u003CwinAppData\u003E/DarkSoulsII/\u003CstoreUserId\u003E/DS2SOFS0000.sl2",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
-      "banRisk": null,
+      "banRisk": "medium",
       "provenance": {
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -276,7 +289,7 @@
     {
       "id": "dark-souls-prepare-to-die-edition",
       "name": "Dark Souls: Prepare to Die Edition",
-      "engine": null,
+      "engine": "fromsoft",
       "stores": {
         "steamAppId": "211420",
         "gogId": null,
@@ -287,7 +300,12 @@
       "curseforgeGameId": null,
       "modPath": "DATA",
       "saveDirHint": "\u003CwinDocuments\u003E/NBGI/DarkSouls",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "dcx",
+        "bnd",
+        "bdt",
+        "bhd"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -295,15 +313,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "darkest-dungeon",
       "name": "Darkest Dungeon",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "262060",
         "gogId": null,
@@ -312,9 +332,14 @@
       },
       "nexusDomain": "darkestdungeon",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "mods",
       "saveDirHint": "\u003Chome\u003E/.local/share/Red Hook Studios/Darkest",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".darkest",
+        ".xml",
+        ".json",
+        ".png"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -322,15 +347,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "dispatch-2025",
       "name": "Dispatch (2025)",
-      "engine": null,
+      "engine": "ue-pak",
       "stores": {
         "steamAppId": "2592160",
         "gogId": null,
@@ -339,9 +366,13 @@
       },
       "nexusDomain": "dispatch",
       "curseforgeGameId": null,
-      "modPath": "Dispatch/Content/",
+      "modPath": "Dispatch/Content/Paks/~mods",
       "saveDirHint": "\u003CwinLocalAppData\u003E/Dispatch/Config/WindowsNoEditor",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".pak",
+        ".ucas",
+        ".utoc"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -349,15 +380,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "divinity-original-sin",
       "name": "Divinity: Original Sin",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "230230",
         "gogId": null,
@@ -366,9 +399,13 @@
       },
       "nexusDomain": "divinityoriginalsin",
       "curseforgeGameId": null,
-      "modPath": "Data",
+      "modPath": "Data/Mods",
       "saveDirHint": "\u003Chome\u003E/Documents/Larian Studios/Divinity Original Sin/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak",
+        "lsx",
+        "lsb"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -376,15 +413,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "divinity-original-sin-enhanced-edition",
       "name": "Divinity: Original Sin - Enhanced Edition",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "373420",
         "gogId": null,
@@ -393,9 +432,11 @@
       },
       "nexusDomain": "divinityoriginalsinenhancededition",
       "curseforgeGameId": null,
-      "modPath": "Data",
+      "modPath": "Data/Mods",
       "saveDirHint": "\u003Chome\u003E/Larian Studios/Divinity Original Sin Enhanced Edition",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".pak"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -403,15 +444,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "dungeon-siege",
       "name": "Dungeon Siege",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "39190",
         "gogId": null,
@@ -420,9 +463,13 @@
       },
       "nexusDomain": "dungeonsiege1",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Resources",
       "saveDirHint": "\u003CwinDocuments\u003E/Dungeon Siege/DungeonSiege.ini",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "dsres",
+        "dsmap",
+        "dsmod"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -430,9 +477,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -557,7 +606,7 @@
     {
       "id": "fantasy-life-i-the-girl-who-steals-time",
       "name": "Fantasy Life i: The Girl Who Steals Time",
-      "engine": null,
+      "engine": "ue-pak",
       "stores": {
         "steamAppId": "2993780",
         "gogId": null,
@@ -566,25 +615,31 @@
       },
       "nexusDomain": "fantasylifeithegirlwhostealstime",
       "curseforgeGameId": null,
-      "modPath": "Game/Content/",
+      "modPath": "Game/Content/Paks/~mods",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/LEVEL5 Inc_/FANTASY LIFE i/Users",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
       "groupingRule": null,
       "featured": null,
-      "banRisk": null,
+      "banRisk": "medium",
       "provenance": {
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "final-fantasy-vii-remake-intergrade",
       "name": "Final Fantasy VII Remake Intergrade",
-      "engine": null,
+      "engine": "ue-pak",
       "stores": {
         "steamAppId": "1462040",
         "gogId": null,
@@ -593,9 +648,11 @@
       },
       "nexusDomain": "finalfantasy7remake",
       "curseforgeGameId": null,
-      "modPath": "_ROOT",
+      "modPath": "End/Content/Paks/~mods",
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FINAL FANTASY VII REMAKE/EOS",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".pak"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -603,9 +660,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -646,7 +705,7 @@
     {
       "id": "helldivers-2",
       "name": "Helldivers 2",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "553850",
         "gogId": null,
@@ -655,9 +714,13 @@
       },
       "nexusDomain": "helldivers2",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "data",
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/553850/remote/input_settings.config",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".patch_0",
+        ".gpu_resources",
+        ".stream"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
@@ -665,6 +728,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -705,7 +769,7 @@
     {
       "id": "hollow-knight-silksong",
       "name": "Hollow Knight: Silksong",
-      "engine": null,
+      "engine": "bepinex",
       "stores": {
         "steamAppId": "1030300",
         "gogId": null,
@@ -714,9 +778,11 @@
       },
       "nexusDomain": "hollowknightsilksong",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "BepInEx/plugins",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Team Cherry/Hollow Knight Silksong",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".dll"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -724,15 +790,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "kerbal-space-program",
       "name": "Kerbal Space Program",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "220200",
         "gogId": null,
@@ -743,7 +811,12 @@
       "curseforgeGameId": null,
       "modPath": "GameData",
       "saveDirHint": "\u003Cbase\u003E/saves",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "cfg",
+        "dll",
+        "mu",
+        "craft"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -751,15 +824,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "kingdom-come-deliverance",
       "name": "Kingdom Come: Deliverance",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "379430",
         "gogId": null,
@@ -768,9 +843,13 @@
       },
       "nexusDomain": "kingdomcomedeliverance",
       "curseforgeGameId": null,
-      "modPath": "mods",
+      "modPath": "Mods",
       "saveDirHint": "\u003Cbase\u003E/user.cfg",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak",
+        "manifest",
+        "cfg"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -778,15 +857,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "kingdom-come-deliverance-ii",
       "name": "Kingdom Come: Deliverance II",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "1771300",
         "gogId": null,
@@ -797,7 +878,11 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "saveDirHint": "\u003Cbase\u003E/user.cfg",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".pak",
+        ".manifest",
+        ".cfg"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -805,9 +890,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -871,7 +958,7 @@
     {
       "id": "metal-gear-solid-2-sons-of-liberty-master-collection-version",
       "name": "Metal Gear Solid 2: Sons of Liberty - Master Collection Version",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "2131640",
         "gogId": null,
@@ -880,9 +967,14 @@
       },
       "nexusDomain": "metalgearsolid2mc",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "textures/flatlist/_win",
       "saveDirHint": "\u003Cbase\u003E/mgs2_savedata_win/\u003CstoreUserId\u003E",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "ctxr",
+        "png",
+        "asi",
+        "ini"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -890,15 +982,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "metal-gear-solid-3-snake-eater-master-collection-version",
       "name": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "2131650",
         "gogId": null,
@@ -907,9 +1001,14 @@
       },
       "nexusDomain": "metalgearsolid3mc",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "textures/flatlist/ovr_stm/_win",
       "saveDirHint": "\u003Cbase\u003E/mgs3_savedata_win/\u003CstoreUserId\u003E",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "asi",
+        "dll",
+        "ctxr",
+        "dds"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -917,9 +1016,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -957,7 +1058,7 @@
     {
       "id": "monster-hunter-world",
       "name": "Monster Hunter: World",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "582010",
         "gogId": null,
@@ -966,19 +1067,27 @@
       },
       "nexusDomain": "monsterhunterworld",
       "curseforgeGameId": null,
-      "modPath": "%GAME_PATH%",
+      "modPath": "NativePC",
       "saveDirHint": "\u003Cbase\u003E/graphics_option.ini",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pkg",
+        "bin",
+        "tex",
+        "mod3",
+        "mrl3"
+      ],
       "groupingRule": null,
       "featured": null,
-      "banRisk": null,
+      "banRisk": "medium",
       "provenance": {
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1044,7 +1153,7 @@
     {
       "id": "no-man-s-sky",
       "name": "No Man\u0027s Sky",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "275850",
         "gogId": null,
@@ -1053,9 +1162,11 @@
       },
       "nexusDomain": "nomanssky",
       "curseforgeGameId": null,
-      "modPath": "GAMEDATA/MODS",
+      "modPath": "GAMEDATA/PCBANKS/MODS",
       "saveDirHint": "\u003Cbase\u003E/Binaries/SETTINGS",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1063,9 +1174,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1134,7 +1247,7 @@
     {
       "id": "ready-or-not",
       "name": "Ready or Not",
-      "engine": null,
+      "engine": "ue-pak",
       "stores": {
         "steamAppId": "1144200",
         "gogId": null,
@@ -1145,17 +1258,23 @@
       "curseforgeGameId": null,
       "modPath": "ReadyOrNot/Content/Paks",
       "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/VOIDInteractive.ReadyorNot_wzdj6a56z6mzp/SystemAppData/wgs",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
       "groupingRule": null,
       "featured": null,
-      "banRisk": null,
+      "banRisk": "low",
       "provenance": {
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1256,7 +1375,7 @@
     {
       "id": "schedule-i",
       "name": "Schedule I",
-      "engine": null,
+      "engine": "melonloader",
       "stores": {
         "steamAppId": "3164500",
         "gogId": null,
@@ -1265,9 +1384,11 @@
       },
       "nexusDomain": "schedule1",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/TVGS/Schedule I/Saves/\u003CstoreUserId\u003E",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "dll"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1275,9 +1396,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1317,7 +1440,7 @@
     {
       "id": "slay-the-spire-2",
       "name": "Slay the Spire 2",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "2868840",
         "gogId": null,
@@ -1328,7 +1451,11 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "saveDirHint": "\u003Chome\u003E/Library/Application Support/SlayTheSpire2/steam/\u003CstoreUserId\u003E",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".pck",
+        ".dll",
+        ".json"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1336,15 +1463,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "star-wars-empire-at-war",
       "name": "Star Wars: Empire at War",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "32470",
         "gogId": null,
@@ -1353,9 +1482,17 @@
       },
       "nexusDomain": "starwarsempireatwar",
       "curseforgeGameId": null,
-      "modPath": "corruption/Data",
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/Saved Games/Petroglyph/Empire At War/Save",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "xml",
+        "meg",
+        "dat",
+        "lua",
+        "alo",
+        "ala",
+        "txt"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1363,15 +1500,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "stardew-valley",
       "name": "Stardew Valley",
-      "engine": null,
+      "engine": "smapi",
       "stores": {
         "steamAppId": "413150",
         "gogId": null,
@@ -1380,9 +1519,13 @@
       },
       "nexusDomain": "stardewvalley",
       "curseforgeGameId": null,
-      "modPath": "mods",
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/.config/StardewValley",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".dll",
+        ".json",
+        ".png"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1390,9 +1533,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1463,7 +1608,7 @@
     {
       "id": "subnautica",
       "name": "Subnautica",
-      "engine": null,
+      "engine": "bepinex",
       "stores": {
         "steamAppId": "264710",
         "gogId": null,
@@ -1472,9 +1617,12 @@
       },
       "nexusDomain": "subnautica",
       "curseforgeGameId": null,
-      "modPath": "_ROOT",
+      "modPath": "BepInEx/plugins",
       "saveDirHint": "\u003Cbase\u003E/SNAppData/SavedGames",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".dll",
+        ".zip"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1482,15 +1630,17 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
       "id": "subnautica-below-zero",
       "name": "Subnautica: Below Zero",
-      "engine": null,
+      "engine": "bepinex",
       "stores": {
         "steamAppId": "848450",
         "gogId": null,
@@ -1499,9 +1649,11 @@
       },
       "nexusDomain": "subnauticabelowzero",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "BepInEx/plugins",
       "saveDirHint": "\u003Cbase\u003E/SNAppData/SavedGames",
-      "fileExtensions": null,
+      "fileExtensions": [
+        ".dll"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1509,9 +1661,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1574,7 +1728,7 @@
     {
       "id": "the-binding-of-isaac-rebirth",
       "name": "The Binding of Isaac: Rebirth",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "250900",
         "gogId": null,
@@ -1583,9 +1737,14 @@
       },
       "nexusDomain": "thebindingofisaacrebirth",
       "curseforgeGameId": null,
-      "modPath": "%DOCUMENTS%/My Games/Binding of Isaac Afterbirth\u002B Mods",
+      "modPath": "mods",
       "saveDirHint": "\u003Chome\u003E/Library/Application Support/Binding of Isaac Rebirth",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "lua",
+        "xml",
+        "png",
+        "anm2"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1593,9 +1752,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1758,7 +1919,7 @@
     {
       "id": "the-witcher",
       "name": "The Witcher",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "20900",
         "gogId": null,
@@ -1767,9 +1928,16 @@
       },
       "nexusDomain": "witcher",
       "curseforgeGameId": null,
-      "modPath": "Data",
+      "modPath": "Data/Override",
       "saveDirHint": "\u003Chome\u003E/Library/Application Support/com.cdprojektred.TheWitcher/GameDocuments/The Witcher/saves",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "2da",
+        "ncs",
+        "nss",
+        "dlg",
+        "mod",
+        "txi"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1777,9 +1945,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -1877,7 +2047,7 @@
     {
       "id": "vampire-the-masquerade-bloodlines",
       "name": "Vampire: The Masquerade - Bloodlines",
-      "engine": null,
+      "engine": "source",
       "stores": {
         "steamAppId": "2600",
         "gogId": null,
@@ -1886,9 +2056,20 @@
       },
       "nexusDomain": "vampirebloodlines",
       "curseforgeGameId": null,
-      "modPath": "vampire",
+      "modPath": "Vampire",
       "saveDirHint": "\u003Cbase\u003E/Unofficial_Patch/Vampire/save",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "vpk",
+        "vmt",
+        "vtf",
+        "mdl",
+        "tth",
+        "ttz",
+        "py",
+        "pyc",
+        "vmf",
+        "tga"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1896,9 +2077,11 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
