@@ -4,6 +4,36 @@
   "minBinaryVersion": null,
   "games": [
     {
+      "id": "7-days-to-die",
+      "name": "7 Days to Die",
+      "engine": null,
+      "stores": {
+        "steamAppId": "251570",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "7daystodie",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003Chome\u003E/.config/unity3d/The Fun Pimps/7 Days To Die",
+      "fileExtensions": [
+        "xml",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "baldur-s-gate-3",
       "name": "Baldur\u0027s Gate 3",
       "engine": null,
@@ -31,6 +61,38 @@
       }
     },
     {
+      "id": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2358720",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "blackmythwukong",
+      "curseforgeGameId": null,
+      "modPath": "b1/Content/Paks/~mods",
+      "saveDirHint": "\u003Cbase\u003E/b1/Saved/SaveGames/\u003CstoreUserId\u003E/*.sav",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "borderlands",
       "name": "Borderlands",
       "engine": null,
@@ -55,6 +117,73 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "content-warning",
+      "name": "Content Warning",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "2881650",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "contentwarning",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Landfall Games/Content Warning",
+      "fileExtensions": [
+        ".dll",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "cyberpunk-2077",
+      "name": "Cyberpunk 2077",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "1091500",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "cyberpunk2077",
+      "curseforgeGameId": null,
+      "modPath": "archive/pc/mod",
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/CD Projekt Red/Cyberpunk 2077",
+      "fileExtensions": [
+        "archive",
+        "zip",
+        "7z",
+        "rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -109,6 +238,39 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "dark-souls-iii",
+      "name": "Dark Souls III",
+      "engine": "fromsoft",
+      "stores": {
+        "steamAppId": "374320",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "darksouls3",
+      "curseforgeGameId": null,
+      "modPath": "mod",
+      "saveDirHint": "\u003CwinAppData\u003E/DarkSoulsIII/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        "dcx",
+        "bdt",
+        "bhd",
+        "sl2"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -301,6 +463,71 @@
       }
     },
     {
+      "id": "elden-ring",
+      "name": "Elden Ring",
+      "engine": "fromsoft",
+      "stores": {
+        "steamAppId": "1245620",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "eldenring",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003CwinAppData\u003E/EldenRing/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        "dll",
+        "sl2",
+        "bin"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "fallout-4",
+      "name": "Fallout 4",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "377160",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "fallout4",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Fallout4",
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "esl",
+        "ba2"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "fallout-new-vegas",
       "name": "Fallout: New Vegas",
       "engine": "bethesda",
@@ -382,6 +609,41 @@
       }
     },
     {
+      "id": "garry-s-mod",
+      "name": "Garry\u0027s Mod",
+      "engine": "source",
+      "stores": {
+        "steamAppId": "4000",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "garrysmod",
+      "curseforgeGameId": null,
+      "modPath": "garrysmod/addons",
+      "saveDirHint": "\u003Cbase\u003E/garrysmod/cfg",
+      "fileExtensions": [
+        "lua",
+        "gma",
+        "vmt",
+        "vtf",
+        "mdl",
+        "bsp"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "helldivers-2",
       "name": "Helldivers 2",
       "engine": null,
@@ -403,6 +665,38 @@
         "sources": [
           "ludusavi",
           "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "hogwarts-legacy",
+      "name": "Hogwarts Legacy",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "990080",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "hogwartslegacy",
+      "curseforgeGameId": null,
+      "modPath": "Phoenix/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Hogwarts Legacy/Saved/Config/WindowsNoEditor",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -517,6 +811,36 @@
       }
     },
     {
+      "id": "lethal-company",
+      "name": "Lethal Company",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1966720",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "lethalcompany",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/ZeekerssRBLX/Lethal Company",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "marvel-rivals",
       "name": "Marvel Rivals",
       "engine": "ue-pak",
@@ -599,6 +923,38 @@
       }
     },
     {
+      "id": "monster-hunter-wilds",
+      "name": "Monster Hunter Wilds",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "2246340",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "monsterhunterwilds",
+      "curseforgeGameId": null,
+      "modPath": "reframework/autorun",
+      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "fileExtensions": [
+        "lua",
+        "pak",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "monster-hunter-world",
       "name": "Monster Hunter: World",
       "engine": null,
@@ -623,6 +979,39 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "mount-blade-ii-bannerlord",
+      "name": "Mount \u0026 Blade II: Bannerlord",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "261550",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "mountandblade2bannerlord",
+      "curseforgeGameId": null,
+      "modPath": "Modules",
+      "saveDirHint": "\u003CwinDocuments\u003E/Mount and Blade II Bannerlord/Configs",
+      "fileExtensions": [
+        "xml",
+        "dll",
+        "tpac"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -680,6 +1069,69 @@
       }
     },
     {
+      "id": "palworld",
+      "name": "Palworld",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1623730",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "palworld",
+      "curseforgeGameId": null,
+      "modPath": "Pal/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/PocketpairInc.Palworld_ad4psfrxyesvt/SystemAppData/wgs/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc",
+        "lua"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "r-e-p-o",
+      "name": "R.E.P.O.",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "3241660",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "repo",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/semiwork/Repo/*.es3",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "ready-or-not",
       "name": "Ready or Not",
       "engine": null,
@@ -707,6 +1159,101 @@
       }
     },
     {
+      "id": "rimworld",
+      "name": "RimWorld",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "294100",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "rimworld",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios",
+      "fileExtensions": [
+        ".xml",
+        ".dll",
+        ".png"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "risk-of-rain-2",
+      "name": "Risk of Rain 2",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "632360",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "riskofrain2",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Cbase\u003E/Risk of Rain 2_Data/Config",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1643320",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "stalker2heartofchornobyl",
+      "curseforgeGameId": null,
+      "modPath": "Stalker2/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/GSCGameWorld.S.T.A.L.K.E.R.2HeartofChernobyl_6fr1t1rwfarwt/SystemAppData/xgs/\u003CstoreUserId\u003E/SaveGames",
+      "fileExtensions": [
+        "pak",
+        "utoc",
+        "ucas",
+        "lua"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "schedule-i",
       "name": "Schedule I",
       "engine": null,
@@ -731,6 +1278,40 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "sekiro-shadows-die-twice",
+      "name": "Sekiro: Shadows Die Twice",
+      "engine": "fromsoft",
+      "stores": {
+        "steamAppId": "814380",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "sekiro",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003CwinAppData\u003E/Sekiro/\u003CstoreUserId\u003E/S0000.sl2",
+      "fileExtensions": [
+        "dcx",
+        "bnd",
+        "sl2",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -815,6 +1396,71 @@
       }
     },
     {
+      "id": "starfield",
+      "name": "Starfield",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "1716740",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "starfield",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1716740/remote",
+      "fileExtensions": [
+        "esm",
+        "esp",
+        "esl",
+        "ba2"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "stellar-blade",
+      "name": "Stellar Blade",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "3489700",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "stellarblade",
+      "curseforgeGameId": null,
+      "modPath": "Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/SB/Saved/Config/WindowsNoEditor",
+      "fileExtensions": [
+        ".pak",
+        ".utoc",
+        ".ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "subnautica",
       "name": "Subnautica",
       "engine": null,
@@ -866,6 +1512,36 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "supermarket-simulator",
+      "name": "Supermarket Simulator",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "2670630",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "supermarketsimulator",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Nokta Games/Supermarket Simulator",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -923,6 +1599,38 @@
       }
     },
     {
+      "id": "the-elder-scrolls-iii-morrowind",
+      "name": "The Elder Scrolls III: Morrowind",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "22320",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "morrowind",
+      "curseforgeGameId": null,
+      "modPath": "Data Files",
+      "saveDirHint": "\u003Cbase\u003E/Morrowind.ini",
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "bsa"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "the-elder-scrolls-iv-oblivion",
       "name": "The Elder Scrolls IV: Oblivion",
       "engine": "bethesda",
@@ -945,6 +1653,43 @@
           "ludusavi",
           "curated",
           "known-engines"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "the-elder-scrolls-iv-oblivion-remastered",
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2623190",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "oblivionremastered",
+      "curseforgeGameId": null,
+      "modPath": "OblivionRemastered/Content/Paks/~mods",
+      "saveDirHint": "\u003Cbase\u003E/OblivionRemastered/Content/Dev/ObvData/*.ini",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc",
+        "esp",
+        "esm",
+        "dll",
+        "lua"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
         ],
         "status": "curated"
       }
@@ -977,6 +1722,40 @@
       }
     },
     {
+      "id": "the-elder-scrolls-v-skyrim-special-edition",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "489830",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "skyrimspecialedition",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim Special Edition",
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "esl",
+        "bsa",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "the-witcher",
       "name": "The Witcher",
       "engine": null,
@@ -1004,6 +1783,39 @@
       }
     },
     {
+      "id": "the-witcher-3-wild-hunt",
+      "name": "The Witcher 3: Wild Hunt",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "292030",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "witcher3",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003CwinDocuments\u003E/The Witcher 3/*.settings",
+      "fileExtensions": [
+        "bundle",
+        "ws",
+        "xml"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "trackmania-united-forever",
       "name": "TrackMania United Forever",
       "engine": null,
@@ -1028,6 +1840,38 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "valheim",
+      "name": "Valheim",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "892970",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "valheim",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/IronGate/Valheim",
+      "fileExtensions": [
+        "dll",
+        "cfg"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
