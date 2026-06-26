@@ -1,0 +1,56 @@
+name: Game request
+description: Ask for a game to be supported (or report a wrong/missing detail) in the 626 Mod Launcher feed.
+title: "[game] "
+labels: ["game-request"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping grow coverage. We add games as **facts** (Steam ID, engine, mod path, Nexus slug) — see [CONTRIBUTING](https://github.com/estevanhernandez-stack-ed/626-game-manifest/blob/main/CONTRIBUTING.md). The more you can fill in, the faster it lands. The launcher can prefill most of this for you.
+  - type: input
+    id: name
+    attributes:
+      label: Game name
+      placeholder: "Baldur's Gate 3"
+    validations:
+      required: true
+  - type: input
+    id: steam-app-id
+    attributes:
+      label: Steam App ID
+      description: The number in the Steam store URL (store.steampowered.com/app/<id>). Leave blank if not on Steam.
+      placeholder: "1086940"
+  - type: input
+    id: store-link
+    attributes:
+      label: Store link
+      description: Steam / GOG / Epic store page (helps us verify the ID).
+      placeholder: "https://store.steampowered.com/app/1086940/"
+  - type: dropdown
+    id: engine
+    attributes:
+      label: Mod loader / engine (if you know)
+      description: How does this game load mods? Pick "Not sure" and we'll figure it out.
+      options:
+        - Not sure
+        - ue-pak (Unreal .pak)
+        - bethesda (Creation Engine — esp/esl/bsa)
+        - bepinex (Unity — BepInEx)
+        - melonloader (Unity — MelonLoader)
+        - smapi (Stardew)
+        - source (Source engine — vpk)
+        - fromsoft (Souls / Mod Engine)
+        - minecraft (jar mods)
+        - custom / other
+    validations:
+      required: true
+  - type: input
+    id: nexus
+    attributes:
+      label: Nexus Mods page (if it has one)
+      placeholder: "https://www.nexusmods.com/games/baldursgate3"
+  - type: textarea
+    id: notes
+    attributes:
+      label: Anything else
+      description: Mod folder location, anti-cheat / online notes, links to popular mods — whatever helps.
