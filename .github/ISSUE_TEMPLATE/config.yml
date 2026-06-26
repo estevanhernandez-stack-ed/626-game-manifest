@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: How games get added (CONTRIBUTING)
+    url: https://github.com/estevanhernandez-stack-ed/626-game-manifest/blob/main/CONTRIBUTING.md
+    about: The facts-only override format + the two paths to "supported." Open a data PR to add a game yourself.
