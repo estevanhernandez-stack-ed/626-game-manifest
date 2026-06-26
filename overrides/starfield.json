@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1716740",
+  "id": "starfield",
+  "name": "Starfield",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "nexusDomain": "starfield",
+  "fileExtensions": [
+    "esm",
+    "esp",
+    "esl",
+    "ba2"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "2670630",
+  "id": "supermarket-simulator",
+  "name": "Supermarket Simulator",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "supermarketsimulator",
+  "fileExtensions": [
+    "dll"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1245620",
+  "id": "elden-ring",
+  "name": "Elden Ring",
+  "engine": "fromsoft",
+  "modPath": "mods",
+  "nexusDomain": "eldenring",
+  "banRisk": "high",
+  "fileExtensions": [
+    "dll",
+    "sl2",
+    "bin"
+  ]
+}

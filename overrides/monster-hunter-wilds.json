@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2246340",
+  "id": "monster-hunter-wilds",
+  "name": "Monster Hunter Wilds",
+  "engine": "custom",
+  "modPath": "reframework/autorun",
+  "nexusDomain": "monsterhunterwilds",
+  "banRisk": "high",
+  "fileExtensions": [
+    "lua",
+    "pak",
+    "dll"
+  ]
+}

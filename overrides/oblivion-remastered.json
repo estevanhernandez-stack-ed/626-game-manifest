@@ -1,0 +1,17 @@
+{
+  "steamAppId": "2623190",
+  "id": "oblivion-remastered",
+  "name": "The Elder Scrolls IV: Oblivion Remastered",
+  "engine": "ue-pak",
+  "modPath": "OblivionRemastered/Content/Paks/~mods",
+  "nexusDomain": "oblivionremastered",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc",
+    "esp",
+    "esm",
+    "dll",
+    "lua"
+  ]
+}

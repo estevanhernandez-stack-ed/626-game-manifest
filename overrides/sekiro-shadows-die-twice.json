@@ -1,0 +1,15 @@
+{
+  "steamAppId": "814380",
+  "id": "sekiro-shadows-die-twice",
+  "name": "Sekiro: Shadows Die Twice",
+  "engine": "fromsoft",
+  "modPath": "mods",
+  "nexusDomain": "sekiro",
+  "banRisk": "low",
+  "fileExtensions": [
+    "dcx",
+    "bnd",
+    "sl2",
+    "dll"
+  ]
+}

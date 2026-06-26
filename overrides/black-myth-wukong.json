@@ -1,0 +1,13 @@
+{
+  "steamAppId": "2358720",
+  "id": "black-myth-wukong",
+  "name": "Black Myth: Wukong",
+  "engine": "ue-pak",
+  "modPath": "b1/Content/Paks/~mods",
+  "nexusDomain": "blackmythwukong",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ]
+}

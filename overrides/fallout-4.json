@@ -1,0 +1,14 @@
+{
+  "steamAppId": "377160",
+  "id": "fallout-4",
+  "name": "Fallout 4",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "nexusDomain": "fallout4",
+  "fileExtensions": [
+    "esp",
+    "esm",
+    "esl",
+    "ba2"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "steamAppId": "1966720",
+  "id": "lethal-company",
+  "name": "Lethal Company",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "lethalcompany",
+  "banRisk": "low",
+  "fileExtensions": [
+    "dll"
+  ]
+}

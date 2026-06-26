@@ -1,0 +1,12 @@
+{
+  "steamAppId": "3241660",
+  "id": "repo",
+  "name": "R.E.P.O.",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "repo",
+  "banRisk": "low",
+  "fileExtensions": [
+    "dll"
+  ]
+}

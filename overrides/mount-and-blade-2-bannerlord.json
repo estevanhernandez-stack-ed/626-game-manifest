@@ -1,0 +1,14 @@
+{
+  "steamAppId": "261550",
+  "id": "mount-and-blade-2-bannerlord",
+  "name": "Mount & Blade II: Bannerlord",
+  "engine": "custom",
+  "modPath": "Modules",
+  "nexusDomain": "mountandblade2bannerlord",
+  "banRisk": "low",
+  "fileExtensions": [
+    "xml",
+    "dll",
+    "tpac"
+  ]
+}

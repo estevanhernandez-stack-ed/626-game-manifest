@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1643320",
+  "id": "stalker-2-heart-of-chornobyl",
+  "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+  "engine": "ue-pak",
+  "modPath": "Stalker2/Content/Paks/~mods",
+  "nexusDomain": "stalker2heartofchornobyl",
+  "fileExtensions": [
+    "pak",
+    "utoc",
+    "ucas",
+    "lua"
+  ]
+}
