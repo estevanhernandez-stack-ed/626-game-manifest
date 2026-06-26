@@ -1,0 +1,13 @@
+{
+  "steamAppId": "2868840",
+  "id": "slay-the-spire-2",
+  "name": "Slay the Spire 2",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "slaythespire2",
+  "fileExtensions": [
+    ".pck",
+    ".dll",
+    ".json"
+  ]
+}

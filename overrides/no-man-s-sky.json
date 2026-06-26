@@ -1,0 +1,11 @@
+{
+  "steamAppId": "275850",
+  "id": "no-man-s-sky",
+  "name": "No Man's Sky",
+  "engine": "custom",
+  "modPath": "GAMEDATA/PCBANKS/MODS",
+  "nexusDomain": "nomanssky",
+  "fileExtensions": [
+    "pak"
+  ]
+}

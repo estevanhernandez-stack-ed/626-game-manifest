@@ -1,0 +1,14 @@
+{
+  "steamAppId": "250900",
+  "id": "the-binding-of-isaac-rebirth",
+  "name": "The Binding of Isaac: Rebirth",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "thebindingofisaacrebirth",
+  "fileExtensions": [
+    "lua",
+    "xml",
+    "png",
+    "anm2"
+  ]
+}

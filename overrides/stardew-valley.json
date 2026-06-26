@@ -1,0 +1,13 @@
+{
+  "steamAppId": "413150",
+  "id": "stardew-valley",
+  "name": "Stardew Valley",
+  "engine": "smapi",
+  "modPath": "Mods",
+  "nexusDomain": "stardewvalley",
+  "fileExtensions": [
+    ".dll",
+    ".json",
+    ".png"
+  ]
+}

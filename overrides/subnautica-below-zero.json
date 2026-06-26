@@ -1,0 +1,11 @@
+{
+  "steamAppId": "848450",
+  "id": "subnautica-below-zero",
+  "name": "Subnautica: Below Zero",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "subnauticabelowzero",
+  "fileExtensions": [
+    ".dll"
+  ]
+}

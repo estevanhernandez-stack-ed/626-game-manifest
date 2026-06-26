@@ -1,0 +1,9 @@
+{
+  "steamAppId": "335300",
+  "id": "dark-souls-ii-scholar-of-the-first-sin",
+  "name": "Dark Souls II: Scholar of the First Sin",
+  "engine": "fromsoft",
+  "modPath": "mod",
+  "nexusDomain": "darksouls2",
+  "banRisk": "medium"
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "3164500",
+  "id": "schedule-i",
+  "name": "Schedule I",
+  "engine": "melonloader",
+  "modPath": "Mods",
+  "nexusDomain": "schedule1",
+  "fileExtensions": [
+    "dll"
+  ]
+}

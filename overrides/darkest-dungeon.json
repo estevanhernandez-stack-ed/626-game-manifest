@@ -1,0 +1,14 @@
+{
+  "steamAppId": "262060",
+  "id": "darkest-dungeon",
+  "name": "Darkest Dungeon",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "darkestdungeon",
+  "fileExtensions": [
+    ".darkest",
+    ".xml",
+    ".json",
+    ".png"
+  ]
+}

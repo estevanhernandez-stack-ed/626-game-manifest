@@ -1,0 +1,14 @@
+{
+  "steamAppId": "220200",
+  "id": "kerbal-space-program",
+  "name": "Kerbal Space Program",
+  "engine": "custom",
+  "modPath": "GameData",
+  "nexusDomain": "kerbalspaceprogram",
+  "fileExtensions": [
+    "cfg",
+    "dll",
+    "mu",
+    "craft"
+  ]
+}

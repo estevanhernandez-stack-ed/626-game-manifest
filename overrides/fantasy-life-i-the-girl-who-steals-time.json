@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2993780",
+  "id": "fantasy-life-i-the-girl-who-steals-time",
+  "name": "Fantasy Life i: The Girl Who Steals Time",
+  "engine": "ue-pak",
+  "modPath": "Game/Content/Paks/~mods",
+  "nexusDomain": "fantasylifeithegirlwhostealstime",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "steamAppId": "20900",
+  "id": "the-witcher",
+  "name": "The Witcher",
+  "engine": "custom",
+  "modPath": "Data/Override",
+  "nexusDomain": "witcher",
+  "fileExtensions": [
+    "2da",
+    "ncs",
+    "nss",
+    "dlg",
+    "mod",
+    "txi"
+  ]
+}

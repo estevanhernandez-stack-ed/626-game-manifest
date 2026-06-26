@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2131650",
+  "id": "metal-gear-solid-3-snake-eater-master-collection-version",
+  "name": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
+  "engine": "custom",
+  "modPath": "textures/flatlist/ovr_stm/_win",
+  "nexusDomain": "metalgearsolid3mc",
+  "fileExtensions": [
+    "asi",
+    "dll",
+    "ctxr",
+    "dds"
+  ]
+}

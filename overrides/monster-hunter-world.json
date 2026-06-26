@@ -1,0 +1,16 @@
+{
+  "steamAppId": "582010",
+  "id": "monster-hunter-world",
+  "name": "Monster Hunter: World",
+  "engine": "custom",
+  "modPath": "NativePC",
+  "nexusDomain": "monsterhunterworld",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pkg",
+    "bin",
+    "tex",
+    "mod3",
+    "mrl3"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "steamAppId": "2100",
+  "id": "dark-messiah-of-might-and-magic",
+  "name": "Dark Messiah of Might and Magic",
+  "engine": "source",
+  "modPath": "custom",
+  "nexusDomain": "darkmessiahofmightandmagic",
+  "fileExtensions": [
+    "vpk",
+    "bsp",
+    "vtf",
+    "vmt",
+    "mdl"
+  ]
+}

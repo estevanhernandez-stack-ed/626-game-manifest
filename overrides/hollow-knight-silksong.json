@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1030300",
+  "id": "hollow-knight-silksong",
+  "name": "Hollow Knight: Silksong",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "hollowknightsilksong",
+  "fileExtensions": [
+    ".dll"
+  ]
+}

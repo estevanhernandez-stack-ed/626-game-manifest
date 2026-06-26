@@ -1,0 +1,13 @@
+{
+  "steamAppId": "230230",
+  "id": "divinity-original-sin",
+  "name": "Divinity: Original Sin",
+  "engine": "custom",
+  "modPath": "Data/Mods",
+  "nexusDomain": "divinityoriginalsin",
+  "fileExtensions": [
+    "pak",
+    "lsx",
+    "lsb"
+  ]
+}

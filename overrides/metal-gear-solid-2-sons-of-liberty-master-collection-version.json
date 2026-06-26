@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2131640",
+  "id": "metal-gear-solid-2-sons-of-liberty-master-collection-version",
+  "name": "Metal Gear Solid 2: Sons of Liberty - Master Collection Version",
+  "engine": "custom",
+  "modPath": "textures/flatlist/_win",
+  "nexusDomain": "metalgearsolid2mc",
+  "fileExtensions": [
+    "ctxr",
+    "png",
+    "asi",
+    "ini"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "steamAppId": "1771300",
+  "id": "kingdom-come-deliverance-ii",
+  "name": "Kingdom Come: Deliverance II",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "kingdomcomedeliverance2",
+  "fileExtensions": [
+    ".pak",
+    ".manifest",
+    ".cfg"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1462040",
+  "id": "final-fantasy-vii-remake-intergrade",
+  "name": "Final Fantasy VII Remake Intergrade",
+  "engine": "ue-pak",
+  "modPath": "End/Content/Paks/~mods",
+  "nexusDomain": "finalfantasy7remake",
+  "fileExtensions": [
+    ".pak"
+  ]
+}
