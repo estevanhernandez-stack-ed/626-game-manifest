@@ -9,5 +9,6 @@
     ".dll",
     ".json",
     ".png"
-  ]
+  ],
+  "featured": 6
 }

@@ -8,5 +8,6 @@
   "banRisk": "low",
   "fileExtensions": [
     "dll"
-  ]
+  ],
+  "featured": 16
 }
