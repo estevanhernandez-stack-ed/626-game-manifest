@@ -328,7 +328,7 @@
         "rar"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 4,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -336,7 +336,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -803,14 +804,15 @@
         "bin"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 3,
       "banRisk": "high",
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -870,14 +872,15 @@
         "ba2"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 2,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -898,13 +901,14 @@
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FalloutNV/*.ini",
       "fileExtensions": null,
       "groupingRule": null,
-      "featured": null,
+      "featured": 9,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
-          "known-engines"
+          "known-engines",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1092,14 +1096,15 @@
         "utoc"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 14,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1283,14 +1288,15 @@
         "dll"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 16,
       "banRisk": "low",
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1505,7 +1511,7 @@
         "mrl3"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 10,
       "banRisk": "medium",
       "provenance": {
         "sources": [
@@ -1513,7 +1519,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1596,7 +1603,7 @@
         "pak"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 15,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -1604,7 +1611,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1661,14 +1669,15 @@
         "lua"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 18,
       "banRisk": "medium",
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -1878,14 +1887,15 @@
         ".png"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 17,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2197,7 +2207,7 @@
         ".png"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 6,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -2205,7 +2215,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2231,14 +2242,15 @@
         "ba2"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 7,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2294,7 +2306,7 @@
         ".zip"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 11,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -2302,7 +2314,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2477,13 +2490,14 @@
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion",
       "fileExtensions": null,
       "groupingRule": null,
-      "featured": null,
+      "featured": 13,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
-          "known-engines"
+          "known-engines",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2541,13 +2555,14 @@
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim",
       "fileExtensions": null,
       "groupingRule": null,
-      "featured": null,
+      "featured": 8,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
-          "known-engines"
+          "known-engines",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2574,14 +2589,15 @@
         "dll"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 1,
       "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2707,7 +2723,7 @@
         "xml"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 5,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -2715,7 +2731,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
@@ -2854,7 +2871,7 @@
         "cfg"
       ],
       "groupingRule": null,
-      "featured": null,
+      "featured": 12,
       "banRisk": null,
       "provenance": {
         "sources": [
@@ -2862,7 +2879,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "popular-games"
         ],
         "status": "curated"
       }
