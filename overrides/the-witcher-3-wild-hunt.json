@@ -9,5 +9,6 @@
     "bundle",
     "ws",
     "xml"
-  ]
+  ],
+  "featured": 5
 }

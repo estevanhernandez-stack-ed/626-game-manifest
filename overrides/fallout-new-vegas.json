@@ -1,1 +1,8 @@
-{ "steamAppId": "22380", "id": "fallout-new-vegas", "name": "Fallout: New Vegas", "engine": "bethesda", "modPath": "Data" }
+{
+  "steamAppId": "22380",
+  "id": "fallout-new-vegas",
+  "name": "Fallout: New Vegas",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "featured": 9
+}
