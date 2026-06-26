@@ -37,6 +37,71 @@
       }
     },
     {
+      "id": "abiotic-factor",
+      "name": "Abiotic Factor",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "427410",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "abioticfactor",
+      "curseforgeGameId": null,
+      "modPath": "AbioticFactor/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/AbioticFactor/Saved/Config/WinGDK",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "armored-core-vi-fires-of-rubicon",
+      "name": "Armored Core VI: Fires of Rubicon",
+      "engine": "fromsoft",
+      "stores": {
+        "steamAppId": "1888160",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "armoredcore6firesofrubicon",
+      "curseforgeGameId": null,
+      "modPath": "mod",
+      "saveDirHint": "\u003CwinAppData\u003E/ArmoredCore6/\u003CstoreUserId\u003E/AC60000.sl2",
+      "fileExtensions": [
+        ".dcx",
+        ".bnd",
+        ".partsbnd",
+        ".toml"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "baldur-s-gate-3",
       "name": "Baldur\u0027s Gate 3",
       "engine": null,
@@ -123,6 +188,63 @@
       }
     },
     {
+      "id": "cities-skylines",
+      "name": "Cities: Skylines",
+      "engine": null,
+      "stores": {
+        "steamAppId": "255710",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "citiesskylines",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Colossal Order/Cities_Skylines/Saves",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "cities-skylines-ii",
+      "name": "Cities: Skylines II",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "949230",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "citiesskylines2",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Colossal Order/Cities Skylines II",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "content-warning",
       "name": "Content Warning",
       "engine": "bepinex",
@@ -145,6 +267,36 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "cult-of-the-lamb",
+      "name": "Cult of the Lamb",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1313140",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "cultofthelamb",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Massive Monster/Cult Of The Lamb/saves/meta_*.json",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -452,6 +604,126 @@
       }
     },
     {
+      "id": "divinity-original-sin-ii",
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "435150",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "divinityoriginalsin2definitiveedition",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin 2",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "dragon-age-origins",
+      "name": "Dragon Age: Origins - Ultimate Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "47810",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dragonage",
+      "curseforgeGameId": null,
+      "modPath": "%DOCUMENTS%\\BioWare\\Dragon Age\\packages\\core\\override",
+      "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age/Characters",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "dragon-s-dogma-ii",
+      "name": "Dragon\u0027s Dogma 2",
+      "engine": null,
+      "stores": {
+        "steamAppId": "2054970",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dragonsdogma2",
+      "curseforgeGameId": null,
+      "modPath": "natives",
+      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "fileExtensions": [
+        "pak",
+        "dll",
+        "lua",
+        "tex",
+        "mesh"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "dragon-s-dogma-dark-arisen",
+      "name": "Dragon\u0027s Dogma: Dark Arisen",
+      "engine": null,
+      "stores": {
+        "steamAppId": "367500",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dragonsdogma",
+      "curseforgeGameId": null,
+      "modPath": "nativePC",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/367500/remote",
+      "fileExtensions": [
+        "arc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "dungeon-siege",
       "name": "Dungeon Siege",
       "engine": "custom",
@@ -533,6 +805,40 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "enderal-forgotten-stories-special-edition",
+      "name": "Enderal: Forgotten Stories (Special Edition)",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "976620",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "enderalspecialedition",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Enderal Special Edition/Saves",
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "esl",
+        "bsa",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -697,6 +1003,38 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "grand-theft-auto-v",
+      "name": "Grand Theft Auto V (Legacy, single-player)",
+      "engine": null,
+      "stores": {
+        "steamAppId": "271590",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "gta5",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/GTA V/Profiles/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        "asi",
+        "dll",
+        "rpf",
+        "oiv"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -898,6 +1236,36 @@
       }
     },
     {
+      "id": "left-4-dead-2",
+      "name": "Left 4 Dead 2",
+      "engine": "source",
+      "stores": {
+        "steamAppId": "550",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "left4dead2",
+      "curseforgeGameId": null,
+      "modPath": "left4dead2/addons",
+      "saveDirHint": "\u003Cbase\u003E/left4dead2/cfg/config.cfg",
+      "fileExtensions": [
+        "vpk"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "lethal-company",
       "name": "Lethal Company",
       "engine": "bepinex",
@@ -917,6 +1285,38 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "lies-of-p",
+      "name": "Lies of P",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1627720",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "liesofp",
+      "curseforgeGameId": null,
+      "modPath": "LiesofP/Content/Paks/~mods",
+      "saveDirHint": "\u003Cbase\u003E/LiesofP/Saved/Config/WindowsNoEditor",
+      "fileExtensions": [
+        "pak",
+        "utoc",
+        "ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
       "provenance": {
         "sources": [
           "ludusavi",
@@ -950,6 +1350,34 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "mass-effect-legendary-edition",
+      "name": "Mass Effect Legendary Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1328670",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "masseffectlegendaryedition",
+      "curseforgeGameId": null,
+      "modPath": "%GAME_PATH%",
+      "saveDirHint": "\u003Cbase\u003E/Game/ME1/BioGame/Config",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -1182,6 +1610,37 @@
       }
     },
     {
+      "id": "outer-wilds",
+      "name": "Outer Wilds",
+      "engine": null,
+      "stores": {
+        "steamAppId": "753640",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "outerwilds",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Mobius Digital/Outer Wilds/Saves",
+      "fileExtensions": [
+        "zip",
+        "dll",
+        "json"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "palworld",
       "name": "Palworld",
       "engine": "ue-pak",
@@ -1209,6 +1668,64 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "pathfinder-kingmaker",
+      "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "640820",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "pathfinderkingmaker",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Owlcat Games/Pathfinder Kingmaker/Saved Games",
+      "fileExtensions": [
+        ".dll",
+        ".json",
+        ".zip"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "pathfinder-wrath-of-the-righteous",
+      "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1184370",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "pathfinderwrathoftherighteous",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -1270,6 +1787,70 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "red-dead-redemption-2",
+      "name": "Red Dead Redemption 2",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1174180",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "reddeadredemption2",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/Red Dead Redemption 2/Profiles/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        "asi",
+        "ini",
+        "xml",
+        "rpf"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "remnant-ii",
+      "name": "Remnant II",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1282100",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "remnant2",
+      "curseforgeGameId": null,
+      "modPath": "Remnant2/Content/Paks/~mods",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Remnant2/Steam/\u003CstoreUserId\u003E",
+      "fileExtensions": [
+        ".pak",
+        ".utoc",
+        ".ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -1373,6 +1954,36 @@
       }
     },
     {
+      "id": "satisfactory",
+      "name": "Satisfactory",
+      "engine": null,
+      "stores": {
+        "steamAppId": "526870",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "satisfactory",
+      "curseforgeGameId": null,
+      "modPath": "FactoryGame/Mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/FactoryGame/Saved/Config/Windows",
+      "fileExtensions": [
+        "uplugin",
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "schedule-i",
       "name": "Schedule I",
       "engine": "melonloader",
@@ -1465,6 +2076,65 @@
           "mo2",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "slime-rancher-2",
+      "name": "Slime Rancher 2",
+      "engine": "melonloader",
+      "stores": {
+        "steamAppId": "1657630",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "slimerancher2",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/MonomiPark/SlimeRancher2",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "sons-of-the-forest",
+      "name": "Sons of the Forest",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1326470",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "sonsoftheforest",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Endnight/SonsOfTheForest/Saves",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -1917,6 +2587,71 @@
       }
     },
     {
+      "id": "the-elder-scrolls-v-skyrim-vr",
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "611670",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "skyrimspecialedition",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim VR",
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "esl",
+        "bsa",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "the-sims-4",
+      "name": "The Sims 4",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1222670",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "thesims4",
+      "curseforgeGameId": null,
+      "modPath": "%DOCUMENTS%/Electronic Arts/The Sims 4/Mods",
+      "saveDirHint": "\u003Chome\u003E/Documents/Electronic Arts/The Sims 4/Options.ini",
+      "fileExtensions": [
+        ".package",
+        ".ts4script"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "the-witcher",
       "name": "The Witcher",
       "engine": "custom",
@@ -1986,6 +2721,64 @@
       }
     },
     {
+      "id": "total-war-three-kingdoms",
+      "name": "Total War: THREE KINGDOMS",
+      "engine": null,
+      "stores": {
+        "steamAppId": "779340",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "totalwarthreekingdoms",
+      "curseforgeGameId": null,
+      "modPath": "data",
+      "saveDirHint": "\u003Chome\u003E/.local/share/feral-interactive/Three Kingdoms/VFS/User/AppData/Roaming/The Creative Assembly/ThreeKingdoms/save_games",
+      "fileExtensions": [
+        "pack"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "total-war-warhammer-iii",
+      "name": "Total War: WARHAMMER III",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1142710",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "totalwarwarhammer3",
+      "curseforgeGameId": null,
+      "modPath": "data",
+      "saveDirHint": "\u003Chome\u003E/.local/share/feral-interactive/Total War WARHAMMER III/SaveData/Steam Saves($SteamID)/local/Warhamme3/save_games",
+      "fileExtensions": [
+        ".pack"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "trackmania-united-forever",
       "name": "TrackMania United Forever",
       "engine": null,
@@ -2013,6 +2806,36 @@
       }
     },
     {
+      "id": "v-rising",
+      "name": "V Rising",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1604030",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "vrising",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Stunlock Studios/VRising/CloudSaves",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "valheim",
       "name": "Valheim",
       "engine": "bepinex",
@@ -2037,6 +2860,36 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "vampire-survivors",
+      "name": "Vampire Survivors",
+      "engine": "melonloader",
+      "stores": {
+        "steamAppId": "1794680",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "vampiresurvivors",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1794680/remote/SaveData",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -2109,6 +2962,37 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "fallout-3-game-of-the-year-edition",
+      "name": "Fallout 3 - Game of the Year Edition",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "22370",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "fallout3",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": null,
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "bsa"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     }
   ]
