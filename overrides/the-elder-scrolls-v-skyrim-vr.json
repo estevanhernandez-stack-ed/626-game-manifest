@@ -1,0 +1,15 @@
+{
+  "steamAppId": "611670",
+  "id": "the-elder-scrolls-v-skyrim-vr",
+  "name": "The Elder Scrolls V: Skyrim VR",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "nexusDomain": "skyrimspecialedition",
+  "fileExtensions": [
+    "esp",
+    "esm",
+    "esl",
+    "bsa",
+    "dll"
+  ]
+}

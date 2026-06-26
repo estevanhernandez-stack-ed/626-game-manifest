@@ -1,0 +1,11 @@
+{
+  "steamAppId": "753640",
+  "id": "outer-wilds",
+  "name": "Outer Wilds",
+  "nexusDomain": "outerwilds",
+  "fileExtensions": [
+    "zip",
+    "dll",
+    "json"
+  ]
+}

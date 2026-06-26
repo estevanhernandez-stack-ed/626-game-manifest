@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1888160",
+  "id": "armored-core-vi-fires-of-rubicon",
+  "name": "Armored Core VI: Fires of Rubicon",
+  "engine": "fromsoft",
+  "modPath": "mod",
+  "nexusDomain": "armoredcore6firesofrubicon",
+  "fileExtensions": [
+    ".dcx",
+    ".bnd",
+    ".partsbnd",
+    ".toml"
+  ]
+}

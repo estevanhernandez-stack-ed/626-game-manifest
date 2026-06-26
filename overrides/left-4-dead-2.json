@@ -1,0 +1,12 @@
+{
+  "steamAppId": "550",
+  "id": "left-4-dead-2",
+  "name": "Left 4 Dead 2",
+  "engine": "source",
+  "modPath": "left4dead2/addons",
+  "nexusDomain": "left4dead2",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "vpk"
+  ]
+}

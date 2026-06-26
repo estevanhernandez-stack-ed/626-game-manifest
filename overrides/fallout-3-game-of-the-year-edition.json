@@ -1,0 +1,13 @@
+{
+  "steamAppId": "22370",
+  "id": "fallout-3-game-of-the-year-edition",
+  "name": "Fallout 3 - Game of the Year Edition",
+  "engine": "bethesda",
+  "modPath": "Data",
+  "nexusDomain": "fallout3",
+  "fileExtensions": [
+    "esp",
+    "esm",
+    "bsa"
+  ]
+}

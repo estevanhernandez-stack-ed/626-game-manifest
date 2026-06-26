@@ -1,0 +1,12 @@
+{
+  "steamAppId": "1794680",
+  "id": "vampire-survivors",
+  "name": "Vampire Survivors",
+  "engine": "melonloader",
+  "modPath": "Mods",
+  "nexusDomain": "vampiresurvivors",
+  "banRisk": "low",
+  "fileExtensions": [
+    "dll"
+  ]
+}

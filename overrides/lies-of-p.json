@@ -1,0 +1,13 @@
+{
+  "steamAppId": "1627720",
+  "id": "lies-of-p",
+  "name": "Lies of P",
+  "engine": "ue-pak",
+  "modPath": "LiesofP/Content/Paks/~mods",
+  "nexusDomain": "liesofp",
+  "fileExtensions": [
+    "pak",
+    "utoc",
+    "ucas"
+  ]
+}

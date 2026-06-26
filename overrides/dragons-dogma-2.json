@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2054970",
+  "id": "dragons-dogma-2",
+  "name": "Dragon's Dogma 2",
+  "modPath": "natives",
+  "nexusDomain": "dragonsdogma2",
+  "fileExtensions": [
+    "pak",
+    "dll",
+    "lua",
+    "tex",
+    "mesh"
+  ]
+}

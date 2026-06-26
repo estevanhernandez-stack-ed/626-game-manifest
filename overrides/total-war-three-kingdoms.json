@@ -1,0 +1,10 @@
+{
+  "steamAppId": "779340",
+  "id": "total-war-three-kingdoms",
+  "name": "Total War: THREE KINGDOMS",
+  "modPath": "data",
+  "nexusDomain": "totalwarthreekingdoms",
+  "fileExtensions": [
+    "pack"
+  ]
+}
