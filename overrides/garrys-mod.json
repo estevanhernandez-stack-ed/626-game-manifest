@@ -1,0 +1,17 @@
+{
+  "steamAppId": "4000",
+  "id": "garrys-mod",
+  "name": "Garry's Mod",
+  "engine": "source",
+  "modPath": "garrysmod/addons",
+  "nexusDomain": "garrysmod",
+  "banRisk": "low",
+  "fileExtensions": [
+    "lua",
+    "gma",
+    "vmt",
+    "vtf",
+    "mdl",
+    "bsp"
+  ]
+}

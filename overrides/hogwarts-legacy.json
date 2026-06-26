@@ -1,0 +1,13 @@
+{
+  "steamAppId": "990080",
+  "id": "hogwarts-legacy",
+  "name": "Hogwarts Legacy",
+  "engine": "ue-pak",
+  "modPath": "Phoenix/Content/Paks/~mods",
+  "nexusDomain": "hogwartslegacy",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ]
+}

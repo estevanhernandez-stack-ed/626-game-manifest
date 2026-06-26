@@ -1,0 +1,15 @@
+{
+  "steamAppId": "2881650",
+  "id": "content-warning",
+  "name": "Content Warning",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "contentwarning",
+  "banRisk": "low",
+  "fileExtensions": [
+    ".dll",
+    ".zip",
+    ".7z",
+    ".rar"
+  ]
+}

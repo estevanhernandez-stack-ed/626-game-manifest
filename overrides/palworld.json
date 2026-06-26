@@ -1,0 +1,15 @@
+{
+  "steamAppId": "1623730",
+  "id": "palworld",
+  "name": "Palworld",
+  "engine": "ue-pak",
+  "modPath": "Pal/Content/Paks/~mods",
+  "nexusDomain": "palworld",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc",
+    "lua"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "steamAppId": "374320",
+  "id": "dark-souls-iii",
+  "name": "Dark Souls III",
+  "engine": "fromsoft",
+  "modPath": "mod",
+  "nexusDomain": "darksouls3",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "dcx",
+    "bdt",
+    "bhd",
+    "sl2"
+  ]
+}

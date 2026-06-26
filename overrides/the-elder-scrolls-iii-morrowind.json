@@ -1,0 +1,13 @@
+{
+  "steamAppId": "22320",
+  "id": "the-elder-scrolls-iii-morrowind",
+  "name": "The Elder Scrolls III: Morrowind",
+  "engine": "bethesda",
+  "modPath": "Data Files",
+  "nexusDomain": "morrowind",
+  "fileExtensions": [
+    "esp",
+    "esm",
+    "bsa"
+  ]
+}

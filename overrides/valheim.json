@@ -1,0 +1,12 @@
+{
+  "steamAppId": "892970",
+  "id": "valheim",
+  "name": "Valheim",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "valheim",
+  "fileExtensions": [
+    "dll",
+    "cfg"
+  ]
+}

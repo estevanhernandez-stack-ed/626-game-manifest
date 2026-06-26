@@ -1,0 +1,13 @@
+{
+  "steamAppId": "292030",
+  "id": "the-witcher-3-wild-hunt",
+  "name": "The Witcher 3: Wild Hunt",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "witcher3",
+  "fileExtensions": [
+    "bundle",
+    "ws",
+    "xml"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "251570",
+  "id": "7-days-to-die",
+  "name": "7 Days to Die",
+  "modPath": "Mods",
+  "nexusDomain": "7daystodie",
+  "fileExtensions": [
+    "xml",
+    "dll"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "steamAppId": "294100",
+  "id": "rimworld",
+  "name": "RimWorld",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "rimworld",
+  "fileExtensions": [
+    ".xml",
+    ".dll",
+    ".png"
+  ]
+}

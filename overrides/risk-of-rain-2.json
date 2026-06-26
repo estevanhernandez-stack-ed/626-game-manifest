@@ -1,0 +1,11 @@
+{
+  "steamAppId": "632360",
+  "id": "risk-of-rain-2",
+  "name": "Risk of Rain 2",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "riskofrain2",
+  "fileExtensions": [
+    "dll"
+  ]
+}

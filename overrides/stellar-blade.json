@@ -1,0 +1,13 @@
+{
+  "steamAppId": "3489700",
+  "id": "stellar-blade",
+  "name": "Stellar Blade",
+  "engine": "ue-pak",
+  "modPath": "Content/Paks/~mods",
+  "nexusDomain": "stellarblade",
+  "fileExtensions": [
+    ".pak",
+    ".utoc",
+    ".ucas"
+  ]
+}
