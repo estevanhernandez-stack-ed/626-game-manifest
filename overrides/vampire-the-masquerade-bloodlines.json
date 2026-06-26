@@ -1,0 +1,20 @@
+{
+  "steamAppId": "2600",
+  "id": "vampire-the-masquerade-bloodlines",
+  "name": "Vampire: The Masquerade - Bloodlines",
+  "engine": "source",
+  "modPath": "Vampire",
+  "nexusDomain": "vampirebloodlines",
+  "fileExtensions": [
+    "vpk",
+    "vmt",
+    "vtf",
+    "mdl",
+    "tth",
+    "ttz",
+    "py",
+    "pyc",
+    "vmf",
+    "tga"
+  ]
+}

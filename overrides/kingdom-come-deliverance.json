@@ -1,0 +1,13 @@
+{
+  "steamAppId": "379430",
+  "id": "kingdom-come-deliverance",
+  "name": "Kingdom Come: Deliverance",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "kingdomcomedeliverance",
+  "fileExtensions": [
+    "pak",
+    "manifest",
+    "cfg"
+  ]
+}

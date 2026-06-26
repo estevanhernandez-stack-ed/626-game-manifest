@@ -1,0 +1,12 @@
+{
+  "steamAppId": "264710",
+  "id": "subnautica",
+  "name": "Subnautica",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "subnautica",
+  "fileExtensions": [
+    ".dll",
+    ".zip"
+  ]
+}

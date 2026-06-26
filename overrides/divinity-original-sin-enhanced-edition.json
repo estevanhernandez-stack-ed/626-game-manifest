@@ -1,0 +1,11 @@
+{
+  "steamAppId": "373420",
+  "id": "divinity-original-sin-enhanced-edition",
+  "name": "Divinity: Original Sin - Enhanced Edition",
+  "engine": "custom",
+  "modPath": "Data/Mods",
+  "nexusDomain": "divinityoriginalsinenhancededition",
+  "fileExtensions": [
+    ".pak"
+  ]
+}

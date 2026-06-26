@@ -1,0 +1,13 @@
+{
+  "steamAppId": "2592160",
+  "id": "dispatch-2025",
+  "name": "Dispatch (2025)",
+  "engine": "ue-pak",
+  "modPath": "Dispatch/Content/Paks/~mods",
+  "nexusDomain": "dispatch",
+  "fileExtensions": [
+    ".pak",
+    ".ucas",
+    ".utoc"
+  ]
+}

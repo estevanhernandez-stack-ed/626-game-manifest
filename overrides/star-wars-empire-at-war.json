@@ -1,0 +1,17 @@
+{
+  "steamAppId": "32470",
+  "id": "star-wars-empire-at-war",
+  "name": "Star Wars: Empire at War",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "starwarsempireatwar",
+  "fileExtensions": [
+    "xml",
+    "meg",
+    "dat",
+    "lua",
+    "alo",
+    "ala",
+    "txt"
+  ]
+}

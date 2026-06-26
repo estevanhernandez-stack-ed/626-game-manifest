@@ -1,1 +1,14 @@
-{ "steamAppId": "553850", "id": "helldivers-2", "name": "Helldivers 2", "nexusDomain": "helldivers2", "banRisk": "high" }
+{
+  "steamAppId": "553850",
+  "id": "helldivers-2",
+  "name": "Helldivers 2",
+  "engine": "custom",
+  "modPath": "data",
+  "nexusDomain": "helldivers2",
+  "banRisk": "high",
+  "fileExtensions": [
+    ".patch_0",
+    ".gpu_resources",
+    ".stream"
+  ]
+}

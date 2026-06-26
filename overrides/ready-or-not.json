@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1144200",
+  "id": "ready-or-not",
+  "name": "Ready or Not",
+  "engine": "ue-pak",
+  "modPath": "ReadyOrNot/Content/Paks",
+  "nexusDomain": "readyornot",
+  "banRisk": "low",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ]
+}
