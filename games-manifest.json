@@ -37,6 +37,38 @@
       }
     },
     {
+      "id": "ark-survival-ascended",
+      "name": "ARK: Survival Ascended",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2399830",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "asksurvivalevolved",
+      "curseforgeGameId": null,
+      "modPath": "ShooterGame/Binaries/Win64/ShooterGame/Mods",
+      "saveDirHint": "\u003Cbase\u003E/ShooterGame/Saved/Config",
+      "fileExtensions": [
+        "pak",
+        "utoc",
+        "ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "abiotic-factor",
       "name": "Abiotic Factor",
       "engine": "ue-pak",
@@ -63,6 +95,33 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "age-of-empires-ii-definitive-edition",
+      "name": "Age of Empires II: Definitive Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "813780",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "ageofempires2definitiveedition",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Games/Age of Empires 2 DE/\u003CstoreUserId\u003E/modes/Pompeii/savegame",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -102,6 +161,35 @@
       }
     },
     {
+      "id": "astroneer",
+      "name": "Astroneer",
+      "engine": null,
+      "stores": {
+        "steamAppId": "361420",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "astroneer",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Astro/Saved/Config/WinGDK",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "baldur-s-gate-3",
       "name": "Baldur\u0027s Gate 3",
       "engine": null,
@@ -115,7 +203,9 @@
       "curseforgeGameId": null,
       "modPath": null,
       "saveDirHint": "\u003Chome\u003E/Documents/Larian Studios/Baldur\u0027s Gate 3/PlayerProfiles",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "pak"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -123,9 +213,10 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
           "nexus-domains"
         ],
-        "status": "auto"
+        "status": "curated"
       }
     },
     {
@@ -188,6 +279,67 @@
       }
     },
     {
+      "id": "borderlands-3",
+      "name": "Borderlands 3",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "397540",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "borderlands3",
+      "curseforgeGameId": null,
+      "modPath": "OakGame/Content/Paks/~mods",
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/GearboxSoftware/OakGame/Saved/SaveGames",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "chivalry-2",
+      "name": "Chivalry 2",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1824220",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "chivalry2",
+      "curseforgeGameId": null,
+      "modPath": "TBL/Content/Paks",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Chivalry 2/Saved/Config/WinGDK",
+      "fileExtensions": [
+        "pak",
+        "sig"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "cities-skylines",
       "name": "Cities: Skylines",
       "engine": null,
@@ -245,6 +397,36 @@
       }
     },
     {
+      "id": "code-vein",
+      "name": "CODE VEIN",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "678960",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "codevein",
+      "curseforgeGameId": null,
+      "modPath": "CodeVein/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/CodeVein/Saved/Config/WindowsNoEditor",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "content-warning",
       "name": "Content Warning",
       "engine": "bepinex",
@@ -278,6 +460,64 @@
       }
     },
     {
+      "id": "crusader-kings-ii",
+      "name": "Crusader Kings II",
+      "engine": null,
+      "stores": {
+        "steamAppId": "203770",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "crusaderkings2",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.paradoxinteractive/Crusader Kings II",
+      "fileExtensions": [
+        "mod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "crusader-kings-iii",
+      "name": "Crusader Kings III",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1158310",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "crusaderkings3",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.local/share/Paradox Interactive/Crusader Kings III",
+      "fileExtensions": [
+        "mod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "cult-of-the-lamb",
       "name": "Cult of the Lamb",
       "engine": "bepinex",
@@ -291,6 +531,36 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Massive Monster/Cult Of The Lamb/saves/meta_*.json",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "cuphead",
+      "name": "Cuphead",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "268910",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "cuphead",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Studio MDHR/Cuphead",
       "fileExtensions": [
         "dll"
       ],
@@ -508,6 +778,36 @@
       }
     },
     {
+      "id": "deep-rock-galactic",
+      "name": "Deep Rock Galactic",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "548430",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "deeprockgalactic",
+      "curseforgeGameId": null,
+      "modPath": "FSD/Content/Paks",
+      "saveDirHint": "\u003Cbase\u003E/FSD/Saved/Config/WinGDK/*.ini",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "dispatch-2025",
       "name": "Dispatch (2025)",
       "engine": "ue-pak",
@@ -624,6 +924,95 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "don-t-starve-together",
+      "name": "Don\u0027t Starve Together",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "322330",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dontstarvetogether",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003Chome\u003E/.klei/DoNotStarveTogether/\u003CstoreUserId\u003E",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "dragon-age-ii",
+      "name": "Dragon Age II",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1238040",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dragonage2",
+      "curseforgeGameId": null,
+      "modPath": "%DOCUMENTS%\\BioWare\\Dragon Age 2\\packages\\core\\override",
+      "saveDirHint": "\u003Chome\u003E/Documents/BioWare/Dragon Age 2/Characters",
+      "fileExtensions": [
+        "erf",
+        "gda"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "dragon-age-inquisition",
+      "name": "Dragon Age: Inquisition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1222690",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dragonageinquisition",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age Inquisition/Save",
+      "fileExtensions": [
+        "daimod",
+        "fbmod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
       "provenance": {
         "sources": [
           "ludusavi",
@@ -785,6 +1174,36 @@
       }
     },
     {
+      "id": "dyson-sphere-program",
+      "name": "Dyson Sphere Program",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1366540",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "dysonsphereprogram",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003CwinDocuments\u003E/Dyson Sphere Program",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "elden-ring",
       "name": "Elden Ring",
       "engine": "fromsoft",
@@ -846,6 +1265,62 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "europa-universalis-iv",
+      "name": "Europa Universalis IV",
+      "engine": null,
+      "stores": {
+        "steamAppId": "236850",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "europauniversalisiv",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Documents/Paradox Interactive/Europa Universalis IV",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "factorio",
+      "name": "Factorio",
+      "engine": null,
+      "stores": {
+        "steamAppId": "427520",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "factorio",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Cbase\u003E/game/blueprint-storage.dat",
+      "fileExtensions": [
+        "zip"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -947,6 +1422,64 @@
       }
     },
     {
+      "id": "farming-simulator-22",
+      "name": "Farming Simulator 22",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1248130",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "farmingsimulator22",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2022/game.xml",
+      "fileExtensions": [
+        "zip"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "farming-simulator-25",
+      "name": "Farming Simulator 25",
+      "engine": null,
+      "stores": {
+        "steamAppId": "2300320",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "farmingsimulator25",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2025/game.xml",
+      "fileExtensions": [
+        "zip"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "final-fantasy-vii-remake-intergrade",
       "name": "Final Fantasy VII Remake Intergrade",
       "engine": "ue-pak",
@@ -970,6 +1503,36 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "frostpunk-2",
+      "name": "Frostpunk 2",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1601580",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "frostpunk2",
+      "curseforgeGameId": null,
+      "modPath": "Frostpunk2/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/11bitstudios/Frostpunk2/GOG/Saved/Config/Windows",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -1013,6 +1576,33 @@
       }
     },
     {
+      "id": "grand-theft-auto-iv",
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "12210",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "gta4",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/GTA IV/Profiles/\u003CstoreUserId\u003E",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "grand-theft-auto-v",
       "name": "Grand Theft Auto V (Legacy, single-player)",
       "engine": null,
@@ -1032,6 +1622,94 @@
         "rpf",
         "oiv"
       ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "green-hell",
+      "name": "Green Hell",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "815370",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "greenhell",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/815370/remote",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "grounded",
+      "name": "Grounded",
+      "engine": null,
+      "stores": {
+        "steamAppId": "962130",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "grounded",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Grounded",
+      "fileExtensions": [
+        "pak",
+        "utoc",
+        "ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "hearts-of-iron-iv",
+      "name": "Hearts of Iron IV",
+      "engine": null,
+      "stores": {
+        "steamAppId": "394360",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "heartsofironiv",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Paradox Interactive/Hearts of Iron IV",
+      "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -1110,6 +1788,36 @@
       }
     },
     {
+      "id": "hollow-knight",
+      "name": "Hollow Knight",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "367520",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "hollowknight",
+      "curseforgeGameId": null,
+      "modPath": "hollow_knight_Data/Managed/Mods",
+      "saveDirHint": "\u003Cbase\u003E/hollow_knight_Data/Config.ini",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "hollow-knight-silksong",
       "name": "Hollow Knight: Silksong",
       "engine": "bepinex",
@@ -1133,6 +1841,67 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "inscryption",
+      "name": "Inscryption",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1092790",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "inscryption",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Cbase\u003E/Inscryption.App/SaveFile.gwsave",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "jurassic-world-evolution-2",
+      "name": "Jurassic World Evolution 2",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "1244460",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "jurassicworldevolution2",
+      "curseforgeGameId": null,
+      "modPath": "Win64/ovldata",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Jurassic World Evolution 2",
+      "fileExtensions": [
+        "ovl",
+        "ovs"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -1458,6 +2227,39 @@
       }
     },
     {
+      "id": "monster-hunter-rise",
+      "name": "Monster Hunter Rise",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "1446780",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "monsterhunterrise",
+      "curseforgeGameId": null,
+      "modPath": "natives/STM",
+      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "fileExtensions": [
+        "pak",
+        "lua",
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "monster-hunter-wilds",
       "name": "Monster Hunter Wilds",
       "engine": "custom",
@@ -1559,6 +2361,38 @@
       }
     },
     {
+      "id": "neverwinter-nights-enhanced-edition",
+      "name": "Neverwinter Nights: Enhanced Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "704450",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "neverwinter",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.local/share/Neverwinter Nights",
+      "fileExtensions": [
+        "hak",
+        "mod",
+        "erf",
+        "tlk"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "nier-automata",
       "name": "NieR: Automata",
       "engine": null,
@@ -1583,6 +2417,33 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "nioh-2-the-complete-edition",
+      "name": "Nioh 2 \u2013 The Complete Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1325200",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "nioh2",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/NIOH2",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -1649,6 +2510,35 @@
       }
     },
     {
+      "id": "oxygen-not-included",
+      "name": "Oxygen Not Included",
+      "engine": null,
+      "stores": {
+        "steamAppId": "457140",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "oxygennotincluded",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Klei/Oxygen Not Included/kplayerprefs.yaml",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "palworld",
       "name": "Palworld",
       "engine": "ue-pak",
@@ -1685,7 +2575,7 @@
     {
       "id": "pathfinder-kingmaker",
       "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "640820",
         "gogId": null,
@@ -1694,12 +2584,12 @@
       },
       "nexusDomain": "pathfinderkingmaker",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/.config/unity3d/Owlcat Games/Pathfinder Kingmaker/Saved Games",
       "fileExtensions": [
-        ".dll",
-        ".json",
-        ".zip"
+        "dll",
+        "json",
+        "zip"
       ],
       "groupingRule": null,
       "featured": null,
@@ -1708,6 +2598,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -1716,7 +2607,7 @@
     {
       "id": "pathfinder-wrath-of-the-righteous",
       "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "1184370",
         "gogId": null,
@@ -1725,8 +2616,153 @@
       },
       "nexusDomain": "pathfinderwrathoftherighteous",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "phasmophobia",
+      "name": "Phasmophobia",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "739630",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "phasmophobia",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Kinetic Games/Phasmophobia/saveData.txt",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "pillars-of-eternity",
+      "name": "Pillars of Eternity",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "291650",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "pillarsofeternity",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Obsidian Entertainment/Pillars of Eternity",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "pillars-of-eternity-ii-deadfire",
+      "name": "Pillars of Eternity II: Deadfire",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "560130",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "pillarsofeternity2",
+      "curseforgeGameId": null,
+      "modPath": "PillarsOfEternityII_Data/override",
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Pillars of Eternity II/Saved Games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "planet-zoo",
+      "name": "Planet Zoo",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "703080",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "planetzoo",
+      "curseforgeGameId": null,
+      "modPath": "win64/ovldata",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Planet Zoo/\u003CstoreUserId\u003E/Config",
+      "fileExtensions": [
+        "ovl",
+        "ovs"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "project-zomboid",
+      "name": "Project Zomboid",
+      "engine": null,
+      "stores": {
+        "steamAppId": "108600",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "projectzomboid",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Zomboid",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
@@ -1966,7 +3002,7 @@
     {
       "id": "satisfactory",
       "name": "Satisfactory",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "526870",
         "gogId": null,
@@ -1988,6 +3024,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2051,6 +3088,126 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "sid-meier-s-civilization-v",
+      "name": "Sid Meier\u0027s Civilization V",
+      "engine": null,
+      "stores": {
+        "steamAppId": "8930",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "civilisationv",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Documents/Aspyr/Sid Meier\u0027s Civilization 5/Saves",
+      "fileExtensions": [
+        "civ5mod",
+        "xml",
+        "lua",
+        "sql"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "sid-meier-s-civilization-vi",
+      "name": "Sid Meier\u0027s Civilization VI",
+      "engine": null,
+      "stores": {
+        "steamAppId": "289070",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "civilisationvi",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Sid Meier\u0027s Civilization VI",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "sifu",
+      "name": "Sifu",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2138710",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "sifu",
+      "curseforgeGameId": null,
+      "modPath": "Sifu/Content/Paks/~mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Sifu/Saved/Config/WindowsClient/*.ini",
+      "fileExtensions": [
+        "pak",
+        "sig"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "slay-the-spire",
+      "name": "Slay the Spire",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "646570",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "slaythespire",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003Cbase\u003E/SlayTheSpire.app/Contents/Resources/betaPreferences",
+      "fileExtensions": [
+        "jar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -2124,7 +3281,7 @@
     {
       "id": "sons-of-the-forest",
       "name": "Sons of the Forest",
-      "engine": null,
+      "engine": "bepinex",
       "stores": {
         "steamAppId": "1326470",
         "gogId": null,
@@ -2133,7 +3290,7 @@
       },
       "nexusDomain": "sonsoftheforest",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "BepInEx/plugins",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Endnight/SonsOfTheForest/Saves",
       "fileExtensions": [
         "dll"
@@ -2145,6 +3302,37 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "stacklands",
+      "name": "Stacklands",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1948280",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "stacklands",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/sokpop/Stacklands",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2288,6 +3476,35 @@
       }
     },
     {
+      "id": "stellaris",
+      "name": "Stellaris",
+      "engine": null,
+      "stores": {
+        "steamAppId": "281990",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "stellaris",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Documents/Paradox Interactive/Stellaris",
+      "fileExtensions": [
+        "mod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "subnautica",
       "name": "Subnautica",
       "engine": "bepinex",
@@ -2376,6 +3593,35 @@
           "ludusavi",
           "curated",
           "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "terraria",
+      "name": "Terraria",
+      "engine": null,
+      "stores": {
+        "steamAppId": "105600",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "terraria",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Terraria",
+      "fileExtensions": [
+        "tmod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2704,6 +3950,34 @@
       }
     },
     {
+      "id": "the-witcher-2-assassins-of-kings",
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "engine": null,
+      "stores": {
+        "steamAppId": "20920",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "witcher2",
+      "curseforgeGameId": null,
+      "modPath": "CookedPC",
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2/config",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "mo2",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "the-witcher-3-wild-hunt",
       "name": "The Witcher 3: Wild Hunt",
       "engine": "custom",
@@ -2767,9 +4041,39 @@
       }
     },
     {
+      "id": "total-war-warhammer-ii",
+      "name": "Total War: WARHAMMER II",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "594570",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "totalwarwarhammer2",
+      "curseforgeGameId": null,
+      "modPath": "data",
+      "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer2/EOS/save_games",
+      "fileExtensions": [
+        "pack"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "total-war-warhammer-iii",
       "name": "Total War: WARHAMMER III",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "1142710",
         "gogId": null,
@@ -2781,7 +4085,7 @@
       "modPath": "data",
       "saveDirHint": "\u003Chome\u003E/.local/share/feral-interactive/Total War WARHAMMER III/SaveData/Steam Saves($SteamID)/local/Warhamme3/save_games",
       "fileExtensions": [
-        ".pack"
+        "pack"
       ],
       "groupingRule": null,
       "featured": null,
@@ -2790,6 +4094,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2820,6 +4125,119 @@
           "nexus-domains"
         ],
         "status": "auto"
+      }
+    },
+    {
+      "id": "tropico-6",
+      "name": "Tropico 6",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "492720",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "tropico6",
+      "curseforgeGameId": null,
+      "modPath": "Tropico6/Content/Paks",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Tropico6/Saved/Config",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "two-point-campus",
+      "name": "Two Point Campus",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1649080",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "twopointcampus",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Two Point Studios/Two Point Campus/Cloud",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "two-point-hospital",
+      "name": "Two Point Hospital",
+      "engine": null,
+      "stores": {
+        "steamAppId": "535930",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "twopointhospital",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Two Point Studios/Two Point Hospital/Cloud",
+      "fileExtensions": [
+        "dll"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "tyranny",
+      "name": "Tyranny",
+      "engine": null,
+      "stores": {
+        "steamAppId": "362960",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "tyranny",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Tyranny/Saved Games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
       }
     },
     {
@@ -2948,6 +4366,147 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "victoria-3",
+      "name": "Victoria 3",
+      "engine": null,
+      "stores": {
+        "steamAppId": "529340",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "victoria3",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/.local/share/Steam/userdata/\u003CstoreUserId\u003E/529340/remote/save games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "warhammer-40-000-rogue-trader",
+      "name": "Warhammer 40,000: Rogue Trader",
+      "engine": null,
+      "stores": {
+        "steamAppId": "2186680",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "warhammer40kroguetrader",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "warhammer-40-000-space-marine-ii",
+      "name": "Warhammer 40,000: Space Marine 2",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "2183900",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "warhammer40000spacemarine2",
+      "curseforgeGameId": null,
+      "modPath": "client_pc/root/mods",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Saber/Space Marine 2/storage/steam/user/\u003CstoreUserId\u003E/Main/config",
+      "fileExtensions": [
+        "pak"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "wo-long-fallen-dynasty",
+      "name": "Wo Long: Fallen Dynasty",
+      "engine": null,
+      "stores": {
+        "steamAppId": "1448440",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "wolongfallendynasty",
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/Wolong/Savedata",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "xcom-2",
+      "name": "XCOM 2",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "268500",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "xcom2",
+      "curseforgeGameId": null,
+      "modPath": "XComGame/Mods",
+      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Feral Interactive/XCOM 2",
+      "fileExtensions": [
+        "XComMod"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
