@@ -1,0 +1,12 @@
+{
+  "steamAppId": "1244460",
+  "id": "jurassic-world-evolution-2",
+  "name": "Jurassic World Evolution 2",
+  "engine": "custom",
+  "modPath": "Win64/ovldata",
+  "nexusDomain": "jurassicworldevolution2",
+  "fileExtensions": [
+    "ovl",
+    "ovs"
+  ]
+}

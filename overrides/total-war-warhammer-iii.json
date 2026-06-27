@@ -2,9 +2,10 @@
   "steamAppId": "1142710",
   "id": "total-war-warhammer-iii",
   "name": "Total War: WARHAMMER III",
+  "engine": "custom",
   "modPath": "data",
   "nexusDomain": "totalwarwarhammer3",
   "fileExtensions": [
-    ".pack"
+    "pack"
   ]
 }

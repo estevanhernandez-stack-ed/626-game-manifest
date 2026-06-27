@@ -2,5 +2,7 @@
   "steamAppId": "1184370",
   "id": "pathfinder-wrath-of-the-righteous-enhanced-edition",
   "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+  "engine": "custom",
+  "modPath": "Mods",
   "nexusDomain": "pathfinderwrathoftherighteous"
 }

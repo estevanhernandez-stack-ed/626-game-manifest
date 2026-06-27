@@ -1,0 +1,11 @@
+{
+  "steamAppId": "548430",
+  "id": "deep-rock-galactic",
+  "name": "Deep Rock Galactic",
+  "engine": "ue-pak",
+  "modPath": "FSD/Content/Paks",
+  "nexusDomain": "deeprockgalactic",
+  "fileExtensions": [
+    "pak"
+  ]
+}

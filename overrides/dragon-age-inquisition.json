@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1222690",
+  "id": "dragon-age-inquisition",
+  "name": "Dragon Age: Inquisition",
+  "nexusDomain": "dragonageinquisition",
+  "banRisk": "low",
+  "fileExtensions": [
+    "daimod",
+    "fbmod"
+  ]
+}

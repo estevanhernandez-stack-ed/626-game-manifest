@@ -1,0 +1,12 @@
+{
+  "steamAppId": "2138710",
+  "id": "sifu",
+  "name": "Sifu",
+  "engine": "ue-pak",
+  "modPath": "Sifu/Content/Paks/~mods",
+  "nexusDomain": "sifu",
+  "fileExtensions": [
+    "pak",
+    "sig"
+  ]
+}

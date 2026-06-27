@@ -2,6 +2,8 @@
   "steamAppId": "1326470",
   "id": "sons-of-the-forest",
   "name": "Sons of the Forest",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
   "nexusDomain": "sonsoftheforest",
   "fileExtensions": [
     "dll"

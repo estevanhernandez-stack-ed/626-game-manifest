@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1366540",
+  "id": "dyson-sphere-program",
+  "name": "Dyson Sphere Program",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "dysonsphereprogram",
+  "fileExtensions": [
+    "dll"
+  ]
+}

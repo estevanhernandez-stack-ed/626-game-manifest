@@ -1,0 +1,11 @@
+{
+  "steamAppId": "962130",
+  "id": "grounded",
+  "name": "Grounded",
+  "nexusDomain": "grounded",
+  "fileExtensions": [
+    "pak",
+    "utoc",
+    "ucas"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "steamAppId": "1446780",
+  "id": "monster-hunter-rise",
+  "name": "Monster Hunter Rise",
+  "engine": "custom",
+  "modPath": "natives/STM",
+  "nexusDomain": "monsterhunterrise",
+  "banRisk": "low",
+  "fileExtensions": [
+    "pak",
+    "lua",
+    "dll"
+  ]
+}

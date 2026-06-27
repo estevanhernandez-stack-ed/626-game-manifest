@@ -1,0 +1,11 @@
+{
+  "steamAppId": "492720",
+  "id": "tropico-6",
+  "name": "Tropico 6",
+  "engine": "ue-pak",
+  "modPath": "Tropico6/Content/Paks",
+  "nexusDomain": "tropico6",
+  "fileExtensions": [
+    "pak"
+  ]
+}

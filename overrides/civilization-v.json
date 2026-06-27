@@ -1,0 +1,12 @@
+{
+  "steamAppId": "8930",
+  "id": "civilization-v",
+  "name": "Sid Meier's Civilization V",
+  "nexusDomain": "civilisationv",
+  "fileExtensions": [
+    "civ5mod",
+    "xml",
+    "lua",
+    "sql"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1092790",
+  "id": "inscryption",
+  "name": "Inscryption",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "inscryption",
+  "fileExtensions": [
+    "dll"
+  ]
+}

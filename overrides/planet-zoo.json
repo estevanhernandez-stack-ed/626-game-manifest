@@ -1,0 +1,12 @@
+{
+  "steamAppId": "703080",
+  "id": "planet-zoo",
+  "name": "Planet Zoo",
+  "engine": "custom",
+  "modPath": "win64/ovldata",
+  "nexusDomain": "planetzoo",
+  "fileExtensions": [
+    "ovl",
+    "ovs"
+  ]
+}

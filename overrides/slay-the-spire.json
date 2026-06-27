@@ -1,0 +1,11 @@
+{
+  "steamAppId": "646570",
+  "id": "slay-the-spire",
+  "name": "Slay the Spire",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "slaythespire",
+  "fileExtensions": [
+    "jar"
+  ]
+}

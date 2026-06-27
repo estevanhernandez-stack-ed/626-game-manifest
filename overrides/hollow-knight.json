@@ -1,0 +1,11 @@
+{
+  "steamAppId": "367520",
+  "id": "hollow-knight",
+  "name": "Hollow Knight",
+  "engine": "custom",
+  "modPath": "hollow_knight_Data/Managed/Mods",
+  "nexusDomain": "hollowknight",
+  "fileExtensions": [
+    "dll"
+  ]
+}

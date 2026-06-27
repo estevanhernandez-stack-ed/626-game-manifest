@@ -1,0 +1,11 @@
+{
+  "steamAppId": "268500",
+  "id": "xcom-2",
+  "name": "XCOM 2",
+  "engine": "custom",
+  "modPath": "XComGame/Mods",
+  "nexusDomain": "xcom2",
+  "fileExtensions": [
+    "XComMod"
+  ]
+}

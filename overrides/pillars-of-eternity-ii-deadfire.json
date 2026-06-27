@@ -1,0 +1,8 @@
+{
+  "steamAppId": "560130",
+  "id": "pillars-of-eternity-ii-deadfire",
+  "name": "Pillars of Eternity II: Deadfire",
+  "engine": "custom",
+  "modPath": "PillarsOfEternityII_Data/override",
+  "nexusDomain": "pillarsofeternity2"
+}

@@ -1,0 +1,8 @@
+{
+  "steamAppId": "322330",
+  "id": "dont-starve-together",
+  "name": "Don't Starve Together",
+  "engine": "custom",
+  "modPath": "mods",
+  "nexusDomain": "dontstarvetogether"
+}

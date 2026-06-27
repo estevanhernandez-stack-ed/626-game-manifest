@@ -1,0 +1,11 @@
+{
+  "steamAppId": "678960",
+  "id": "code-vein",
+  "name": "CODE VEIN",
+  "engine": "ue-pak",
+  "modPath": "CodeVein/Content/Paks/~mods",
+  "nexusDomain": "codevein",
+  "fileExtensions": [
+    "pak"
+  ]
+}
