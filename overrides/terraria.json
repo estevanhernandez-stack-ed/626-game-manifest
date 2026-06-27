@@ -1,0 +1,9 @@
+{
+  "steamAppId": "105600",
+  "id": "terraria",
+  "name": "Terraria",
+  "nexusDomain": "terraria",
+  "fileExtensions": [
+    "tmod"
+  ]
+}

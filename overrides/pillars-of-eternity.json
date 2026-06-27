@@ -1,0 +1,8 @@
+{
+  "steamAppId": "291650",
+  "id": "pillars-of-eternity",
+  "name": "Pillars of Eternity",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "pillarsofeternity"
+}

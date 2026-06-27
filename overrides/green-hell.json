@@ -1,0 +1,11 @@
+{
+  "steamAppId": "815370",
+  "id": "green-hell",
+  "name": "Green Hell",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "greenhell",
+  "fileExtensions": [
+    "dll"
+  ]
+}

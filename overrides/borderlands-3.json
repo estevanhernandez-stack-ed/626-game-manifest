@@ -1,0 +1,12 @@
+{
+  "steamAppId": "397540",
+  "id": "borderlands-3",
+  "name": "Borderlands 3",
+  "engine": "ue-pak",
+  "modPath": "OakGame/Content/Paks/~mods",
+  "nexusDomain": "borderlands3",
+  "banRisk": "low",
+  "fileExtensions": [
+    "pak"
+  ]
+}

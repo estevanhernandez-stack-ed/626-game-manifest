@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1601580",
+  "id": "frostpunk-2",
+  "name": "Frostpunk 2",
+  "engine": "ue-pak",
+  "modPath": "Frostpunk2/Content/Paks/~mods",
+  "nexusDomain": "frostpunk2",
+  "fileExtensions": [
+    "pak"
+  ]
+}

@@ -2,10 +2,12 @@
   "steamAppId": "640820",
   "id": "pathfinder-kingmaker-enhanced-plus-edition",
   "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+  "engine": "custom",
+  "modPath": "Mods",
   "nexusDomain": "pathfinderkingmaker",
   "fileExtensions": [
-    ".dll",
-    ".json",
-    ".zip"
+    "dll",
+    "json",
+    "zip"
   ]
 }

@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2399830",
+  "id": "ark-survival-ascended",
+  "name": "ARK: Survival Ascended",
+  "engine": "ue-pak",
+  "modPath": "ShooterGame/Binaries/Win64/ShooterGame/Mods",
+  "nexusDomain": "asksurvivalevolved",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak",
+    "utoc",
+    "ucas"
+  ]
+}

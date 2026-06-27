@@ -1,0 +1,12 @@
+{
+  "steamAppId": "2183900",
+  "id": "warhammer-40000-space-marine-2",
+  "name": "Warhammer 40,000: Space Marine 2",
+  "engine": "custom",
+  "modPath": "client_pc/root/mods",
+  "nexusDomain": "warhammer40000spacemarine2",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "594570",
+  "id": "total-war-warhammer-ii",
+  "name": "Total War: WARHAMMER II",
+  "engine": "custom",
+  "modPath": "data",
+  "nexusDomain": "totalwarwarhammer2",
+  "fileExtensions": [
+    "pack"
+  ]
+}

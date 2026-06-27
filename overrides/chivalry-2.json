@@ -1,0 +1,13 @@
+{
+  "steamAppId": "1824220",
+  "id": "chivalry-2",
+  "name": "Chivalry 2",
+  "engine": "ue-pak",
+  "modPath": "TBL/Content/Paks",
+  "nexusDomain": "chivalry2",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak",
+    "sig"
+  ]
+}

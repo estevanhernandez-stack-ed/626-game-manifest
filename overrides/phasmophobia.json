@@ -1,0 +1,12 @@
+{
+  "steamAppId": "739630",
+  "id": "phasmophobia",
+  "name": "Phasmophobia",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "phasmophobia",
+  "banRisk": "high",
+  "fileExtensions": [
+    "dll"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "steamAppId": "268910",
+  "id": "cuphead",
+  "name": "Cuphead",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "cuphead",
+  "fileExtensions": [
+    "dll"
+  ]
+}

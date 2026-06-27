@@ -1,0 +1,11 @@
+{
+  "steamAppId": "1948280",
+  "id": "stacklands",
+  "name": "Stacklands",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "stacklands",
+  "fileExtensions": [
+    "dll"
+  ]
+}

@@ -2,6 +2,7 @@
   "steamAppId": "526870",
   "id": "satisfactory",
   "name": "Satisfactory",
+  "engine": "custom",
   "modPath": "FactoryGame/Mods",
   "nexusDomain": "satisfactory",
   "fileExtensions": [
