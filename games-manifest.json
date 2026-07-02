@@ -778,6 +778,34 @@
       }
     },
     {
+      "id": "death-stranding-2-on-the-beach",
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "engine": "decima",
+      "stores": {
+        "steamAppId": "3280350",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "deathstranding2onthebeach",
+      "curseforgeGameId": null,
+      "modPath": ".",
+      "saveDirHint": "\u003CwinDocuments\u003E/DEATH STRANDING 2 - ON THE BEACH",
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "deep-rock-galactic",
       "name": "Deep Rock Galactic",
       "engine": "ue-pak",
