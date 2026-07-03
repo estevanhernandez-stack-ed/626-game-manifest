@@ -1,6 +1,10 @@
 # 626 Mod Launcher — game manifest feed
 
+[![supported games](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Festevanhernandez-stack-ed%2F626-game-manifest%2Fmain%2Fbadge.json)](SUPPORTED-GAMES.md)
+
 The signed game-definition feed the [626 Mod Launcher](https://github.com/estevanhernandez-stack-ed/626-mod-launcher) fetches at runtime, so new game support reaches users without an app release.
+
+**See the full [supported games list](SUPPORTED-GAMES.md)** — regenerated automatically as curation lands. Machine-readable: [`supported-games.json`](supported-games.json) (stable schema, CORS-open raw URL — built for the 626 Labs hub, Discord bots, and anything else that wants it).
 
 This repo holds **game identity data only** — names, store IDs, engine keys, mod-folder paths, Nexus slugs. No mods, no binaries, no copyrighted text. The launcher already knows *how* each engine loads mods (that's code, shipped in the app); this feed only tells it *which games exist and where their mods go*.
 
