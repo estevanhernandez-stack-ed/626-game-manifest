@@ -1,0 +1,1424 @@
+{
+  "schemaVersion": 1,
+  "generatedUtc": "2026-07-03T05:30:00Z",
+  "counts": {
+    "total": 149,
+    "engineCurated": 103,
+    "nexusOnly": 46
+  },
+  "games": [
+    {
+      "id": "7-days-to-die",
+      "name": "7 Days to Die",
+      "tier": "engine-curated",
+      "steamAppId": "251570",
+      "steamUrl": "https://store.steampowered.com/app/251570/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/7daystodie"
+    },
+    {
+      "id": "abiotic-factor",
+      "name": "Abiotic Factor",
+      "tier": "engine-curated",
+      "steamAppId": "427410",
+      "steamUrl": "https://store.steampowered.com/app/427410/",
+      "engine": "ue-pak",
+      "modPath": "AbioticFactor/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/abioticfactor"
+    },
+    {
+      "id": "age-of-empires-ii-definitive-edition",
+      "name": "Age of Empires II: Definitive Edition",
+      "tier": "nexus-only",
+      "steamAppId": "813780",
+      "steamUrl": "https://store.steampowered.com/app/813780/",
+      "nexusUrl": "https://www.nexusmods.com/ageofempires2definitiveedition"
+    },
+    {
+      "id": "ark-survival-ascended",
+      "name": "ARK: Survival Ascended",
+      "tier": "engine-curated",
+      "steamAppId": "2399830",
+      "steamUrl": "https://store.steampowered.com/app/2399830/",
+      "engine": "ue-pak",
+      "modPath": "ShooterGame/Binaries/Win64/ShooterGame/Mods",
+      "nexusUrl": "https://www.nexusmods.com/asksurvivalevolved"
+    },
+    {
+      "id": "armored-core-vi-fires-of-rubicon",
+      "name": "Armored Core VI: Fires of Rubicon",
+      "tier": "engine-curated",
+      "steamAppId": "1888160",
+      "steamUrl": "https://store.steampowered.com/app/1888160/",
+      "engine": "fromsoft",
+      "modPath": "mod",
+      "nexusUrl": "https://www.nexusmods.com/armoredcore6firesofrubicon"
+    },
+    {
+      "id": "astroneer",
+      "name": "Astroneer",
+      "tier": "nexus-only",
+      "steamAppId": "361420",
+      "steamUrl": "https://store.steampowered.com/app/361420/",
+      "nexusUrl": "https://www.nexusmods.com/astroneer"
+    },
+    {
+      "id": "baldur-s-gate-3",
+      "name": "Baldur's Gate 3",
+      "tier": "nexus-only",
+      "steamAppId": "1086940",
+      "steamUrl": "https://store.steampowered.com/app/1086940/",
+      "nexusUrl": "https://www.nexusmods.com/baldursgate3"
+    },
+    {
+      "id": "black-myth-wukong",
+      "name": "Black Myth: Wukong",
+      "tier": "engine-curated",
+      "steamAppId": "2358720",
+      "steamUrl": "https://store.steampowered.com/app/2358720/",
+      "engine": "ue-pak",
+      "modPath": "b1/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/blackmythwukong"
+    },
+    {
+      "id": "borderlands",
+      "name": "Borderlands",
+      "tier": "nexus-only",
+      "steamAppId": "8980",
+      "steamUrl": "https://store.steampowered.com/app/8980/",
+      "nexusUrl": "https://www.nexusmods.com/Borderlands GOTY"
+    },
+    {
+      "id": "borderlands-3",
+      "name": "Borderlands 3",
+      "tier": "engine-curated",
+      "steamAppId": "397540",
+      "steamUrl": "https://store.steampowered.com/app/397540/",
+      "engine": "ue-pak",
+      "modPath": "OakGame/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/borderlands3"
+    },
+    {
+      "id": "chivalry-2",
+      "name": "Chivalry 2",
+      "tier": "engine-curated",
+      "steamAppId": "1824220",
+      "steamUrl": "https://store.steampowered.com/app/1824220/",
+      "engine": "ue-pak",
+      "modPath": "TBL/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/chivalry2"
+    },
+    {
+      "id": "cities-skylines",
+      "name": "Cities: Skylines",
+      "tier": "nexus-only",
+      "steamAppId": "255710",
+      "steamUrl": "https://store.steampowered.com/app/255710/",
+      "nexusUrl": "https://www.nexusmods.com/citiesskylines"
+    },
+    {
+      "id": "cities-skylines-ii",
+      "name": "Cities: Skylines II",
+      "tier": "engine-curated",
+      "steamAppId": "949230",
+      "steamUrl": "https://store.steampowered.com/app/949230/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/citiesskylines2"
+    },
+    {
+      "id": "code-vein",
+      "name": "CODE VEIN",
+      "tier": "engine-curated",
+      "steamAppId": "678960",
+      "steamUrl": "https://store.steampowered.com/app/678960/",
+      "engine": "ue-pak",
+      "modPath": "CodeVein/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/codevein"
+    },
+    {
+      "id": "content-warning",
+      "name": "Content Warning",
+      "tier": "engine-curated",
+      "steamAppId": "2881650",
+      "steamUrl": "https://store.steampowered.com/app/2881650/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/contentwarning"
+    },
+    {
+      "id": "crusader-kings-ii",
+      "name": "Crusader Kings II",
+      "tier": "nexus-only",
+      "steamAppId": "203770",
+      "steamUrl": "https://store.steampowered.com/app/203770/",
+      "nexusUrl": "https://www.nexusmods.com/crusaderkings2"
+    },
+    {
+      "id": "crusader-kings-iii",
+      "name": "Crusader Kings III",
+      "tier": "nexus-only",
+      "steamAppId": "1158310",
+      "steamUrl": "https://store.steampowered.com/app/1158310/",
+      "nexusUrl": "https://www.nexusmods.com/crusaderkings3"
+    },
+    {
+      "id": "cult-of-the-lamb",
+      "name": "Cult of the Lamb",
+      "tier": "engine-curated",
+      "steamAppId": "1313140",
+      "steamUrl": "https://store.steampowered.com/app/1313140/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/cultofthelamb"
+    },
+    {
+      "id": "cuphead",
+      "name": "Cuphead",
+      "tier": "engine-curated",
+      "steamAppId": "268910",
+      "steamUrl": "https://store.steampowered.com/app/268910/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/cuphead"
+    },
+    {
+      "id": "cyberpunk-2077",
+      "name": "Cyberpunk 2077",
+      "tier": "engine-curated",
+      "steamAppId": "1091500",
+      "steamUrl": "https://store.steampowered.com/app/1091500/",
+      "engine": "custom",
+      "modPath": "archive/pc/mod",
+      "featured": 4,
+      "nexusUrl": "https://www.nexusmods.com/cyberpunk2077"
+    },
+    {
+      "id": "dark-messiah-of-might-and-magic",
+      "name": "Dark Messiah of Might and Magic",
+      "tier": "engine-curated",
+      "steamAppId": "2100",
+      "steamUrl": "https://store.steampowered.com/app/2100/",
+      "engine": "source",
+      "modPath": "custom",
+      "nexusUrl": "https://www.nexusmods.com/darkmessiahofmightandmagic"
+    },
+    {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "name": "Dark Souls II: Scholar of the First Sin",
+      "tier": "engine-curated",
+      "steamAppId": "335300",
+      "steamUrl": "https://store.steampowered.com/app/335300/",
+      "engine": "fromsoft",
+      "modPath": "mod",
+      "nexusUrl": "https://www.nexusmods.com/darksouls2"
+    },
+    {
+      "id": "dark-souls-iii",
+      "name": "Dark Souls III",
+      "tier": "engine-curated",
+      "steamAppId": "374320",
+      "steamUrl": "https://store.steampowered.com/app/374320/",
+      "engine": "fromsoft",
+      "modPath": "mod",
+      "nexusUrl": "https://www.nexusmods.com/darksouls3"
+    },
+    {
+      "id": "dark-souls-prepare-to-die-edition",
+      "name": "Dark Souls: Prepare to Die Edition",
+      "tier": "engine-curated",
+      "steamAppId": "211420",
+      "steamUrl": "https://store.steampowered.com/app/211420/",
+      "engine": "fromsoft",
+      "modPath": "DATA",
+      "nexusUrl": "https://www.nexusmods.com/darksouls"
+    },
+    {
+      "id": "darkest-dungeon",
+      "name": "Darkest Dungeon",
+      "tier": "engine-curated",
+      "steamAppId": "262060",
+      "steamUrl": "https://store.steampowered.com/app/262060/",
+      "engine": "custom",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/darkestdungeon"
+    },
+    {
+      "id": "death-stranding-2-on-the-beach",
+      "name": "DEATH STRANDING 2: ON THE BEACH",
+      "tier": "engine-curated",
+      "steamAppId": "3280350",
+      "steamUrl": "https://store.steampowered.com/app/3280350/",
+      "engine": "decima",
+      "modPath": ".",
+      "nexusUrl": "https://www.nexusmods.com/deathstranding2onthebeach"
+    },
+    {
+      "id": "deep-rock-galactic",
+      "name": "Deep Rock Galactic",
+      "tier": "engine-curated",
+      "steamAppId": "548430",
+      "steamUrl": "https://store.steampowered.com/app/548430/",
+      "engine": "ue-pak",
+      "modPath": "FSD/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/deeprockgalactic"
+    },
+    {
+      "id": "dispatch-2025",
+      "name": "Dispatch (2025)",
+      "tier": "engine-curated",
+      "steamAppId": "2592160",
+      "steamUrl": "https://store.steampowered.com/app/2592160/",
+      "engine": "ue-pak",
+      "modPath": "Dispatch/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/dispatch"
+    },
+    {
+      "id": "divinity-original-sin",
+      "name": "Divinity: Original Sin",
+      "tier": "engine-curated",
+      "steamAppId": "230230",
+      "steamUrl": "https://store.steampowered.com/app/230230/",
+      "engine": "custom",
+      "modPath": "Data/Mods",
+      "nexusUrl": "https://www.nexusmods.com/divinityoriginalsin"
+    },
+    {
+      "id": "divinity-original-sin-enhanced-edition",
+      "name": "Divinity: Original Sin - Enhanced Edition",
+      "tier": "engine-curated",
+      "steamAppId": "373420",
+      "steamUrl": "https://store.steampowered.com/app/373420/",
+      "engine": "custom",
+      "modPath": "Data/Mods",
+      "nexusUrl": "https://www.nexusmods.com/divinityoriginalsinenhancededition"
+    },
+    {
+      "id": "divinity-original-sin-ii",
+      "name": "Divinity: Original Sin 2 - Definitive Edition",
+      "tier": "nexus-only",
+      "steamAppId": "435150",
+      "steamUrl": "https://store.steampowered.com/app/435150/",
+      "nexusUrl": "https://www.nexusmods.com/divinityoriginalsin2definitiveedition"
+    },
+    {
+      "id": "don-t-starve-together",
+      "name": "Don't Starve Together",
+      "tier": "engine-curated",
+      "steamAppId": "322330",
+      "steamUrl": "https://store.steampowered.com/app/322330/",
+      "engine": "custom",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/dontstarvetogether"
+    },
+    {
+      "id": "dragon-age-ii",
+      "name": "Dragon Age II",
+      "tier": "nexus-only",
+      "steamAppId": "1238040",
+      "steamUrl": "https://store.steampowered.com/app/1238040/",
+      "nexusUrl": "https://www.nexusmods.com/dragonage2"
+    },
+    {
+      "id": "dragon-age-inquisition",
+      "name": "Dragon Age: Inquisition",
+      "tier": "nexus-only",
+      "steamAppId": "1222690",
+      "steamUrl": "https://store.steampowered.com/app/1222690/",
+      "nexusUrl": "https://www.nexusmods.com/dragonageinquisition"
+    },
+    {
+      "id": "dragon-age-origins",
+      "name": "Dragon Age: Origins - Ultimate Edition",
+      "tier": "nexus-only",
+      "steamAppId": "47810",
+      "steamUrl": "https://store.steampowered.com/app/47810/",
+      "nexusUrl": "https://www.nexusmods.com/dragonage"
+    },
+    {
+      "id": "dragon-s-dogma-ii",
+      "name": "Dragon's Dogma 2",
+      "tier": "nexus-only",
+      "steamAppId": "2054970",
+      "steamUrl": "https://store.steampowered.com/app/2054970/",
+      "nexusUrl": "https://www.nexusmods.com/dragonsdogma2"
+    },
+    {
+      "id": "dragon-s-dogma-dark-arisen",
+      "name": "Dragon's Dogma: Dark Arisen",
+      "tier": "nexus-only",
+      "steamAppId": "367500",
+      "steamUrl": "https://store.steampowered.com/app/367500/",
+      "nexusUrl": "https://www.nexusmods.com/dragonsdogma"
+    },
+    {
+      "id": "dungeon-siege",
+      "name": "Dungeon Siege",
+      "tier": "engine-curated",
+      "steamAppId": "39190",
+      "steamUrl": "https://store.steampowered.com/app/39190/",
+      "engine": "custom",
+      "modPath": "Resources",
+      "nexusUrl": "https://www.nexusmods.com/dungeonsiege1"
+    },
+    {
+      "id": "dungeon-siege-ii",
+      "name": "Dungeon Siege II",
+      "tier": "nexus-only",
+      "steamAppId": "39200",
+      "steamUrl": "https://store.steampowered.com/app/39200/",
+      "nexusUrl": "https://www.nexusmods.com/dungeonsiegeii"
+    },
+    {
+      "id": "dyson-sphere-program",
+      "name": "Dyson Sphere Program",
+      "tier": "engine-curated",
+      "steamAppId": "1366540",
+      "steamUrl": "https://store.steampowered.com/app/1366540/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/dysonsphereprogram"
+    },
+    {
+      "id": "elden-ring",
+      "name": "Elden Ring",
+      "tier": "engine-curated",
+      "steamAppId": "1245620",
+      "steamUrl": "https://store.steampowered.com/app/1245620/",
+      "engine": "fromsoft",
+      "modPath": "mods",
+      "featured": 3,
+      "nexusUrl": "https://www.nexusmods.com/eldenring"
+    },
+    {
+      "id": "enderal-forgotten-stories-special-edition",
+      "name": "Enderal: Forgotten Stories (Special Edition)",
+      "tier": "engine-curated",
+      "steamAppId": "976620",
+      "steamUrl": "https://store.steampowered.com/app/976620/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "nexusUrl": "https://www.nexusmods.com/enderalspecialedition"
+    },
+    {
+      "id": "europa-universalis-iv",
+      "name": "Europa Universalis IV",
+      "tier": "nexus-only",
+      "steamAppId": "236850",
+      "steamUrl": "https://store.steampowered.com/app/236850/",
+      "nexusUrl": "https://www.nexusmods.com/europauniversalisiv"
+    },
+    {
+      "id": "factorio",
+      "name": "Factorio",
+      "tier": "nexus-only",
+      "steamAppId": "427520",
+      "steamUrl": "https://store.steampowered.com/app/427520/",
+      "nexusUrl": "https://www.nexusmods.com/factorio"
+    },
+    {
+      "id": "fallout-3-game-of-the-year-edition",
+      "name": "Fallout 3 - Game of the Year Edition",
+      "tier": "engine-curated",
+      "steamAppId": "22370",
+      "steamUrl": "https://store.steampowered.com/app/22370/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "nexusUrl": "https://www.nexusmods.com/fallout3"
+    },
+    {
+      "id": "fallout-4",
+      "name": "Fallout 4",
+      "tier": "engine-curated",
+      "steamAppId": "377160",
+      "steamUrl": "https://store.steampowered.com/app/377160/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 2,
+      "nexusUrl": "https://www.nexusmods.com/fallout4"
+    },
+    {
+      "id": "fallout-new-vegas",
+      "name": "Fallout: New Vegas",
+      "tier": "engine-curated",
+      "steamAppId": "22380",
+      "steamUrl": "https://store.steampowered.com/app/22380/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 9
+    },
+    {
+      "id": "fantasy-life-i-the-girl-who-steals-time",
+      "name": "Fantasy Life i: The Girl Who Steals Time",
+      "tier": "engine-curated",
+      "steamAppId": "2993780",
+      "steamUrl": "https://store.steampowered.com/app/2993780/",
+      "engine": "ue-pak",
+      "modPath": "Game/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/fantasylifeithegirlwhostealstime"
+    },
+    {
+      "id": "farming-simulator-22",
+      "name": "Farming Simulator 22",
+      "tier": "nexus-only",
+      "steamAppId": "1248130",
+      "steamUrl": "https://store.steampowered.com/app/1248130/",
+      "nexusUrl": "https://www.nexusmods.com/farmingsimulator22"
+    },
+    {
+      "id": "farming-simulator-25",
+      "name": "Farming Simulator 25",
+      "tier": "nexus-only",
+      "steamAppId": "2300320",
+      "steamUrl": "https://store.steampowered.com/app/2300320/",
+      "nexusUrl": "https://www.nexusmods.com/farmingsimulator25"
+    },
+    {
+      "id": "final-fantasy-vii-remake-intergrade",
+      "name": "Final Fantasy VII Remake Intergrade",
+      "tier": "engine-curated",
+      "steamAppId": "1462040",
+      "steamUrl": "https://store.steampowered.com/app/1462040/",
+      "engine": "ue-pak",
+      "modPath": "End/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/finalfantasy7remake"
+    },
+    {
+      "id": "frostpunk-2",
+      "name": "Frostpunk 2",
+      "tier": "engine-curated",
+      "steamAppId": "1601580",
+      "steamUrl": "https://store.steampowered.com/app/1601580/",
+      "engine": "ue-pak",
+      "modPath": "Frostpunk2/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/frostpunk2"
+    },
+    {
+      "id": "garry-s-mod",
+      "name": "Garry's Mod",
+      "tier": "engine-curated",
+      "steamAppId": "4000",
+      "steamUrl": "https://store.steampowered.com/app/4000/",
+      "engine": "source",
+      "modPath": "garrysmod/addons",
+      "nexusUrl": "https://www.nexusmods.com/garrysmod"
+    },
+    {
+      "id": "grand-theft-auto-iv",
+      "name": "Grand Theft Auto IV: The Complete Edition",
+      "tier": "nexus-only",
+      "steamAppId": "12210",
+      "steamUrl": "https://store.steampowered.com/app/12210/",
+      "nexusUrl": "https://www.nexusmods.com/gta4"
+    },
+    {
+      "id": "grand-theft-auto-v",
+      "name": "Grand Theft Auto V (Legacy, single-player)",
+      "tier": "nexus-only",
+      "steamAppId": "271590",
+      "steamUrl": "https://store.steampowered.com/app/271590/",
+      "nexusUrl": "https://www.nexusmods.com/gta5"
+    },
+    {
+      "id": "green-hell",
+      "name": "Green Hell",
+      "tier": "engine-curated",
+      "steamAppId": "815370",
+      "steamUrl": "https://store.steampowered.com/app/815370/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/greenhell"
+    },
+    {
+      "id": "grounded",
+      "name": "Grounded",
+      "tier": "nexus-only",
+      "steamAppId": "962130",
+      "steamUrl": "https://store.steampowered.com/app/962130/",
+      "nexusUrl": "https://www.nexusmods.com/grounded"
+    },
+    {
+      "id": "hearts-of-iron-iv",
+      "name": "Hearts of Iron IV",
+      "tier": "nexus-only",
+      "steamAppId": "394360",
+      "steamUrl": "https://store.steampowered.com/app/394360/",
+      "nexusUrl": "https://www.nexusmods.com/heartsofironiv"
+    },
+    {
+      "id": "helldivers-2",
+      "name": "Helldivers 2",
+      "tier": "engine-curated",
+      "steamAppId": "553850",
+      "steamUrl": "https://store.steampowered.com/app/553850/",
+      "engine": "custom",
+      "modPath": "data",
+      "nexusUrl": "https://www.nexusmods.com/helldivers2"
+    },
+    {
+      "id": "hogwarts-legacy",
+      "name": "Hogwarts Legacy",
+      "tier": "engine-curated",
+      "steamAppId": "990080",
+      "steamUrl": "https://store.steampowered.com/app/990080/",
+      "engine": "ue-pak",
+      "modPath": "Phoenix/Content/Paks/~mods",
+      "featured": 14,
+      "nexusUrl": "https://www.nexusmods.com/hogwartslegacy"
+    },
+    {
+      "id": "hollow-knight",
+      "name": "Hollow Knight",
+      "tier": "engine-curated",
+      "steamAppId": "367520",
+      "steamUrl": "https://store.steampowered.com/app/367520/",
+      "engine": "custom",
+      "modPath": "hollow_knight_Data/Managed/Mods",
+      "nexusUrl": "https://www.nexusmods.com/hollowknight"
+    },
+    {
+      "id": "hollow-knight-silksong",
+      "name": "Hollow Knight: Silksong",
+      "tier": "engine-curated",
+      "steamAppId": "1030300",
+      "steamUrl": "https://store.steampowered.com/app/1030300/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/hollowknightsilksong"
+    },
+    {
+      "id": "inscryption",
+      "name": "Inscryption",
+      "tier": "engine-curated",
+      "steamAppId": "1092790",
+      "steamUrl": "https://store.steampowered.com/app/1092790/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/inscryption"
+    },
+    {
+      "id": "jurassic-world-evolution-2",
+      "name": "Jurassic World Evolution 2",
+      "tier": "engine-curated",
+      "steamAppId": "1244460",
+      "steamUrl": "https://store.steampowered.com/app/1244460/",
+      "engine": "custom",
+      "modPath": "Win64/ovldata",
+      "nexusUrl": "https://www.nexusmods.com/jurassicworldevolution2"
+    },
+    {
+      "id": "kerbal-space-program",
+      "name": "Kerbal Space Program",
+      "tier": "engine-curated",
+      "steamAppId": "220200",
+      "steamUrl": "https://store.steampowered.com/app/220200/",
+      "engine": "custom",
+      "modPath": "GameData",
+      "nexusUrl": "https://www.nexusmods.com/kerbalspaceprogram"
+    },
+    {
+      "id": "kingdom-come-deliverance",
+      "name": "Kingdom Come: Deliverance",
+      "tier": "engine-curated",
+      "steamAppId": "379430",
+      "steamUrl": "https://store.steampowered.com/app/379430/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/kingdomcomedeliverance"
+    },
+    {
+      "id": "kingdom-come-deliverance-ii",
+      "name": "Kingdom Come: Deliverance II",
+      "tier": "engine-curated",
+      "steamAppId": "1771300",
+      "steamUrl": "https://store.steampowered.com/app/1771300/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/kingdomcomedeliverance2"
+    },
+    {
+      "id": "left-4-dead-2",
+      "name": "Left 4 Dead 2",
+      "tier": "engine-curated",
+      "steamAppId": "550",
+      "steamUrl": "https://store.steampowered.com/app/550/",
+      "engine": "source",
+      "modPath": "left4dead2/addons",
+      "nexusUrl": "https://www.nexusmods.com/left4dead2"
+    },
+    {
+      "id": "lethal-company",
+      "name": "Lethal Company",
+      "tier": "engine-curated",
+      "steamAppId": "1966720",
+      "steamUrl": "https://store.steampowered.com/app/1966720/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "featured": 16,
+      "nexusUrl": "https://www.nexusmods.com/lethalcompany"
+    },
+    {
+      "id": "lies-of-p",
+      "name": "Lies of P",
+      "tier": "engine-curated",
+      "steamAppId": "1627720",
+      "steamUrl": "https://store.steampowered.com/app/1627720/",
+      "engine": "ue-pak",
+      "modPath": "LiesofP/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/liesofp"
+    },
+    {
+      "id": "marvel-rivals",
+      "name": "Marvel Rivals",
+      "tier": "engine-curated",
+      "steamAppId": "2767030",
+      "steamUrl": "https://store.steampowered.com/app/2767030/",
+      "engine": "ue-pak",
+      "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/marvelrivals"
+    },
+    {
+      "id": "mass-effect-legendary-edition",
+      "name": "Mass Effect Legendary Edition",
+      "tier": "nexus-only",
+      "steamAppId": "1328670",
+      "steamUrl": "https://store.steampowered.com/app/1328670/",
+      "nexusUrl": "https://www.nexusmods.com/masseffectlegendaryedition"
+    },
+    {
+      "id": "metal-gear-solid-2-sons-of-liberty-master-collection-version",
+      "name": "Metal Gear Solid 2: Sons of Liberty - Master Collection Version",
+      "tier": "engine-curated",
+      "steamAppId": "2131640",
+      "steamUrl": "https://store.steampowered.com/app/2131640/",
+      "engine": "custom",
+      "modPath": "textures/flatlist/_win",
+      "nexusUrl": "https://www.nexusmods.com/metalgearsolid2mc"
+    },
+    {
+      "id": "metal-gear-solid-3-snake-eater-master-collection-version",
+      "name": "Metal Gear Solid 3: Snake Eater - Master Collection Version",
+      "tier": "engine-curated",
+      "steamAppId": "2131650",
+      "steamUrl": "https://store.steampowered.com/app/2131650/",
+      "engine": "custom",
+      "modPath": "textures/flatlist/ovr_stm/_win",
+      "nexusUrl": "https://www.nexusmods.com/metalgearsolid3mc"
+    },
+    {
+      "id": "monster-hunter-rise",
+      "name": "Monster Hunter Rise",
+      "tier": "engine-curated",
+      "steamAppId": "1446780",
+      "steamUrl": "https://store.steampowered.com/app/1446780/",
+      "engine": "custom",
+      "modPath": "natives/STM",
+      "nexusUrl": "https://www.nexusmods.com/monsterhunterrise"
+    },
+    {
+      "id": "monster-hunter-wilds",
+      "name": "Monster Hunter Wilds",
+      "tier": "engine-curated",
+      "steamAppId": "2246340",
+      "steamUrl": "https://store.steampowered.com/app/2246340/",
+      "engine": "custom",
+      "modPath": "reframework/autorun",
+      "nexusUrl": "https://www.nexusmods.com/monsterhunterwilds"
+    },
+    {
+      "id": "monster-hunter-world",
+      "name": "Monster Hunter: World",
+      "tier": "engine-curated",
+      "steamAppId": "582010",
+      "steamUrl": "https://store.steampowered.com/app/582010/",
+      "engine": "custom",
+      "modPath": "NativePC",
+      "featured": 10,
+      "nexusUrl": "https://www.nexusmods.com/monsterhunterworld"
+    },
+    {
+      "id": "mount-blade-ii-bannerlord",
+      "name": "Mount & Blade II: Bannerlord",
+      "tier": "engine-curated",
+      "steamAppId": "261550",
+      "steamUrl": "https://store.steampowered.com/app/261550/",
+      "engine": "custom",
+      "modPath": "Modules",
+      "nexusUrl": "https://www.nexusmods.com/mountandblade2bannerlord"
+    },
+    {
+      "id": "neverwinter-nights-enhanced-edition",
+      "name": "Neverwinter Nights: Enhanced Edition",
+      "tier": "nexus-only",
+      "steamAppId": "704450",
+      "steamUrl": "https://store.steampowered.com/app/704450/",
+      "nexusUrl": "https://www.nexusmods.com/neverwinter"
+    },
+    {
+      "id": "nier-automata",
+      "name": "NieR: Automata",
+      "tier": "nexus-only",
+      "steamAppId": "524220",
+      "steamUrl": "https://store.steampowered.com/app/524220/",
+      "nexusUrl": "https://www.nexusmods.com/nierautomata"
+    },
+    {
+      "id": "nioh-2-the-complete-edition",
+      "name": "Nioh 2 – The Complete Edition",
+      "tier": "nexus-only",
+      "steamAppId": "1325200",
+      "steamUrl": "https://store.steampowered.com/app/1325200/",
+      "nexusUrl": "https://www.nexusmods.com/nioh2"
+    },
+    {
+      "id": "no-man-s-sky",
+      "name": "No Man's Sky",
+      "tier": "engine-curated",
+      "steamAppId": "275850",
+      "steamUrl": "https://store.steampowered.com/app/275850/",
+      "engine": "custom",
+      "modPath": "GAMEDATA/PCBANKS/MODS",
+      "featured": 15,
+      "nexusUrl": "https://www.nexusmods.com/nomanssky"
+    },
+    {
+      "id": "outer-wilds",
+      "name": "Outer Wilds",
+      "tier": "nexus-only",
+      "steamAppId": "753640",
+      "steamUrl": "https://store.steampowered.com/app/753640/",
+      "nexusUrl": "https://www.nexusmods.com/outerwilds"
+    },
+    {
+      "id": "oxygen-not-included",
+      "name": "Oxygen Not Included",
+      "tier": "nexus-only",
+      "steamAppId": "457140",
+      "steamUrl": "https://store.steampowered.com/app/457140/",
+      "nexusUrl": "https://www.nexusmods.com/oxygennotincluded"
+    },
+    {
+      "id": "palworld",
+      "name": "Palworld",
+      "tier": "engine-curated",
+      "steamAppId": "1623730",
+      "steamUrl": "https://store.steampowered.com/app/1623730/",
+      "engine": "ue-pak",
+      "modPath": "Pal/Content/Paks/~mods",
+      "featured": 18,
+      "nexusUrl": "https://www.nexusmods.com/palworld"
+    },
+    {
+      "id": "pathfinder-kingmaker",
+      "name": "Pathfinder: Kingmaker - Enhanced Plus Edition",
+      "tier": "engine-curated",
+      "steamAppId": "640820",
+      "steamUrl": "https://store.steampowered.com/app/640820/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/pathfinderkingmaker"
+    },
+    {
+      "id": "pathfinder-wrath-of-the-righteous",
+      "name": "Pathfinder: Wrath of the Righteous - Enhanced Edition",
+      "tier": "engine-curated",
+      "steamAppId": "1184370",
+      "steamUrl": "https://store.steampowered.com/app/1184370/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/pathfinderwrathoftherighteous"
+    },
+    {
+      "id": "phasmophobia",
+      "name": "Phasmophobia",
+      "tier": "engine-curated",
+      "steamAppId": "739630",
+      "steamUrl": "https://store.steampowered.com/app/739630/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/phasmophobia"
+    },
+    {
+      "id": "pillars-of-eternity",
+      "name": "Pillars of Eternity",
+      "tier": "engine-curated",
+      "steamAppId": "291650",
+      "steamUrl": "https://store.steampowered.com/app/291650/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/pillarsofeternity"
+    },
+    {
+      "id": "pillars-of-eternity-ii-deadfire",
+      "name": "Pillars of Eternity II: Deadfire",
+      "tier": "engine-curated",
+      "steamAppId": "560130",
+      "steamUrl": "https://store.steampowered.com/app/560130/",
+      "engine": "custom",
+      "modPath": "PillarsOfEternityII_Data/override",
+      "nexusUrl": "https://www.nexusmods.com/pillarsofeternity2"
+    },
+    {
+      "id": "planet-zoo",
+      "name": "Planet Zoo",
+      "tier": "engine-curated",
+      "steamAppId": "703080",
+      "steamUrl": "https://store.steampowered.com/app/703080/",
+      "engine": "custom",
+      "modPath": "win64/ovldata",
+      "nexusUrl": "https://www.nexusmods.com/planetzoo"
+    },
+    {
+      "id": "project-zomboid",
+      "name": "Project Zomboid",
+      "tier": "nexus-only",
+      "steamAppId": "108600",
+      "steamUrl": "https://store.steampowered.com/app/108600/",
+      "nexusUrl": "https://www.nexusmods.com/projectzomboid"
+    },
+    {
+      "id": "r-e-p-o",
+      "name": "R.E.P.O.",
+      "tier": "engine-curated",
+      "steamAppId": "3241660",
+      "steamUrl": "https://store.steampowered.com/app/3241660/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/repo"
+    },
+    {
+      "id": "ready-or-not",
+      "name": "Ready or Not",
+      "tier": "engine-curated",
+      "steamAppId": "1144200",
+      "steamUrl": "https://store.steampowered.com/app/1144200/",
+      "engine": "ue-pak",
+      "modPath": "ReadyOrNot/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/readyornot"
+    },
+    {
+      "id": "red-dead-redemption-2",
+      "name": "Red Dead Redemption 2",
+      "tier": "nexus-only",
+      "steamAppId": "1174180",
+      "steamUrl": "https://store.steampowered.com/app/1174180/",
+      "nexusUrl": "https://www.nexusmods.com/reddeadredemption2"
+    },
+    {
+      "id": "remnant-ii",
+      "name": "Remnant II",
+      "tier": "engine-curated",
+      "steamAppId": "1282100",
+      "steamUrl": "https://store.steampowered.com/app/1282100/",
+      "engine": "ue-pak",
+      "modPath": "Remnant2/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/remnant2"
+    },
+    {
+      "id": "rimworld",
+      "name": "RimWorld",
+      "tier": "engine-curated",
+      "steamAppId": "294100",
+      "steamUrl": "https://store.steampowered.com/app/294100/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "featured": 17,
+      "nexusUrl": "https://www.nexusmods.com/rimworld"
+    },
+    {
+      "id": "risk-of-rain-2",
+      "name": "Risk of Rain 2",
+      "tier": "engine-curated",
+      "steamAppId": "632360",
+      "steamUrl": "https://store.steampowered.com/app/632360/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/riskofrain2"
+    },
+    {
+      "id": "s-t-a-l-k-e-r-2-heart-of-chornobyl",
+      "name": "S.T.A.L.K.E.R. 2: Heart of Chornobyl",
+      "tier": "engine-curated",
+      "steamAppId": "1643320",
+      "steamUrl": "https://store.steampowered.com/app/1643320/",
+      "engine": "ue-pak",
+      "modPath": "Stalker2/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/stalker2heartofchornobyl"
+    },
+    {
+      "id": "satisfactory",
+      "name": "Satisfactory",
+      "tier": "engine-curated",
+      "steamAppId": "526870",
+      "steamUrl": "https://store.steampowered.com/app/526870/",
+      "engine": "custom",
+      "modPath": "FactoryGame/Mods",
+      "nexusUrl": "https://www.nexusmods.com/satisfactory"
+    },
+    {
+      "id": "schedule-i",
+      "name": "Schedule I",
+      "tier": "engine-curated",
+      "steamAppId": "3164500",
+      "steamUrl": "https://store.steampowered.com/app/3164500/",
+      "engine": "melonloader",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/schedule1"
+    },
+    {
+      "id": "sekiro-shadows-die-twice",
+      "name": "Sekiro: Shadows Die Twice",
+      "tier": "engine-curated",
+      "steamAppId": "814380",
+      "steamUrl": "https://store.steampowered.com/app/814380/",
+      "engine": "fromsoft",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/sekiro"
+    },
+    {
+      "id": "sid-meier-s-civilization-v",
+      "name": "Sid Meier's Civilization V",
+      "tier": "nexus-only",
+      "steamAppId": "8930",
+      "steamUrl": "https://store.steampowered.com/app/8930/",
+      "nexusUrl": "https://www.nexusmods.com/civilisationv"
+    },
+    {
+      "id": "sid-meier-s-civilization-vi",
+      "name": "Sid Meier's Civilization VI",
+      "tier": "nexus-only",
+      "steamAppId": "289070",
+      "steamUrl": "https://store.steampowered.com/app/289070/",
+      "nexusUrl": "https://www.nexusmods.com/civilisationvi"
+    },
+    {
+      "id": "sifu",
+      "name": "Sifu",
+      "tier": "engine-curated",
+      "steamAppId": "2138710",
+      "steamUrl": "https://store.steampowered.com/app/2138710/",
+      "engine": "ue-pak",
+      "modPath": "Sifu/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/sifu"
+    },
+    {
+      "id": "slay-the-spire",
+      "name": "Slay the Spire",
+      "tier": "engine-curated",
+      "steamAppId": "646570",
+      "steamUrl": "https://store.steampowered.com/app/646570/",
+      "engine": "custom",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/slaythespire"
+    },
+    {
+      "id": "slay-the-spire-2",
+      "name": "Slay the Spire 2",
+      "tier": "engine-curated",
+      "steamAppId": "2868840",
+      "steamUrl": "https://store.steampowered.com/app/2868840/",
+      "engine": "custom",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/slaythespire2"
+    },
+    {
+      "id": "slime-rancher-2",
+      "name": "Slime Rancher 2",
+      "tier": "engine-curated",
+      "steamAppId": "1657630",
+      "steamUrl": "https://store.steampowered.com/app/1657630/",
+      "engine": "melonloader",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/slimerancher2"
+    },
+    {
+      "id": "sons-of-the-forest",
+      "name": "Sons of the Forest",
+      "tier": "engine-curated",
+      "steamAppId": "1326470",
+      "steamUrl": "https://store.steampowered.com/app/1326470/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/sonsoftheforest"
+    },
+    {
+      "id": "stacklands",
+      "name": "Stacklands",
+      "tier": "engine-curated",
+      "steamAppId": "1948280",
+      "steamUrl": "https://store.steampowered.com/app/1948280/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/stacklands"
+    },
+    {
+      "id": "star-wars-empire-at-war",
+      "name": "Star Wars: Empire at War",
+      "tier": "engine-curated",
+      "steamAppId": "32470",
+      "steamUrl": "https://store.steampowered.com/app/32470/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/starwarsempireatwar"
+    },
+    {
+      "id": "stardew-valley",
+      "name": "Stardew Valley",
+      "tier": "engine-curated",
+      "steamAppId": "413150",
+      "steamUrl": "https://store.steampowered.com/app/413150/",
+      "engine": "smapi",
+      "modPath": "Mods",
+      "featured": 6,
+      "nexusUrl": "https://www.nexusmods.com/stardewvalley"
+    },
+    {
+      "id": "starfield",
+      "name": "Starfield",
+      "tier": "engine-curated",
+      "steamAppId": "1716740",
+      "steamUrl": "https://store.steampowered.com/app/1716740/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 7,
+      "nexusUrl": "https://www.nexusmods.com/starfield"
+    },
+    {
+      "id": "stellar-blade",
+      "name": "Stellar Blade",
+      "tier": "engine-curated",
+      "steamAppId": "3489700",
+      "steamUrl": "https://store.steampowered.com/app/3489700/",
+      "engine": "ue-pak",
+      "modPath": "Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/stellarblade"
+    },
+    {
+      "id": "stellaris",
+      "name": "Stellaris",
+      "tier": "nexus-only",
+      "steamAppId": "281990",
+      "steamUrl": "https://store.steampowered.com/app/281990/",
+      "nexusUrl": "https://www.nexusmods.com/stellaris"
+    },
+    {
+      "id": "subnautica",
+      "name": "Subnautica",
+      "tier": "engine-curated",
+      "steamAppId": "264710",
+      "steamUrl": "https://store.steampowered.com/app/264710/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "featured": 11,
+      "nexusUrl": "https://www.nexusmods.com/subnautica"
+    },
+    {
+      "id": "subnautica-below-zero",
+      "name": "Subnautica: Below Zero",
+      "tier": "engine-curated",
+      "steamAppId": "848450",
+      "steamUrl": "https://store.steampowered.com/app/848450/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/subnauticabelowzero"
+    },
+    {
+      "id": "supermarket-simulator",
+      "name": "Supermarket Simulator",
+      "tier": "engine-curated",
+      "steamAppId": "2670630",
+      "steamUrl": "https://store.steampowered.com/app/2670630/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/supermarketsimulator"
+    },
+    {
+      "id": "terraria",
+      "name": "Terraria",
+      "tier": "nexus-only",
+      "steamAppId": "105600",
+      "steamUrl": "https://store.steampowered.com/app/105600/",
+      "nexusUrl": "https://www.nexusmods.com/terraria"
+    },
+    {
+      "id": "test-drive-unlimited-2",
+      "name": "Test Drive Unlimited 2",
+      "tier": "nexus-only",
+      "steamAppId": "9930",
+      "steamUrl": "https://store.steampowered.com/app/9930/",
+      "nexusUrl": "https://www.nexusmods.com/testdriveunlimited2"
+    },
+    {
+      "id": "the-binding-of-isaac-rebirth",
+      "name": "The Binding of Isaac: Rebirth",
+      "tier": "engine-curated",
+      "steamAppId": "250900",
+      "steamUrl": "https://store.steampowered.com/app/250900/",
+      "engine": "custom",
+      "modPath": "mods",
+      "nexusUrl": "https://www.nexusmods.com/thebindingofisaacrebirth"
+    },
+    {
+      "id": "the-elder-scrolls-iii-morrowind",
+      "name": "The Elder Scrolls III: Morrowind",
+      "tier": "engine-curated",
+      "steamAppId": "22320",
+      "steamUrl": "https://store.steampowered.com/app/22320/",
+      "engine": "bethesda",
+      "modPath": "Data Files",
+      "nexusUrl": "https://www.nexusmods.com/morrowind"
+    },
+    {
+      "id": "the-elder-scrolls-iv-oblivion",
+      "name": "The Elder Scrolls IV: Oblivion",
+      "tier": "engine-curated",
+      "steamAppId": "22330",
+      "steamUrl": "https://store.steampowered.com/app/22330/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 13
+    },
+    {
+      "id": "the-elder-scrolls-iv-oblivion-remastered",
+      "name": "The Elder Scrolls IV: Oblivion Remastered",
+      "tier": "engine-curated",
+      "steamAppId": "2623190",
+      "steamUrl": "https://store.steampowered.com/app/2623190/",
+      "engine": "ue-pak",
+      "modPath": "OblivionRemastered/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/oblivionremastered"
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim",
+      "name": "The Elder Scrolls V: Skyrim",
+      "tier": "engine-curated",
+      "steamAppId": "72850",
+      "steamUrl": "https://store.steampowered.com/app/72850/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 8
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim-special-edition",
+      "name": "The Elder Scrolls V: Skyrim Special Edition",
+      "tier": "engine-curated",
+      "steamAppId": "489830",
+      "steamUrl": "https://store.steampowered.com/app/489830/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "featured": 1,
+      "nexusUrl": "https://www.nexusmods.com/skyrimspecialedition"
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim-vr",
+      "name": "The Elder Scrolls V: Skyrim VR",
+      "tier": "engine-curated",
+      "steamAppId": "611670",
+      "steamUrl": "https://store.steampowered.com/app/611670/",
+      "engine": "bethesda",
+      "modPath": "Data",
+      "nexusUrl": "https://www.nexusmods.com/skyrimspecialedition"
+    },
+    {
+      "id": "the-sims-4",
+      "name": "The Sims 4",
+      "tier": "nexus-only",
+      "steamAppId": "1222670",
+      "steamUrl": "https://store.steampowered.com/app/1222670/",
+      "nexusUrl": "https://www.nexusmods.com/thesims4"
+    },
+    {
+      "id": "the-witcher",
+      "name": "The Witcher",
+      "tier": "engine-curated",
+      "steamAppId": "20900",
+      "steamUrl": "https://store.steampowered.com/app/20900/",
+      "engine": "custom",
+      "modPath": "Data/Override",
+      "nexusUrl": "https://www.nexusmods.com/witcher"
+    },
+    {
+      "id": "the-witcher-2-assassins-of-kings",
+      "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+      "tier": "nexus-only",
+      "steamAppId": "20920",
+      "steamUrl": "https://store.steampowered.com/app/20920/",
+      "nexusUrl": "https://www.nexusmods.com/witcher2"
+    },
+    {
+      "id": "the-witcher-3-wild-hunt",
+      "name": "The Witcher 3: Wild Hunt",
+      "tier": "engine-curated",
+      "steamAppId": "292030",
+      "steamUrl": "https://store.steampowered.com/app/292030/",
+      "engine": "custom",
+      "modPath": "mods",
+      "featured": 5,
+      "nexusUrl": "https://www.nexusmods.com/witcher3"
+    },
+    {
+      "id": "total-war-three-kingdoms",
+      "name": "Total War: THREE KINGDOMS",
+      "tier": "nexus-only",
+      "steamAppId": "779340",
+      "steamUrl": "https://store.steampowered.com/app/779340/",
+      "nexusUrl": "https://www.nexusmods.com/totalwarthreekingdoms"
+    },
+    {
+      "id": "total-war-warhammer-ii",
+      "name": "Total War: WARHAMMER II",
+      "tier": "engine-curated",
+      "steamAppId": "594570",
+      "steamUrl": "https://store.steampowered.com/app/594570/",
+      "engine": "custom",
+      "modPath": "data",
+      "nexusUrl": "https://www.nexusmods.com/totalwarwarhammer2"
+    },
+    {
+      "id": "total-war-warhammer-iii",
+      "name": "Total War: WARHAMMER III",
+      "tier": "engine-curated",
+      "steamAppId": "1142710",
+      "steamUrl": "https://store.steampowered.com/app/1142710/",
+      "engine": "custom",
+      "modPath": "data",
+      "nexusUrl": "https://www.nexusmods.com/totalwarwarhammer3"
+    },
+    {
+      "id": "trackmania-united-forever",
+      "name": "TrackMania United Forever",
+      "tier": "nexus-only",
+      "steamAppId": "7200",
+      "steamUrl": "https://store.steampowered.com/app/7200/",
+      "nexusUrl": "https://www.nexusmods.com/trackmaniaunited"
+    },
+    {
+      "id": "tropico-6",
+      "name": "Tropico 6",
+      "tier": "engine-curated",
+      "steamAppId": "492720",
+      "steamUrl": "https://store.steampowered.com/app/492720/",
+      "engine": "ue-pak",
+      "modPath": "Tropico6/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/tropico6"
+    },
+    {
+      "id": "two-point-campus",
+      "name": "Two Point Campus",
+      "tier": "nexus-only",
+      "steamAppId": "1649080",
+      "steamUrl": "https://store.steampowered.com/app/1649080/",
+      "nexusUrl": "https://www.nexusmods.com/twopointcampus"
+    },
+    {
+      "id": "two-point-hospital",
+      "name": "Two Point Hospital",
+      "tier": "nexus-only",
+      "steamAppId": "535930",
+      "steamUrl": "https://store.steampowered.com/app/535930/",
+      "nexusUrl": "https://www.nexusmods.com/twopointhospital"
+    },
+    {
+      "id": "tyranny",
+      "name": "Tyranny",
+      "tier": "nexus-only",
+      "steamAppId": "362960",
+      "steamUrl": "https://store.steampowered.com/app/362960/",
+      "nexusUrl": "https://www.nexusmods.com/tyranny"
+    },
+    {
+      "id": "v-rising",
+      "name": "V Rising",
+      "tier": "engine-curated",
+      "steamAppId": "1604030",
+      "steamUrl": "https://store.steampowered.com/app/1604030/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "nexusUrl": "https://www.nexusmods.com/vrising"
+    },
+    {
+      "id": "valheim",
+      "name": "Valheim",
+      "tier": "engine-curated",
+      "steamAppId": "892970",
+      "steamUrl": "https://store.steampowered.com/app/892970/",
+      "engine": "bepinex",
+      "modPath": "BepInEx/plugins",
+      "featured": 12,
+      "nexusUrl": "https://www.nexusmods.com/valheim"
+    },
+    {
+      "id": "vampire-survivors",
+      "name": "Vampire Survivors",
+      "tier": "engine-curated",
+      "steamAppId": "1794680",
+      "steamUrl": "https://store.steampowered.com/app/1794680/",
+      "engine": "melonloader",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/vampiresurvivors"
+    },
+    {
+      "id": "vampire-the-masquerade-bloodlines",
+      "name": "Vampire: The Masquerade - Bloodlines",
+      "tier": "engine-curated",
+      "steamAppId": "2600",
+      "steamUrl": "https://store.steampowered.com/app/2600/",
+      "engine": "source",
+      "modPath": "Vampire",
+      "nexusUrl": "https://www.nexusmods.com/vampirebloodlines"
+    },
+    {
+      "id": "victoria-3",
+      "name": "Victoria 3",
+      "tier": "nexus-only",
+      "steamAppId": "529340",
+      "steamUrl": "https://store.steampowered.com/app/529340/",
+      "nexusUrl": "https://www.nexusmods.com/victoria3"
+    },
+    {
+      "id": "warhammer-40-000-rogue-trader",
+      "name": "Warhammer 40,000: Rogue Trader",
+      "tier": "nexus-only",
+      "steamAppId": "2186680",
+      "steamUrl": "https://store.steampowered.com/app/2186680/",
+      "nexusUrl": "https://www.nexusmods.com/warhammer40kroguetrader"
+    },
+    {
+      "id": "warhammer-40-000-space-marine-ii",
+      "name": "Warhammer 40,000: Space Marine 2",
+      "tier": "engine-curated",
+      "steamAppId": "2183900",
+      "steamUrl": "https://store.steampowered.com/app/2183900/",
+      "engine": "custom",
+      "modPath": "client_pc/root/mods",
+      "nexusUrl": "https://www.nexusmods.com/warhammer40000spacemarine2"
+    },
+    {
+      "id": "wo-long-fallen-dynasty",
+      "name": "Wo Long: Fallen Dynasty",
+      "tier": "nexus-only",
+      "steamAppId": "1448440",
+      "steamUrl": "https://store.steampowered.com/app/1448440/",
+      "nexusUrl": "https://www.nexusmods.com/wolongfallendynasty"
+    },
+    {
+      "id": "xcom-2",
+      "name": "XCOM 2",
+      "tier": "engine-curated",
+      "steamAppId": "268500",
+      "steamUrl": "https://store.steampowered.com/app/268500/",
+      "engine": "custom",
+      "modPath": "XComGame/Mods",
+      "nexusUrl": "https://www.nexusmods.com/xcom2"
+    },
+    {
+      "id": "yu-gi-oh-master-duel",
+      "name": "Yu-Gi-Oh! Master Duel",
+      "tier": "nexus-only",
+      "steamAppId": "1449850",
+      "steamUrl": "https://store.steampowered.com/app/1449850/",
+      "nexusUrl": "https://www.nexusmods.com/yugiohmasterduel"
+    }
+  ]
+}
