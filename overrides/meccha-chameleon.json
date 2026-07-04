@@ -1,0 +1,9 @@
+{
+  "steamAppId": "4704690",
+  "id": "meccha-chameleon",
+  "name": "MECCHA CHAMELEON",
+  "engine": "ue-pak",
+  "modPath": "Chameleon/Content/Paks/~mods",
+  "nexusDomain": "mecchachameleon",
+  "banRisk": "low"
+}
