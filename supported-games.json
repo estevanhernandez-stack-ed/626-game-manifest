@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-07-03T20:00:08Z",
+  "generatedUtc": "2026-07-04T05:12:09Z",
   "counts": {
-    "total": 149,
-    "engineCurated": 103,
+    "total": 150,
+    "engineCurated": 104,
     "nexusOnly": 46
   },
   "games": [
@@ -685,6 +685,16 @@
       "steamAppId": "1328670",
       "steamUrl": "https://store.steampowered.com/app/1328670/",
       "nexusUrl": "https://www.nexusmods.com/masseffectlegendaryedition"
+    },
+    {
+      "id": "meccha-chameleon",
+      "name": "MECCHA CHAMELEON",
+      "tier": "engine-curated",
+      "steamAppId": "4704690",
+      "steamUrl": "https://store.steampowered.com/app/4704690/",
+      "engine": "ue-pak",
+      "modPath": "Chameleon/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/mecchachameleon"
     },
     {
       "id": "metal-gear-solid-2-sons-of-liberty-master-collection-version",

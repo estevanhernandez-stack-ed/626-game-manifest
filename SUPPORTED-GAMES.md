@@ -1,6 +1,6 @@
 # Supported games
 
-**149 games** — 103 engine-curated · 46 Nexus-only. Generated 2026-07-03T20:00:08Z.
+**150 games** — 104 engine-curated · 46 Nexus-only. Generated 2026-07-04T05:12:09Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -27,7 +27,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (103)
+## Engine-curated (104)
 
 | Game | Engine | Mod path | Steam | Nexus |
 |---|---|---|---|---|
@@ -80,6 +80,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Lethal Company | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/1966720/) | [Nexus](https://www.nexusmods.com/lethalcompany) |
 | Lies of P | `ue-pak` | `LiesofP/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/1627720/) | [Nexus](https://www.nexusmods.com/liesofp) |
 | Marvel Rivals | `ue-pak` | `MarvelGame/Marvel/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/2767030/) | [Nexus](https://www.nexusmods.com/marvelrivals) |
+| MECCHA CHAMELEON | `ue-pak` | `Chameleon/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/4704690/) | [Nexus](https://www.nexusmods.com/mecchachameleon) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | `custom` | `textures/flatlist/_win` | [Steam](https://store.steampowered.com/app/2131640/) | [Nexus](https://www.nexusmods.com/metalgearsolid2mc) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | `custom` | `textures/flatlist/ovr_stm/_win` | [Steam](https://store.steampowered.com/app/2131650/) | [Nexus](https://www.nexusmods.com/metalgearsolid3mc) |
 | Monster Hunter Rise | `custom` | `natives/STM` | [Steam](https://store.steampowered.com/app/1446780/) | [Nexus](https://www.nexusmods.com/monsterhunterrise) |

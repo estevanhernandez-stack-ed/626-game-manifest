@@ -4599,6 +4599,33 @@
         ],
         "status": "curated"
       }
+    },
+    {
+      "id": "meccha-chameleon",
+      "name": "MECCHA CHAMELEON",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "4704690",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "mecchachameleon",
+      "curseforgeGameId": null,
+      "modPath": "Chameleon/Content/Paks/~mods",
+      "saveDirHint": null,
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
     }
   ]
 }
