@@ -1,6 +1,6 @@
 # Supported games
 
-**150 games** — 104 engine-curated · 46 Nexus-only. Generated 2026-07-04T05:12:09Z.
+**150 games** — 104 engine-curated · 46 Nexus-only. Generated 2026-07-06T07:24:31Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
