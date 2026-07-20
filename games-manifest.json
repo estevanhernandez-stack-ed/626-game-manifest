@@ -530,7 +530,7 @@
       "nexusDomain": "cultofthelamb",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Massive Monster/Cult Of The Lamb/saves/meta_*.json",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Massive Monster/Cult Of The Lamb/saves",
       "fileExtensions": [
         "dll"
       ],
@@ -2181,6 +2181,34 @@
           "ludusavi",
           "mo2",
           "curated",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "meccha-chameleon",
+      "name": "MECCHA CHAMELEON",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "4704690",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "mecchachameleon",
+      "curseforgeGameId": null,
+      "modPath": "Chameleon/Content/Paks/~mods",
+      "saveDirHint": null,
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "low",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -4591,33 +4619,6 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
-      "provenance": {
-        "sources": [
-          "curated",
-          "known-engines",
-          "nexus-domains"
-        ],
-        "status": "curated"
-      }
-    },
-    {
-      "id": "meccha-chameleon",
-      "name": "MECCHA CHAMELEON",
-      "engine": "ue-pak",
-      "stores": {
-        "steamAppId": "4704690",
-        "gogId": null,
-        "epicAppName": null,
-        "xboxStoreId": null
-      },
-      "nexusDomain": "mecchachameleon",
-      "curseforgeGameId": null,
-      "modPath": "Chameleon/Content/Paks/~mods",
-      "saveDirHint": null,
-      "fileExtensions": null,
-      "groupingRule": null,
-      "featured": null,
-      "banRisk": "low",
       "provenance": {
         "sources": [
           "curated",
