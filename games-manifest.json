@@ -2199,7 +2199,7 @@
       "nexusDomain": "mecchachameleon",
       "curseforgeGameId": null,
       "modPath": "Chameleon/Content/Paks/~mods",
-      "saveDirHint": null,
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Chameleon/Config/Windows",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
