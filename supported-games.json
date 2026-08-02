@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-07-27T07:01:11Z",
+  "generatedUtc": "2026-08-02T16:04:52Z",
   "counts": {
     "total": 150,
     "engineCurated": 104,
@@ -265,7 +265,7 @@
       "nexusUrl": "https://www.nexusmods.com/deeprockgalactic"
     },
     {
-      "id": "dispatch-2025",
+      "id": "dispatch",
       "name": "Dispatch (2025)",
       "tier": "engine-curated",
       "steamAppId": "2592160",
