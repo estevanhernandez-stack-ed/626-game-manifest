@@ -57,13 +57,26 @@ jobs:
             --out-dir "$GITHUB_WORKSPACE" \
             --generated-utc "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
+      # Sign the static Nexus OAuth config (client_id + endpoints) with the SAME pinned key the launcher
+      # verifies. ECDSA is non-deterministic, so re-signing every run would churn the .sig — sign ONLY when
+      # the .sig is missing (first publish, or after an intentional config change deletes the old .sig).
+      - name: Sign the Nexus OAuth config
+        env:
+          MANIFEST_SIGNING_KEY: ${{ secrets.MANIFEST_SIGNING_KEY }}
+        run: |
+          if [ ! -f nexus-oauth.json.sig ]; then
+            dotnet run --project launcher/tools/ManifestMiner -- --sign-file "$GITHUB_WORKSPACE/nexus-oauth.json"
+          else
+            echo "nexus-oauth.json.sig present — leaving it (delete it to force a re-sign after a config change)."
+          fi
+
       - name: Publish signed manifest
         run: |
           cp launcher/tools/ManifestMiner/out/games-manifest.json games-manifest.json
           cp launcher/tools/ManifestMiner/out/games-manifest.json.sig games-manifest.json.sig
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add games-manifest.json games-manifest.json.sig SUPPORTED-GAMES.md supported-games.json badge.json
+          git add games-manifest.json games-manifest.json.sig SUPPORTED-GAMES.md supported-games.json badge.json nexus-oauth.json nexus-oauth.json.sig
           if git diff --staged --quiet; then
             echo "No manifest changes — nothing to publish."
           else

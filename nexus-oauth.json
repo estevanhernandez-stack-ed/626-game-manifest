@@ -1,0 +1,6 @@
+{
+  "clientId": "626_mod_launcher",
+  "authorizeUrl": "https://users.nexusmods.com/oauth/authorize",
+  "tokenUrl": "https://users.nexusmods.com/oauth/token",
+  "scopes": "public"
+}
