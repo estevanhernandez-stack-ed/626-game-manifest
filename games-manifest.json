@@ -1114,7 +1114,7 @@
     {
       "id": "dragon-s-dogma-dark-arisen",
       "name": "Dragon\u0027s Dogma: Dark Arisen",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "367500",
         "gogId": null,
@@ -1136,6 +1136,7 @@
           "ludusavi",
           "mo2",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -1632,7 +1633,7 @@
     },
     {
       "id": "grand-theft-auto-v",
-      "name": "Grand Theft Auto V (Legacy, single-player)",
+      "name": "Grand Theft Auto V",
       "engine": null,
       "stores": {
         "steamAppId": "271590",
@@ -1647,12 +1648,12 @@
       "fileExtensions": [
         "asi",
         "dll",
-        "rpf",
-        "oiv"
+        "oiv",
+        "rpf"
       ],
       "groupingRule": null,
       "featured": null,
-      "banRisk": null,
+      "banRisk": "high",
       "provenance": {
         "sources": [
           "ludusavi",
@@ -1695,7 +1696,7 @@
     {
       "id": "grounded",
       "name": "Grounded",
-      "engine": null,
+      "engine": "ue-pak",
       "stores": {
         "steamAppId": "962130",
         "gogId": null,
@@ -1704,7 +1705,7 @@
       },
       "nexusDomain": "grounded",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Maine/Content/Paks",
       "saveDirHint": "\u003Chome\u003E/Saved Games/Grounded",
       "fileExtensions": [
         "pak",
@@ -1718,6 +1719,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2478,7 +2480,7 @@
     {
       "id": "nioh-2-the-complete-edition",
       "name": "Nioh 2 \u2013 The Complete Edition",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "1325200",
         "gogId": null,
@@ -2487,9 +2489,14 @@
       },
       "nexusDomain": "nioh2",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Mods",
       "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/NIOH2",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "dds",
+        "fmt",
+        "vb",
+        "ib"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -2497,6 +2504,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -2898,7 +2906,7 @@
     {
       "id": "red-dead-redemption-2",
       "name": "Red Dead Redemption 2",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "1174180",
         "gogId": null,
@@ -2907,21 +2915,24 @@
       },
       "nexusDomain": "reddeadredemption2",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "lml",
       "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/Red Dead Redemption 2/Profiles/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "asi",
         "ini",
         "xml",
-        "rpf"
+        "rpf",
+        "ytd",
+        "ymt"
       ],
       "groupingRule": null,
       "featured": null,
-      "banRisk": "low",
+      "banRisk": "high",
       "provenance": {
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -4008,7 +4019,7 @@
     {
       "id": "the-witcher-2-assassins-of-kings",
       "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "20920",
         "gogId": null,
@@ -4019,7 +4030,11 @@
       "curseforgeGameId": null,
       "modPath": "CookedPC",
       "saveDirHint": "\u003Chome\u003E/Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2/config",
-      "fileExtensions": null,
+      "fileExtensions": [
+        "dzip",
+        "xml",
+        "dds"
+      ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
@@ -4028,6 +4043,7 @@
           "ludusavi",
           "mo2",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -4070,7 +4086,7 @@
     {
       "id": "total-war-three-kingdoms",
       "name": "Total War: THREE KINGDOMS",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "779340",
         "gogId": null,
@@ -4091,6 +4107,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"
@@ -4243,7 +4260,7 @@
     {
       "id": "two-point-hospital",
       "name": "Two Point Hospital",
-      "engine": null,
+      "engine": "custom",
       "stores": {
         "steamAppId": "535930",
         "gogId": null,
@@ -4252,7 +4269,7 @@
       },
       "nexusDomain": "twopointhospital",
       "curseforgeGameId": null,
-      "modPath": null,
+      "modPath": "Mods",
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Two Point Studios/Two Point Hospital/Cloud",
       "fileExtensions": [
         "dll"
@@ -4264,6 +4281,7 @@
         "sources": [
           "ludusavi",
           "curated",
+          "known-engines",
           "nexus-domains"
         ],
         "status": "curated"

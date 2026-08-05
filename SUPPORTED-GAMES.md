@@ -1,6 +1,6 @@
 # Supported games
 
-**150 games** — 104 engine-curated · 46 Nexus-only. Generated 2026-08-03T07:00:55Z.
+**150 games** — 111 engine-curated · 39 Nexus-only. Generated 2026-08-05T00:11:57Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -27,7 +27,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (104)
+## Engine-curated (111)
 
 | Game | Engine | Mod path | Steam | Nexus |
 |---|---|---|---|---|
@@ -55,6 +55,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Divinity: Original Sin | `custom` | `Data/Mods` | [Steam](https://store.steampowered.com/app/230230/) | [Nexus](https://www.nexusmods.com/divinityoriginalsin) |
 | Divinity: Original Sin - Enhanced Edition | `custom` | `Data/Mods` | [Steam](https://store.steampowered.com/app/373420/) | [Nexus](https://www.nexusmods.com/divinityoriginalsinenhancededition) |
 | Don't Starve Together | `custom` | `mods` | [Steam](https://store.steampowered.com/app/322330/) | [Nexus](https://www.nexusmods.com/dontstarvetogether) |
+| Dragon's Dogma: Dark Arisen | `custom` | `nativePC` | [Steam](https://store.steampowered.com/app/367500/) | [Nexus](https://www.nexusmods.com/dragonsdogma) |
 | Dungeon Siege | `custom` | `Resources` | [Steam](https://store.steampowered.com/app/39190/) | [Nexus](https://www.nexusmods.com/dungeonsiege1) |
 | Dyson Sphere Program | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/1366540/) | [Nexus](https://www.nexusmods.com/dysonsphereprogram) |
 | Elden Ring | `fromsoft` | `mods` | [Steam](https://store.steampowered.com/app/1245620/) | [Nexus](https://www.nexusmods.com/eldenring) |
@@ -67,6 +68,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Frostpunk 2 | `ue-pak` | `Frostpunk2/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/1601580/) | [Nexus](https://www.nexusmods.com/frostpunk2) |
 | Garry's Mod | `source` | `garrysmod/addons` | [Steam](https://store.steampowered.com/app/4000/) | [Nexus](https://www.nexusmods.com/garrysmod) |
 | Green Hell | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/815370/) | [Nexus](https://www.nexusmods.com/greenhell) |
+| Grounded | `ue-pak` | `Maine/Content/Paks` | [Steam](https://store.steampowered.com/app/962130/) | [Nexus](https://www.nexusmods.com/grounded) |
 | Helldivers 2 | `custom` | `data` | [Steam](https://store.steampowered.com/app/553850/) | [Nexus](https://www.nexusmods.com/helldivers2) |
 | Hogwarts Legacy | `ue-pak` | `Phoenix/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/990080/) | [Nexus](https://www.nexusmods.com/hogwartslegacy) |
 | Hollow Knight | `custom` | `hollow_knight_Data/Managed/Mods` | [Steam](https://store.steampowered.com/app/367520/) | [Nexus](https://www.nexusmods.com/hollowknight) |
@@ -87,6 +89,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Monster Hunter Wilds | `custom` | `reframework/autorun` | [Steam](https://store.steampowered.com/app/2246340/) | [Nexus](https://www.nexusmods.com/monsterhunterwilds) |
 | Monster Hunter: World | `custom` | `NativePC` | [Steam](https://store.steampowered.com/app/582010/) | [Nexus](https://www.nexusmods.com/monsterhunterworld) |
 | Mount & Blade II: Bannerlord | `custom` | `Modules` | [Steam](https://store.steampowered.com/app/261550/) | [Nexus](https://www.nexusmods.com/mountandblade2bannerlord) |
+| Nioh 2 – The Complete Edition | `custom` | `Mods` | [Steam](https://store.steampowered.com/app/1325200/) | [Nexus](https://www.nexusmods.com/nioh2) |
 | No Man's Sky | `custom` | `GAMEDATA/PCBANKS/MODS` | [Steam](https://store.steampowered.com/app/275850/) | [Nexus](https://www.nexusmods.com/nomanssky) |
 | Palworld | `ue-pak` | `Pal/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/1623730/) | [Nexus](https://www.nexusmods.com/palworld) |
 | Pathfinder: Kingmaker - Enhanced Plus Edition | `custom` | `Mods` | [Steam](https://store.steampowered.com/app/640820/) | [Nexus](https://www.nexusmods.com/pathfinderkingmaker) |
@@ -97,6 +100,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Planet Zoo | `custom` | `win64/ovldata` | [Steam](https://store.steampowered.com/app/703080/) | [Nexus](https://www.nexusmods.com/planetzoo) |
 | R.E.P.O. | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/3241660/) | [Nexus](https://www.nexusmods.com/repo) |
 | Ready or Not | `ue-pak` | `ReadyOrNot/Content/Paks` | [Steam](https://store.steampowered.com/app/1144200/) | [Nexus](https://www.nexusmods.com/readyornot) |
+| Red Dead Redemption 2 | `custom` | `lml` | [Steam](https://store.steampowered.com/app/1174180/) | [Nexus](https://www.nexusmods.com/reddeadredemption2) |
 | Remnant II | `ue-pak` | `Remnant2/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/1282100/) | [Nexus](https://www.nexusmods.com/remnant2) |
 | RimWorld | `custom` | `Mods` | [Steam](https://store.steampowered.com/app/294100/) | [Nexus](https://www.nexusmods.com/rimworld) |
 | Risk of Rain 2 | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/632360/) | [Nexus](https://www.nexusmods.com/riskofrain2) |
@@ -125,10 +129,13 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | The Elder Scrolls V: Skyrim Special Edition | `bethesda` | `Data` | [Steam](https://store.steampowered.com/app/489830/) | [Nexus](https://www.nexusmods.com/skyrimspecialedition) |
 | The Elder Scrolls V: Skyrim VR | `bethesda` | `Data` | [Steam](https://store.steampowered.com/app/611670/) | [Nexus](https://www.nexusmods.com/skyrimspecialedition) |
 | The Witcher | `custom` | `Data/Override` | [Steam](https://store.steampowered.com/app/20900/) | [Nexus](https://www.nexusmods.com/witcher) |
+| The Witcher 2: Assassins of Kings Enhanced Edition | `custom` | `CookedPC` | [Steam](https://store.steampowered.com/app/20920/) | [Nexus](https://www.nexusmods.com/witcher2) |
 | The Witcher 3: Wild Hunt | `custom` | `mods` | [Steam](https://store.steampowered.com/app/292030/) | [Nexus](https://www.nexusmods.com/witcher3) |
+| Total War: THREE KINGDOMS | `custom` | `data` | [Steam](https://store.steampowered.com/app/779340/) | [Nexus](https://www.nexusmods.com/totalwarthreekingdoms) |
 | Total War: WARHAMMER II | `custom` | `data` | [Steam](https://store.steampowered.com/app/594570/) | [Nexus](https://www.nexusmods.com/totalwarwarhammer2) |
 | Total War: WARHAMMER III | `custom` | `data` | [Steam](https://store.steampowered.com/app/1142710/) | [Nexus](https://www.nexusmods.com/totalwarwarhammer3) |
 | Tropico 6 | `ue-pak` | `Tropico6/Content/Paks` | [Steam](https://store.steampowered.com/app/492720/) | [Nexus](https://www.nexusmods.com/tropico6) |
+| Two Point Hospital | `custom` | `Mods` | [Steam](https://store.steampowered.com/app/535930/) | [Nexus](https://www.nexusmods.com/twopointhospital) |
 | V Rising | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/1604030/) | [Nexus](https://www.nexusmods.com/vrising) |
 | Valheim | `bepinex` | `BepInEx/plugins` | [Steam](https://store.steampowered.com/app/892970/) | [Nexus](https://www.nexusmods.com/valheim) |
 | Vampire Survivors | `melonloader` | `Mods` | [Steam](https://store.steampowered.com/app/1794680/) | [Nexus](https://www.nexusmods.com/vampiresurvivors) |
@@ -136,7 +143,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Warhammer 40,000: Space Marine 2 | `custom` | `client_pc/root/mods` | [Steam](https://store.steampowered.com/app/2183900/) | [Nexus](https://www.nexusmods.com/warhammer40000spacemarine2) |
 | XCOM 2 | `custom` | `XComGame/Mods` | [Steam](https://store.steampowered.com/app/268500/) | [Nexus](https://www.nexusmods.com/xcom2) |
 
-## Nexus-only (46)
+## Nexus-only (39)
 
 | Game | Steam | Nexus |
 |---|---|---|
@@ -152,35 +159,28 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Dragon Age: Inquisition | [Steam](https://store.steampowered.com/app/1222690/) | [Nexus](https://www.nexusmods.com/dragonageinquisition) |
 | Dragon Age: Origins - Ultimate Edition | [Steam](https://store.steampowered.com/app/47810/) | [Nexus](https://www.nexusmods.com/dragonage) |
 | Dragon's Dogma 2 | [Steam](https://store.steampowered.com/app/2054970/) | [Nexus](https://www.nexusmods.com/dragonsdogma2) |
-| Dragon's Dogma: Dark Arisen | [Steam](https://store.steampowered.com/app/367500/) | [Nexus](https://www.nexusmods.com/dragonsdogma) |
 | Dungeon Siege II | [Steam](https://store.steampowered.com/app/39200/) | [Nexus](https://www.nexusmods.com/dungeonsiegeii) |
 | Europa Universalis IV | [Steam](https://store.steampowered.com/app/236850/) | [Nexus](https://www.nexusmods.com/europauniversalisiv) |
 | Factorio | [Steam](https://store.steampowered.com/app/427520/) | [Nexus](https://www.nexusmods.com/factorio) |
 | Farming Simulator 22 | [Steam](https://store.steampowered.com/app/1248130/) | [Nexus](https://www.nexusmods.com/farmingsimulator22) |
 | Farming Simulator 25 | [Steam](https://store.steampowered.com/app/2300320/) | [Nexus](https://www.nexusmods.com/farmingsimulator25) |
 | Grand Theft Auto IV: The Complete Edition | [Steam](https://store.steampowered.com/app/12210/) | [Nexus](https://www.nexusmods.com/gta4) |
-| Grand Theft Auto V (Legacy, single-player) | [Steam](https://store.steampowered.com/app/271590/) | [Nexus](https://www.nexusmods.com/gta5) |
-| Grounded | [Steam](https://store.steampowered.com/app/962130/) | [Nexus](https://www.nexusmods.com/grounded) |
+| Grand Theft Auto V | [Steam](https://store.steampowered.com/app/271590/) | [Nexus](https://www.nexusmods.com/gta5) |
 | Hearts of Iron IV | [Steam](https://store.steampowered.com/app/394360/) | [Nexus](https://www.nexusmods.com/heartsofironiv) |
 | Mass Effect Legendary Edition | [Steam](https://store.steampowered.com/app/1328670/) | [Nexus](https://www.nexusmods.com/masseffectlegendaryedition) |
 | Neverwinter Nights: Enhanced Edition | [Steam](https://store.steampowered.com/app/704450/) | [Nexus](https://www.nexusmods.com/neverwinter) |
 | NieR: Automata | [Steam](https://store.steampowered.com/app/524220/) | [Nexus](https://www.nexusmods.com/nierautomata) |
-| Nioh 2 – The Complete Edition | [Steam](https://store.steampowered.com/app/1325200/) | [Nexus](https://www.nexusmods.com/nioh2) |
 | Outer Wilds | [Steam](https://store.steampowered.com/app/753640/) | [Nexus](https://www.nexusmods.com/outerwilds) |
 | Oxygen Not Included | [Steam](https://store.steampowered.com/app/457140/) | [Nexus](https://www.nexusmods.com/oxygennotincluded) |
 | Project Zomboid | [Steam](https://store.steampowered.com/app/108600/) | [Nexus](https://www.nexusmods.com/projectzomboid) |
-| Red Dead Redemption 2 | [Steam](https://store.steampowered.com/app/1174180/) | [Nexus](https://www.nexusmods.com/reddeadredemption2) |
 | Sid Meier's Civilization V | [Steam](https://store.steampowered.com/app/8930/) | [Nexus](https://www.nexusmods.com/civilisationv) |
 | Sid Meier's Civilization VI | [Steam](https://store.steampowered.com/app/289070/) | [Nexus](https://www.nexusmods.com/civilisationvi) |
 | Stellaris | [Steam](https://store.steampowered.com/app/281990/) | [Nexus](https://www.nexusmods.com/stellaris) |
 | Terraria | [Steam](https://store.steampowered.com/app/105600/) | [Nexus](https://www.nexusmods.com/terraria) |
 | Test Drive Unlimited 2 | [Steam](https://store.steampowered.com/app/9930/) | [Nexus](https://www.nexusmods.com/testdriveunlimited2) |
 | The Sims 4 | [Steam](https://store.steampowered.com/app/1222670/) | [Nexus](https://www.nexusmods.com/thesims4) |
-| The Witcher 2: Assassins of Kings Enhanced Edition | [Steam](https://store.steampowered.com/app/20920/) | [Nexus](https://www.nexusmods.com/witcher2) |
-| Total War: THREE KINGDOMS | [Steam](https://store.steampowered.com/app/779340/) | [Nexus](https://www.nexusmods.com/totalwarthreekingdoms) |
 | TrackMania United Forever | [Steam](https://store.steampowered.com/app/7200/) | [Nexus](https://www.nexusmods.com/trackmaniaunited) |
 | Two Point Campus | [Steam](https://store.steampowered.com/app/1649080/) | [Nexus](https://www.nexusmods.com/twopointcampus) |
-| Two Point Hospital | [Steam](https://store.steampowered.com/app/535930/) | [Nexus](https://www.nexusmods.com/twopointhospital) |
 | Tyranny | [Steam](https://store.steampowered.com/app/362960/) | [Nexus](https://www.nexusmods.com/tyranny) |
 | Victoria 3 | [Steam](https://store.steampowered.com/app/529340/) | [Nexus](https://www.nexusmods.com/victoria3) |
 | Warhammer 40,000: Rogue Trader | [Steam](https://store.steampowered.com/app/2186680/) | [Nexus](https://www.nexusmods.com/warhammer40kroguetrader) |

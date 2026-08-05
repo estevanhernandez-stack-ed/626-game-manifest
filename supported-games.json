@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-08-03T07:00:55Z",
+  "generatedUtc": "2026-08-05T00:11:57Z",
   "counts": {
     "total": 150,
-    "engineCurated": 104,
-    "nexusOnly": 46
+    "engineCurated": 111,
+    "nexusOnly": 39
   },
   "games": [
     {
@@ -347,9 +347,11 @@
     {
       "id": "dragon-s-dogma-dark-arisen",
       "name": "Dragon's Dogma: Dark Arisen",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "367500",
       "steamUrl": "https://store.steampowered.com/app/367500/",
+      "engine": "custom",
+      "modPath": "nativePC",
       "nexusUrl": "https://www.nexusmods.com/dragonsdogma"
     },
     {
@@ -514,7 +516,7 @@
     },
     {
       "id": "grand-theft-auto-v",
-      "name": "Grand Theft Auto V (Legacy, single-player)",
+      "name": "Grand Theft Auto V",
       "tier": "nexus-only",
       "steamAppId": "271590",
       "steamUrl": "https://store.steampowered.com/app/271590/",
@@ -533,9 +535,11 @@
     {
       "id": "grounded",
       "name": "Grounded",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "962130",
       "steamUrl": "https://store.steampowered.com/app/962130/",
+      "engine": "ue-pak",
+      "modPath": "Maine/Content/Paks",
       "nexusUrl": "https://www.nexusmods.com/grounded"
     },
     {
@@ -776,9 +780,11 @@
     {
       "id": "nioh-2-the-complete-edition",
       "name": "Nioh 2 – The Complete Edition",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "1325200",
       "steamUrl": "https://store.steampowered.com/app/1325200/",
+      "engine": "custom",
+      "modPath": "Mods",
       "nexusUrl": "https://www.nexusmods.com/nioh2"
     },
     {
@@ -910,9 +916,11 @@
     {
       "id": "red-dead-redemption-2",
       "name": "Red Dead Redemption 2",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "1174180",
       "steamUrl": "https://store.steampowered.com/app/1174180/",
+      "engine": "custom",
+      "modPath": "lml",
       "nexusUrl": "https://www.nexusmods.com/reddeadredemption2"
     },
     {
@@ -1251,9 +1259,11 @@
     {
       "id": "the-witcher-2-assassins-of-kings",
       "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "20920",
       "steamUrl": "https://store.steampowered.com/app/20920/",
+      "engine": "custom",
+      "modPath": "CookedPC",
       "nexusUrl": "https://www.nexusmods.com/witcher2"
     },
     {
@@ -1270,9 +1280,11 @@
     {
       "id": "total-war-three-kingdoms",
       "name": "Total War: THREE KINGDOMS",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "779340",
       "steamUrl": "https://store.steampowered.com/app/779340/",
+      "engine": "custom",
+      "modPath": "data",
       "nexusUrl": "https://www.nexusmods.com/totalwarthreekingdoms"
     },
     {
@@ -1324,9 +1336,11 @@
     {
       "id": "two-point-hospital",
       "name": "Two Point Hospital",
-      "tier": "nexus-only",
+      "tier": "engine-curated",
       "steamAppId": "535930",
       "steamUrl": "https://store.steampowered.com/app/535930/",
+      "engine": "custom",
+      "modPath": "Mods",
       "nexusUrl": "https://www.nexusmods.com/twopointhospital"
     },
     {
