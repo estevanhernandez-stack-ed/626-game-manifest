@@ -4,7 +4,7 @@
   "name": "Nioh 2 – The Complete Edition",
   "nexusDomain": "nioh2",
   "engine": "custom",
-  "modPath": "mods",
+  "modPath": "Mods",
   "fileExtensions": [
     "dds",
     "fmt",
