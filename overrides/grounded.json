@@ -7,5 +7,7 @@
     "pak",
     "utoc",
     "ucas"
-  ]
+  ],
+  "engine": "ue-pak",
+  "modPath": "Maine/Content/Paks"
 }

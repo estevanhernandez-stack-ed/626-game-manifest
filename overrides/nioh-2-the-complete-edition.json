@@ -2,5 +2,13 @@
   "steamAppId": "1325200",
   "id": "nioh-2-the-complete-edition",
   "name": "Nioh 2 – The Complete Edition",
-  "nexusDomain": "nioh2"
+  "nexusDomain": "nioh2",
+  "engine": "custom",
+  "modPath": "Mods",
+  "fileExtensions": [
+    "dds",
+    "fmt",
+    "vb",
+    "ib"
+  ]
 }

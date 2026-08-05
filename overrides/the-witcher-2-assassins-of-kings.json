@@ -1,0 +1,13 @@
+{
+  "steamAppId": "20920",
+  "id": "the-witcher-2-assassins-of-kings",
+  "name": "The Witcher 2: Assassins of Kings Enhanced Edition",
+  "engine": "custom",
+  "modPath": "CookedPC",
+  "nexusDomain": "witcher2",
+  "fileExtensions": [
+    "dzip",
+    "xml",
+    "dds"
+  ]
+}

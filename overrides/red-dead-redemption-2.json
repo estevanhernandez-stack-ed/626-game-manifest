@@ -2,12 +2,16 @@
   "steamAppId": "1174180",
   "id": "red-dead-redemption-2",
   "name": "Red Dead Redemption 2",
+  "engine": "custom",
+  "modPath": "lml",
   "nexusDomain": "reddeadredemption2",
-  "banRisk": "low",
+  "banRisk": "high",
   "fileExtensions": [
     "asi",
     "ini",
     "xml",
-    "rpf"
+    "rpf",
+    "ytd",
+    "ymt"
   ]
 }
