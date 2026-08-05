@@ -10,5 +10,7 @@
     ".patch_0",
     ".gpu_resources",
     ".stream"
-  ]
+  ],
+  "safeRoute": "unclear",
+  "safeRouteHint": "No offline mode exists — GameGuard always runs; cosmetic mods are tolerated so far but unsupported, and a flag won't be reversed."
 }

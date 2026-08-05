@@ -13,5 +13,7 @@
     "mod3",
     "mrl3"
   ],
-  "featured": 10
+  "featured": 10,
+  "safeRoute": "offline",
+  "safeRouteHint": "Huge mod scene, near-zero ban history — keep gameplay-altering mods out of multiplayer."
 }

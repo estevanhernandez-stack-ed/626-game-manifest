@@ -28,6 +28,8 @@
 | `featured` | int \| null | quick-pick rank; null ⇒ not featured |
 | `saveDirHint` | string \| null | descriptive save-location hint |
 | `banRisk` | string \| null | `"low"` / `"medium"` / `"high"` — anti-cheat/ban exposure for online modding. Descriptive only; on `high` the launcher warns + gates enabling behind a one-time acknowledgment (never auto-enables, never hard-blocks). |
+| `safeRoute` | string \| null | `"offline"` / `"private-server"` / `"official-mods"` / `"none"` / `"unclear"` — whether a DOCUMENTED safe modding route exists despite the ban risk. Additive, optional; binaries that predate it ignore it. |
+| `safeRouteHint` | string \| null | One user-facing sentence naming the safe route (or its absence). Rendered by the launcher's ban-risk warning. |
 | `provenance` | object | `{ sources: string[], status: "auto" | "curated" }` |
 
 ## Known engine keys

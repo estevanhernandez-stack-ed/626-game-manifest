@@ -10,5 +10,7 @@
     "lua",
     "pak",
     "dll"
-  ]
+  ],
+  "safeRoute": "offline",
+  "safeRouteHint": "Cosmetic and offline mods have a clean record; DLC-unlocker mods and modded content in multiplayer have drawn documented permanent bans."
 }

@@ -8,5 +8,7 @@
   "banRisk": "medium",
   "fileExtensions": [
     "pak"
-  ]
+  ],
+  "safeRoute": "official-mods",
+  "safeRouteHint": "Officially moddable via Steam Workshop — private Operations lobbies only; modded installs are locked out of public matchmaking, not banned."
 }

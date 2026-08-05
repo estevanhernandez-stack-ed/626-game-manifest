@@ -25,6 +25,8 @@ The published `games-manifest.json` is generated, not hand-edited. CI mines a ba
 | `modPath` | no | The mod folder **relative** to the game root (e.g. `Data`, `Mods`, `Content/Paks/~mods`). Must be relative + safe — no leading `/`, no drive letter, no `..`. |
 | `nexusDomain` | no | The game's Nexus Mods domain slug (the `…/games/<slug>` part of its Nexus URL). |
 | `banRisk` | no | `low` \| `medium` \| `high` — see the guide below. |
+| `safeRoute` | no | Does a DOCUMENTED safe modding route exist despite the risk? `offline` \| `private-server` \| `official-mods` \| `none` \| `unclear`. Only with a `banRisk`; needs a verified source. |
+| `safeRouteHint` | no | One user-facing sentence naming the route (or its absence) — the launcher shows it in the ban-risk warning. |
 | `fileExtensions` | no | Mod file extensions (e.g. `["esp","esl","esm","bsa"]`). |
 | `featured` | no | Quick-pick rank (lower = higher). Only for marquee games. |
 | `saveDirHint` | no | Descriptive save-location hint. |
@@ -44,11 +46,21 @@ If you set neither `engine` nor `nexusDomain`, the entry is dropped — don't su
 
 Pick from the game's **documented mod loader** — don't guess from a folder name (a `Data` folder is Bethesda *or* FromSoft). A loader the launcher doesn't have yet is **not** a data PR — open an issue instead.
 
-### banRisk guide
+### banRisk + safeRoute guide
 
 - `high` — active anti-cheat that bans for file mods, or a primarily-online/competitive title (the launcher gates enabling behind an explicit acknowledgment).
 - `medium` — online with a softer stance / unofficial-server modding.
 - `low` or omit — single-player, no anti-cheat.
+
+`safeRoute` adds the nuance `banRisk` can't carry: HOW hot the stove is vs whether a
+documented handle exists. `offline` = a mode exists where the anti-cheat is off/absent and
+mods touch no one (Elden Ring EAC-off). `private-server` = solo/self-hosted play is
+documented mod-tolerant (Palworld). `official-mods` = the developer sanctions a mod pipeline
+(ARK's CurseForge browser, Space Marine 2's Steam Workshop). `none` = always-online with
+mods blocked or prohibited and no sandbox (Marvel Rivals). `unclear` = policy and enforcement
+disagree — say so honestly in the hint (Phasmophobia: written policy bans file mods in all
+lobby types, enforcement record only shows public-lobby cheating). Every verdict needs a
+documented source, same as everything else in this feed.
 
 ## The one rule: facts, cross-verified
 

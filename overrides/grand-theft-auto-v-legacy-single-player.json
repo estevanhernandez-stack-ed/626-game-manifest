@@ -8,5 +8,8 @@
     "dll",
     "rpf",
     "oiv"
-  ]
+  ],
+  "banRisk": "high",
+  "safeRoute": "offline",
+  "safeRouteHint": "Single-player modding is long-established — never enter GTA Online with mods installed."
 }

@@ -9,5 +9,7 @@
   "fileExtensions": [
     "pak",
     "sig"
-  ]
+  ],
+  "safeRoute": "unclear",
+  "safeRouteHint": "No offline mode and EAC on all official play — mods exist only via the community Unchained launcher on unofficial servers; no documented bans, no official blessing."
 }
