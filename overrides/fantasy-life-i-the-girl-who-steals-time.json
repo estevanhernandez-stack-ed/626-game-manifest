@@ -10,5 +10,7 @@
     "pak",
     "ucas",
     "utoc"
-  ]
+  ],
+  "safeRoute": "offline",
+  "safeRouteHint": "Pak mods are solo-safe (EAC isn't needed offline) and the game blocks modded crossplay itself; no bans documented."
 }

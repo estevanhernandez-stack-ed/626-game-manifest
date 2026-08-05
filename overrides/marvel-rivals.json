@@ -1,1 +1,11 @@
-{ "steamAppId": "2767030", "id": "marvel-rivals", "name": "Marvel Rivals", "engine": "ue-pak", "modPath": "MarvelGame/Marvel/Content/Paks/~mods", "nexusDomain": "marvelrivals", "banRisk": "high" }
+{
+  "steamAppId": "2767030",
+  "id": "marvel-rivals",
+  "name": "Marvel Rivals",
+  "engine": "ue-pak",
+  "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
+  "nexusDomain": "marvelrivals",
+  "banRisk": "high",
+  "safeRoute": "none",
+  "safeRouteHint": "Always-online with file-integrity checks — mods are blocked, against the terms of service, and there is no offline sandbox."
+}

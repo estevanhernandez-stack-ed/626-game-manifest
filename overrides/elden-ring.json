@@ -11,5 +11,7 @@
     "sl2",
     "bin"
   ],
-  "featured": 3
+  "featured": 3,
+  "safeRoute": "offline",
+  "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never carry modded files or saves into vanilla online play."
 }

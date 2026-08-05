@@ -11,5 +11,7 @@
     "bdt",
     "bhd",
     "sl2"
-  ]
+  ],
+  "safeRoute": "offline",
+  "safeRouteHint": "Use Mod Engine's Forced Offline and alternate-save modes; restore vanilla files before returning online."
 }

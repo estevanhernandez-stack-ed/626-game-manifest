@@ -8,5 +8,7 @@
   "banRisk": "medium",
   "fileExtensions": [
     "dll"
-  ]
+  ],
+  "safeRoute": "private-server",
+  "safeRouteHint": "BepInEx mods are fine in solo and on private servers; official servers are the only no-mod zone."
 }

@@ -13,5 +13,7 @@
     "rpf",
     "ytd",
     "ymt"
-  ]
+  ],
+  "safeRoute": "offline",
+  "safeRouteHint": "Mod story mode only — never take mods into Red Dead Online; file mods there draw account bans."
 }

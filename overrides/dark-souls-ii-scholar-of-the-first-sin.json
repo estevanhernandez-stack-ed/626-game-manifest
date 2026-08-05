@@ -5,5 +5,7 @@
   "engine": "fromsoft",
   "modPath": "mod",
   "nexusDomain": "darksouls2",
-  "banRisk": "medium"
+  "banRisk": "medium",
+  "safeRoute": "offline",
+  "safeRouteHint": "Mod in offline mode only — the server flags any injected DLL, not just cheats; even overlays have triggered soft bans online."
 }

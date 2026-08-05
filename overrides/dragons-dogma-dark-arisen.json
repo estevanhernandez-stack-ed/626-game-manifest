@@ -5,5 +5,7 @@
   "nexusDomain": "dragonsdogma",
   "fileExtensions": [
     "arc"
-  ]
+  ],
+  "engine": "custom",
+  "modPath": "nativePC"
 }

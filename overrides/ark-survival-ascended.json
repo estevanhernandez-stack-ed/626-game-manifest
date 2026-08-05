@@ -10,5 +10,7 @@
     "pak",
     "utoc",
     "ucas"
-  ]
+  ],
+  "safeRoute": "official-mods",
+  "safeRouteHint": "Use the official CurseForge mod browser — sanctioned everywhere except vanilla official servers; avoid loose-file mods on BattlEye servers."
 }

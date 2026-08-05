@@ -8,5 +8,7 @@
   "banRisk": "medium",
   "fileExtensions": [
     "vpk"
-  ]
+  ],
+  "safeRoute": "official-mods",
+  "safeRouteHint": "Workshop and VPK mods never trigger VAC — official servers just disable them; only injected code risks a ban."
 }

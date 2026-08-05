@@ -8,5 +8,7 @@
   "banRisk": "high",
   "fileExtensions": [
     "dll"
-  ]
+  ],
+  "safeRoute": "unclear",
+  "safeRouteHint": "Kinetic's Code of Conduct bans file mods in all lobby types — offline singleplayer avoids servers, but reconnecting with a modified save risks your account."
 }
