@@ -6,5 +6,6 @@
   "nexusDomain": "totalwarthreekingdoms",
   "fileExtensions": [
     "pack"
-  ]
+  ],
+  "engine": "custom"
 }

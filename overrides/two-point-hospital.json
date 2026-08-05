@@ -5,5 +5,7 @@
   "nexusDomain": "twopointhospital",
   "fileExtensions": [
     "dll"
-  ]
+  ],
+  "engine": "custom",
+  "modPath": "Mods"
 }

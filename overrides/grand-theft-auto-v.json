@@ -1,0 +1,13 @@
+{
+  "steamAppId": "271590",
+  "id": "grand-theft-auto-v",
+  "name": "Grand Theft Auto V",
+  "nexusDomain": "gta5",
+  "banRisk": "high",
+  "fileExtensions": [
+    "asi",
+    "dll",
+    "oiv",
+    "rpf"
+  ]
+}
