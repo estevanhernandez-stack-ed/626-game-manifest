@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-08-05T00:11:57Z",
+  "generatedUtc": "2026-08-05T00:34:28Z",
   "counts": {
     "total": 150,
     "engineCurated": 111,
@@ -516,7 +516,7 @@
     },
     {
       "id": "grand-theft-auto-v",
-      "name": "Grand Theft Auto V",
+      "name": "Grand Theft Auto V (Legacy, single-player)",
       "tier": "nexus-only",
       "steamAppId": "271590",
       "steamUrl": "https://store.steampowered.com/app/271590/",

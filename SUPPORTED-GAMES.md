@@ -1,6 +1,6 @@
 # Supported games
 
-**150 games** — 111 engine-curated · 39 Nexus-only. Generated 2026-08-05T00:11:57Z.
+**150 games** — 111 engine-curated · 39 Nexus-only. Generated 2026-08-05T00:34:28Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -165,7 +165,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Farming Simulator 22 | [Steam](https://store.steampowered.com/app/1248130/) | [Nexus](https://www.nexusmods.com/farmingsimulator22) |
 | Farming Simulator 25 | [Steam](https://store.steampowered.com/app/2300320/) | [Nexus](https://www.nexusmods.com/farmingsimulator25) |
 | Grand Theft Auto IV: The Complete Edition | [Steam](https://store.steampowered.com/app/12210/) | [Nexus](https://www.nexusmods.com/gta4) |
-| Grand Theft Auto V | [Steam](https://store.steampowered.com/app/271590/) | [Nexus](https://www.nexusmods.com/gta5) |
+| Grand Theft Auto V (Legacy, single-player) | [Steam](https://store.steampowered.com/app/271590/) | [Nexus](https://www.nexusmods.com/gta5) |
 | Hearts of Iron IV | [Steam](https://store.steampowered.com/app/394360/) | [Nexus](https://www.nexusmods.com/heartsofironiv) |
 | Mass Effect Legendary Edition | [Steam](https://store.steampowered.com/app/1328670/) | [Nexus](https://www.nexusmods.com/masseffectlegendaryedition) |
 | Neverwinter Nights: Enhanced Edition | [Steam](https://store.steampowered.com/app/704450/) | [Nexus](https://www.nexusmods.com/neverwinter) |
