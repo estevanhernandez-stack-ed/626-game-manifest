@@ -2883,7 +2883,7 @@
       "nexusDomain": "phasmophobia",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Kinetic Games/Phasmophobia/saveData.txt",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Kinetic Games/Phasmophobia/*.txt",
       "fileExtensions": [
         "dll"
       ],
