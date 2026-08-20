@@ -16,7 +16,7 @@
       "nexusDomain": "7daystodie",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Chome\u003E/.config/unity3d/The Fun Pimps/7 Days To Die",
+      "saveDirHint": "\u003CwinAppData\u003E/7DaysToDie/Saves",
       "fileExtensions": [
         "xml",
         "dll",
@@ -26,6 +26,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -51,7 +52,7 @@
       "nexusDomain": "asksurvivalevolved",
       "curseforgeGameId": null,
       "modPath": "ShooterGame/Binaries/Win64/ShooterGame/Mods",
-      "saveDirHint": "\u003Cbase\u003E/ShooterGame/Saved/Config",
+      "saveDirHint": "\u003Cbase\u003E/ShooterGame/Saved/SavedArksLocal",
       "fileExtensions": [
         "pak",
         "utoc",
@@ -60,6 +61,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Use the official CurseForge mod browser \u2014 sanctioned everywhere except vanilla official servers; avoid loose-file mods on BattlEye servers.",
       "provenance": {
@@ -85,7 +87,7 @@
       "nexusDomain": "abioticfactor",
       "curseforgeGameId": null,
       "modPath": "AbioticFactor/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/AbioticFactor/Saved/Config/WinGDK",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/AbioticFactor/Saved/SaveGames",
       "fileExtensions": [
         "pak",
         "ucas",
@@ -94,6 +96,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -119,11 +122,12 @@
       "nexusDomain": "ageofempires2definitiveedition",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Games/Age of Empires 2 DE/\u003CstoreUserId\u003E/modes/Pompeii/savegame",
+      "saveDirHint": null,
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -158,6 +162,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -183,13 +188,14 @@
       "nexusDomain": "astroneer",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Astro/Saved/Config/WinGDK",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Astro/Saved/SaveGames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -214,13 +220,14 @@
       "nexusDomain": "baldursgate3",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Documents/Larian Studios/Baldur\u0027s Gate 3/PlayerProfiles",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1086940/remote",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -255,6 +262,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -285,6 +293,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -309,13 +318,14 @@
       "nexusDomain": "borderlands3",
       "curseforgeGameId": null,
       "modPath": "OakGame/Content/Paks/~mods",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/GearboxSoftware/OakGame/Saved/SaveGames",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Borderlands 3/Saved/SaveGames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -341,7 +351,7 @@
       "nexusDomain": "chivalry2",
       "curseforgeGameId": null,
       "modPath": "TBL/Content/Paks",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Chivalry 2/Saved/Config/WinGDK",
+      "saveDirHint": null,
       "fileExtensions": [
         "pak",
         "sig"
@@ -349,6 +359,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "unclear",
       "safeRouteHint": "No offline mode and EAC on all official play \u2014 mods exist only via the community Unchained launcher on unofficial servers; no documented bans, no official blessing.",
       "provenance": {
@@ -374,11 +385,12 @@
       "nexusDomain": "citiesskylines",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Colossal Order/Cities_Skylines/Saves",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Colossal Order/Cities_Skylines/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -403,13 +415,14 @@
       "nexusDomain": "citiesskylines2",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Colossal Order/Cities Skylines II",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/949230/remote",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -435,13 +448,14 @@
       "nexusDomain": "codevein",
       "curseforgeGameId": null,
       "modPath": "CodeVein/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/CodeVein/Saved/Config/WindowsNoEditor",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/CodeVein/Saved/SaveGames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -477,6 +491,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -502,13 +517,14 @@
       "nexusDomain": "crusaderkings2",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/.paradoxinteractive/Crusader Kings II",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Crusader Kings II",
       "fileExtensions": [
         "mod"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -533,13 +549,14 @@
       "nexusDomain": "crusaderkings3",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/.local/share/Paradox Interactive/Crusader Kings III",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Crusader Kings III/save games",
       "fileExtensions": [
         "mod"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -571,6 +588,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -603,6 +621,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -628,7 +647,7 @@
       "nexusDomain": "cyberpunk2077",
       "curseforgeGameId": null,
       "modPath": "archive/pc/mod",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/CD Projekt Red/Cyberpunk 2077",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/CD Projekt Red/Cyberpunk 2077",
       "fileExtensions": [
         "archive",
         "zip",
@@ -638,6 +657,7 @@
       "groupingRule": null,
       "featured": 4,
       "banRisk": null,
+      "saveLayout": "worlds",
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -676,6 +696,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -707,6 +728,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Mod in offline mode only \u2014 the server flags any injected DLL, not just cheats; even overlays have triggered soft bans online.",
       "provenance": {
@@ -743,6 +765,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Use Mod Engine\u0027s Forced Offline and alternate-save modes; restore vanilla files before returning online.",
       "provenance": {
@@ -778,6 +801,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -804,7 +828,7 @@
       "nexusDomain": "darkestdungeon",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Chome\u003E/.local/share/Red Hook Studios/Darkest",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/262060/remote/profile_*",
       "fileExtensions": [
         ".darkest",
         ".xml",
@@ -814,6 +838,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -845,6 +870,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -870,13 +896,14 @@
       "nexusDomain": "deeprockgalactic",
       "curseforgeGameId": null,
       "modPath": "FSD/Content/Paks",
-      "saveDirHint": "\u003Cbase\u003E/FSD/Saved/Config/WinGDK/*.ini",
+      "saveDirHint": "\u003Cbase\u003E/FSD/Saved/SaveGames/*.sav",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -902,7 +929,7 @@
       "nexusDomain": "dispatch",
       "curseforgeGameId": null,
       "modPath": "Dispatch/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Dispatch/Config/WindowsNoEditor",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Dispatch/Saved/SaveGames",
       "fileExtensions": [
         ".pak",
         ".ucas",
@@ -911,6 +938,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -937,7 +965,7 @@
       "nexusDomain": "divinityoriginalsin",
       "curseforgeGameId": null,
       "modPath": "Data/Mods",
-      "saveDirHint": "\u003Chome\u003E/Documents/Larian Studios/Divinity Original Sin/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
+      "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
       "fileExtensions": [
         "pak",
         "lsx",
@@ -946,6 +974,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -972,13 +1001,14 @@
       "nexusDomain": "divinityoriginalsinenhancededition",
       "curseforgeGameId": null,
       "modPath": "Data/Mods",
-      "saveDirHint": "\u003Chome\u003E/Larian Studios/Divinity Original Sin Enhanced Edition",
+      "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin Enhanced Edition/PlayerProfiles",
       "fileExtensions": [
         ".pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1005,13 +1035,14 @@
       "nexusDomain": "divinityoriginalsin2definitiveedition",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin 2",
+      "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin 2/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1036,11 +1067,12 @@
       "nexusDomain": "dontstarvetogether",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Chome\u003E/.klei/DoNotStarveTogether/\u003CstoreUserId\u003E",
+      "saveDirHint": "\u003CwinDocuments\u003E/Klei/DoNotStarveTogether/\u003CstoreUserId\u003E",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1066,7 +1098,7 @@
       "nexusDomain": "dragonage2",
       "curseforgeGameId": null,
       "modPath": "%DOCUMENTS%\\BioWare\\Dragon Age 2\\packages\\core\\override",
-      "saveDirHint": "\u003Chome\u003E/Documents/BioWare/Dragon Age 2/Characters",
+      "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age 2/Characters",
       "fileExtensions": [
         "erf",
         "gda"
@@ -1074,6 +1106,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1107,6 +1140,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1136,6 +1170,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1161,7 +1196,7 @@
       "nexusDomain": "dragonsdogma2",
       "curseforgeGameId": null,
       "modPath": "natives",
-      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/2054970/remote",
       "fileExtensions": [
         "pak",
         "dll",
@@ -1172,6 +1207,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1203,6 +1239,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1229,7 +1266,7 @@
       "nexusDomain": "dungeonsiege1",
       "curseforgeGameId": null,
       "modPath": "Resources",
-      "saveDirHint": "\u003CwinDocuments\u003E/Dungeon Siege/DungeonSiege.ini",
+      "saveDirHint": "\u003CwinDocuments\u003E/Dungeon Siege/Save",
       "fileExtensions": [
         "dsres",
         "dsmap",
@@ -1238,6 +1275,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1264,11 +1302,12 @@
       "nexusDomain": "dungeonsiegeii",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Dungeon Siege 2 Broken World/DungeonSiege2BrokenWorld.ini",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Dungeon Siege 2 Broken World/save",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1300,6 +1339,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1334,6 +1374,7 @@
       "groupingRule": null,
       "featured": 3,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never carry modded files or saves into vanilla online play.",
       "provenance": {
@@ -1371,6 +1412,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1396,11 +1438,12 @@
       "nexusDomain": "europauniversalisiv",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Documents/Paradox Interactive/Europa Universalis IV",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Europa Universalis IV",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1425,13 +1468,14 @@
       "nexusDomain": "factorio",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Cbase\u003E/game/blueprint-storage.dat",
+      "saveDirHint": "\u003CwinAppData\u003E/Factorio/saves",
       "fileExtensions": [
         "zip"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1456,7 +1500,7 @@
       "nexusDomain": "fallout4",
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Fallout4",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Fallout4/Saves",
       "fileExtensions": [
         "esp",
         "esm",
@@ -1466,6 +1510,7 @@
       "groupingRule": null,
       "featured": 2,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1492,11 +1537,12 @@
       "nexusDomain": null,
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FalloutNV/*.ini",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FalloutNV/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": 9,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1531,6 +1577,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Pak mods are solo-safe (EAC isn\u0027t needed offline) and the game blocks modded crossplay itself; no bans documented.",
       "provenance": {
@@ -1557,13 +1604,14 @@
       "nexusDomain": "farmingsimulator22",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2022/game.xml",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2022/savegame*",
       "fileExtensions": [
         "zip"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1588,13 +1636,14 @@
       "nexusDomain": "farmingsimulator25",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2025/game.xml",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2025/savegame*",
       "fileExtensions": [
         "zip"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1619,13 +1668,14 @@
       "nexusDomain": "finalfantasy7remake",
       "curseforgeGameId": null,
       "modPath": "End/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FINAL FANTASY VII REMAKE/EOS",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/FINAL FANTASY VII REMAKE/Steam",
       "fileExtensions": [
         ".pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1652,13 +1702,14 @@
       "nexusDomain": "frostpunk2",
       "curseforgeGameId": null,
       "modPath": "Frostpunk2/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/11bitstudios/Frostpunk2/GOG/Saved/Config/Windows",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/11bitstudios/Frostpunk2/Steam/Saved/SaveGames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1684,7 +1735,7 @@
       "nexusDomain": "garrysmod",
       "curseforgeGameId": null,
       "modPath": "garrysmod/addons",
-      "saveDirHint": "\u003Cbase\u003E/garrysmod/cfg",
+      "saveDirHint": "\u003Cbase\u003E/garrysmod/saves",
       "fileExtensions": [
         "lua",
         "gma",
@@ -1696,6 +1747,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1726,6 +1778,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1760,6 +1813,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Single-player modding is long-established \u2014 never enter GTA Online with mods installed.",
       "provenance": {
@@ -1791,6 +1845,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1825,6 +1880,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1850,11 +1906,12 @@
       "nexusDomain": "heartsofironiv",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Paradox Interactive/Hearts of Iron IV",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Hearts of Iron IV/save games",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1879,7 +1936,7 @@
       "nexusDomain": "helldivers2",
       "curseforgeGameId": null,
       "modPath": "data",
-      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/553850/remote/input_settings.config",
+      "saveDirHint": "\u003CwinAppData\u003E/Arrowhead/Helldivers2/saves",
       "fileExtensions": [
         ".patch_0",
         ".gpu_resources",
@@ -1888,6 +1945,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "unclear",
       "safeRouteHint": "No offline mode exists \u2014 GameGuard always runs; cosmetic mods are tolerated so far but unsupported, and a flag won\u0027t be reversed.",
       "provenance": {
@@ -1913,7 +1971,7 @@
       "nexusDomain": "hogwartslegacy",
       "curseforgeGameId": null,
       "modPath": "Phoenix/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Hogwarts Legacy/Saved/Config/WindowsNoEditor",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Hogwarts Legacy/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
         "ucas",
@@ -1922,6 +1980,7 @@
       "groupingRule": null,
       "featured": 14,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1948,13 +2007,14 @@
       "nexusDomain": "hollowknight",
       "curseforgeGameId": null,
       "modPath": "hollow_knight_Data/Managed/Mods",
-      "saveDirHint": "\u003Cbase\u003E/hollow_knight_Data/Config.ini",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Team Cherry/Hollow Knight/*.bak",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1987,6 +2047,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2013,13 +2074,14 @@
       "nexusDomain": "inscryption",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Cbase\u003E/Inscryption.App/SaveFile.gwsave",
+      "saveDirHint": "\u003Cbase\u003E/SaveFile.gwsave",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2053,6 +2115,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2088,6 +2151,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2114,7 +2178,7 @@
       "nexusDomain": "kingdomcomedeliverance",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Cbase\u003E/user.cfg",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/kingdomcome/saves",
       "fileExtensions": [
         "pak",
         "manifest",
@@ -2123,6 +2187,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2149,7 +2214,7 @@
       "nexusDomain": "kingdomcomedeliverance2",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Cbase\u003E/user.cfg",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/kingdomcome2/saves",
       "fileExtensions": [
         ".pak",
         ".manifest",
@@ -2158,6 +2223,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2184,13 +2250,14 @@
       "nexusDomain": "left4dead2",
       "curseforgeGameId": null,
       "modPath": "left4dead2/addons",
-      "saveDirHint": "\u003Cbase\u003E/left4dead2/cfg/config.cfg",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/550/remote",
       "fileExtensions": [
         "vpk"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Workshop and VPK mods never trigger VAC \u2014 official servers just disable them; only injected code risks a ban.",
       "provenance": {
@@ -2223,6 +2290,7 @@
       "groupingRule": null,
       "featured": 16,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2249,7 +2317,7 @@
       "nexusDomain": "liesofp",
       "curseforgeGameId": null,
       "modPath": "LiesofP/Content/Paks/~mods",
-      "saveDirHint": "\u003Cbase\u003E/LiesofP/Saved/Config/WindowsNoEditor",
+      "saveDirHint": "\u003Cbase\u003E/LiesofP/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
         "utoc",
@@ -2258,6 +2326,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2283,11 +2352,12 @@
       "nexusDomain": "marvelrivals",
       "curseforgeGameId": null,
       "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Marvel/Saved/Config/Windows/GameUserSettings.ini",
+      "saveDirHint": null,
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "none",
       "safeRouteHint": "Always-online with file-integrity checks \u2014 mods are blocked, against the terms of service, and there is no offline sandbox.",
       "provenance": {
@@ -2313,11 +2383,12 @@
       "nexusDomain": "masseffectlegendaryedition",
       "curseforgeGameId": null,
       "modPath": "%GAME_PATH%",
-      "saveDirHint": "\u003Cbase\u003E/Game/ME1/BioGame/Config",
+      "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Mass Effect Legendary Edition/Save",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2348,6 +2419,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2383,6 +2455,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2419,6 +2492,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2445,7 +2519,7 @@
       "nexusDomain": "monsterhunterrise",
       "curseforgeGameId": null,
       "modPath": "natives/STM",
-      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1446780/remote",
       "fileExtensions": [
         "pak",
         "lua",
@@ -2454,6 +2528,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2480,7 +2555,7 @@
       "nexusDomain": "monsterhunterwilds",
       "curseforgeGameId": null,
       "modPath": "reframework/autorun",
-      "saveDirHint": "\u003Cbase\u003E/config.ini",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/2246340/remote/win64_save",
       "fileExtensions": [
         "lua",
         "pak",
@@ -2489,6 +2564,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Cosmetic and offline mods have a clean record; DLC-unlocker mods and modded content in multiplayer have drawn documented permanent bans.",
       "provenance": {
@@ -2514,7 +2590,7 @@
       "nexusDomain": "monsterhunterworld",
       "curseforgeGameId": null,
       "modPath": "NativePC",
-      "saveDirHint": "\u003Cbase\u003E/graphics_option.ini",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/582010/remote",
       "fileExtensions": [
         "pkg",
         "bin",
@@ -2525,6 +2601,7 @@
       "groupingRule": null,
       "featured": 10,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Huge mod scene, near-zero ban history \u2014 keep gameplay-altering mods out of multiplayer.",
       "provenance": {
@@ -2552,7 +2629,7 @@
       "nexusDomain": "mountandblade2bannerlord",
       "curseforgeGameId": null,
       "modPath": "Modules",
-      "saveDirHint": "\u003CwinDocuments\u003E/Mount and Blade II Bannerlord/Configs",
+      "saveDirHint": "\u003CwinDocuments\u003E/Mount and Blade II Bannerlord/Game Saves",
       "fileExtensions": [
         "xml",
         "dll",
@@ -2561,6 +2638,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2587,7 +2665,7 @@
       "nexusDomain": "neverwinter",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/.local/share/Neverwinter Nights",
+      "saveDirHint": "\u003CwinDocuments\u003E/Neverwinter Nights/saves",
       "fileExtensions": [
         "hak",
         "mod",
@@ -2597,6 +2675,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2626,6 +2705,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2650,7 +2730,7 @@
       "nexusDomain": "nioh2",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/NIOH2",
+      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/NIOH2/Savedata/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dds",
         "fmt",
@@ -2660,6 +2740,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2685,13 +2766,14 @@
       "nexusDomain": "nomanssky",
       "curseforgeGameId": null,
       "modPath": "GAMEDATA/PCBANKS/MODS",
-      "saveDirHint": "\u003Cbase\u003E/Binaries/SETTINGS",
+      "saveDirHint": "\u003CwinAppData\u003E/HelloGames/NMS",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": 15,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2728,6 +2810,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2752,13 +2835,14 @@
       "nexusDomain": "oxygennotincluded",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Klei/Oxygen Not Included/kplayerprefs.yaml",
+      "saveDirHint": "\u003CwinDocuments\u003E/Klei/OxygenNotIncluded/cloud_save_files/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2783,7 +2867,7 @@
       "nexusDomain": "palworld",
       "curseforgeGameId": null,
       "modPath": "Pal/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/PocketpairInc.Palworld_ad4psfrxyesvt/SystemAppData/wgs/\u003CstoreUserId\u003E",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Pal/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
         "ucas",
@@ -2793,6 +2877,7 @@
       "groupingRule": null,
       "featured": 18,
       "banRisk": "medium",
+      "saveLayout": "worlds",
       "safeRoute": "private-server",
       "safeRouteHint": "No anti-cheat \u2014 mod freely in solo or on your own server; keep mods off official and other people\u0027s servers.",
       "provenance": {
@@ -2819,7 +2904,7 @@
       "nexusDomain": "pathfinderkingmaker",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Owlcat Games/Pathfinder Kingmaker/Saved Games",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Pathfinder Kingmaker/Saved Games",
       "fileExtensions": [
         "dll",
         "json",
@@ -2828,6 +2913,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2858,6 +2944,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2890,6 +2977,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "unclear",
       "safeRouteHint": "Kinetic\u0027s Code of Conduct bans file mods in all lobby types \u2014 offline singleplayer avoids servers, but reconnecting with a modified save risks your account.",
       "provenance": {
@@ -2915,11 +3003,12 @@
       "nexusDomain": "pillarsofeternity",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Obsidian Entertainment/Pillars of Eternity",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Pillars of Eternity",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2945,11 +3034,12 @@
       "nexusDomain": "pillarsofeternity2",
       "curseforgeGameId": null,
       "modPath": "PillarsOfEternityII_Data/override",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Pillars of Eternity II/Saved Games",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Pillars of Eternity II",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2975,7 +3065,7 @@
       "nexusDomain": "planetzoo",
       "curseforgeGameId": null,
       "modPath": "win64/ovldata",
-      "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Planet Zoo/\u003CstoreUserId\u003E/Config",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Planet Zoo/\u003CstoreUserId\u003E/Saves",
       "fileExtensions": [
         "ovl",
         "ovs"
@@ -2983,6 +3073,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3008,11 +3099,12 @@
       "nexusDomain": "projectzomboid",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Zomboid",
+      "saveDirHint": "\u003Chome\u003E/Zomboid/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3037,13 +3129,14 @@
       "nexusDomain": "repo",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/semiwork/Repo/*.es3",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/semiwork/Repo/saves",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3069,7 +3162,7 @@
       "nexusDomain": "readyornot",
       "curseforgeGameId": null,
       "modPath": "ReadyOrNot/Content/Paks",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/VOIDInteractive.ReadyorNot_wzdj6a56z6mzp/SystemAppData/wgs",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/ReadyOrNot/Saved/SaveGames",
       "fileExtensions": [
         "pak",
         "ucas",
@@ -3078,6 +3171,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3116,6 +3210,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "high",
+      "saveLayout": null,
       "safeRoute": "offline",
       "safeRouteHint": "Mod story mode only \u2014 never take mods into Red Dead Online; file mods there draw account bans.",
       "provenance": {
@@ -3150,6 +3245,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3175,7 +3271,7 @@
       "nexusDomain": "rimworld",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Chome\u003E/.config/unity3d/Ludeon Studios/RimWorld by Ludeon Studios",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Ludeon Studios/RimWorld",
       "fileExtensions": [
         ".xml",
         ".dll",
@@ -3184,6 +3280,7 @@
       "groupingRule": null,
       "featured": 17,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3210,13 +3307,14 @@
       "nexusDomain": "riskofrain2",
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
-      "saveDirHint": "\u003Cbase\u003E/Risk of Rain 2_Data/Config",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/632360/remote/UserProfiles",
       "fileExtensions": [
         "dll"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3242,7 +3340,7 @@
       "nexusDomain": "stalker2heartofchornobyl",
       "curseforgeGameId": null,
       "modPath": "Stalker2/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Packages/GSCGameWorld.S.T.A.L.K.E.R.2HeartofChernobyl_6fr1t1rwfarwt/SystemAppData/xgs/\u003CstoreUserId\u003E/SaveGames",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Stalker2/Saved/STEAM/*.bak",
       "fileExtensions": [
         "pak",
         "utoc",
@@ -3252,6 +3350,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3277,7 +3376,7 @@
       "nexusDomain": "satisfactory",
       "curseforgeGameId": null,
       "modPath": "FactoryGame/Mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/FactoryGame/Saved/Config/Windows",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/FactoryGame/Saved/SaveGames",
       "fileExtensions": [
         "uplugin",
         "pak"
@@ -3285,6 +3384,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3317,6 +3417,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": "worlds",
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3353,6 +3454,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3379,7 +3481,7 @@
       "nexusDomain": "civilisationv",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Documents/Aspyr/Sid Meier\u0027s Civilization 5/Saves",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/8930",
       "fileExtensions": [
         "civ5mod",
         "xml",
@@ -3389,6 +3491,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3413,11 +3516,12 @@
       "nexusDomain": "civilisationvi",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Sid Meier\u0027s Civilization VI",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Sid Meier\u0027s Civilization VI/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3442,7 +3546,7 @@
       "nexusDomain": "sifu",
       "curseforgeGameId": null,
       "modPath": "Sifu/Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/Sifu/Saved/Config/WindowsClient/*.ini",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Sifu/Saved/SaveGames/\u003CstoreUserId\u003E/Sifu*.sav",
       "fileExtensions": [
         "pak",
         "sig"
@@ -3450,6 +3554,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3475,13 +3580,14 @@
       "nexusDomain": "slaythespire",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Cbase\u003E/SlayTheSpire.app/Contents/Resources/betaPreferences",
+      "saveDirHint": "\u003Cbase\u003E/betaPreferences",
       "fileExtensions": [
         "jar"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3507,7 +3613,7 @@
       "nexusDomain": "slaythespire2",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/SlayTheSpire2/steam/\u003CstoreUserId\u003E",
+      "saveDirHint": "\u003CwinAppData\u003E/SlayTheSpire2/steam/\u003CstoreUserId\u003E",
       "fileExtensions": [
         ".pck",
         ".dll",
@@ -3516,6 +3622,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3549,6 +3656,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3581,6 +3689,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3613,6 +3722,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3651,6 +3761,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3677,7 +3788,7 @@
       "nexusDomain": "stardewvalley",
       "curseforgeGameId": null,
       "modPath": "Mods",
-      "saveDirHint": "\u003Chome\u003E/.config/StardewValley",
+      "saveDirHint": "\u003CwinAppData\u003E/StardewValley/Saves",
       "fileExtensions": [
         ".dll",
         ".json",
@@ -3686,6 +3797,7 @@
       "groupingRule": null,
       "featured": 6,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3723,6 +3835,7 @@
       "groupingRule": null,
       "featured": 7,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3749,7 +3862,7 @@
       "nexusDomain": "stellarblade",
       "curseforgeGameId": null,
       "modPath": "Content/Paks/~mods",
-      "saveDirHint": "\u003CwinLocalAppData\u003E/SB/Saved/Config/WindowsNoEditor",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/SB/Saved/SaveGames",
       "fileExtensions": [
         ".pak",
         ".utoc",
@@ -3758,6 +3871,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3783,13 +3897,14 @@
       "nexusDomain": "stellaris",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Documents/Paradox Interactive/Stellaris",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Stellaris",
       "fileExtensions": [
         "mod"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3822,6 +3937,7 @@
       "groupingRule": null,
       "featured": 11,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3856,6 +3972,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3889,6 +4006,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3914,13 +4032,14 @@
       "nexusDomain": "terraria",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Terraria",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/105600/remote/achievements-steam.dat",
       "fileExtensions": [
         "tmod"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3950,6 +4069,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3974,7 +4094,7 @@
       "nexusDomain": "thebindingofisaacrebirth",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Binding of Isaac Rebirth",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/250900/remote",
       "fileExtensions": [
         "lua",
         "xml",
@@ -3984,6 +4104,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4010,7 +4131,7 @@
       "nexusDomain": "morrowind",
       "curseforgeGameId": null,
       "modPath": "Data Files",
-      "saveDirHint": "\u003Cbase\u003E/Morrowind.ini",
+      "saveDirHint": null,
       "fileExtensions": [
         "esp",
         "esm",
@@ -4019,6 +4140,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4044,11 +4166,12 @@
       "nexusDomain": null,
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": 13,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4074,7 +4197,7 @@
       "nexusDomain": "oblivionremastered",
       "curseforgeGameId": null,
       "modPath": "OblivionRemastered/Content/Paks/~mods",
-      "saveDirHint": "\u003Cbase\u003E/OblivionRemastered/Content/Dev/ObvData/*.ini",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion Remastered/Saved/SaveGames",
       "fileExtensions": [
         "pak",
         "ucas",
@@ -4087,6 +4210,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4113,11 +4237,12 @@
       "nexusDomain": null,
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim/Saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": 8,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4143,7 +4268,7 @@
       "nexusDomain": "skyrimspecialedition",
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim Special Edition",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim Special Edition/Saves",
       "fileExtensions": [
         "esp",
         "esm",
@@ -4154,6 +4279,7 @@
       "groupingRule": null,
       "featured": 1,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4180,7 +4306,7 @@
       "nexusDomain": "skyrimspecialedition",
       "curseforgeGameId": null,
       "modPath": "Data",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim VR",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim VR/Saves",
       "fileExtensions": [
         "esp",
         "esm",
@@ -4191,6 +4317,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4216,7 +4343,7 @@
       "nexusDomain": "thesims4",
       "curseforgeGameId": null,
       "modPath": "%DOCUMENTS%/Electronic Arts/The Sims 4/Mods",
-      "saveDirHint": "\u003Chome\u003E/Documents/Electronic Arts/The Sims 4/Options.ini",
+      "saveDirHint": "\u003CwinDocuments\u003E/Electronic Arts/The Sims 4/saves",
       "fileExtensions": [
         ".package",
         ".ts4script"
@@ -4224,6 +4351,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4249,7 +4377,7 @@
       "nexusDomain": "witcher",
       "curseforgeGameId": null,
       "modPath": "Data/Override",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/com.cdprojektred.TheWitcher/GameDocuments/The Witcher/saves",
+      "saveDirHint": "\u003CwinDocuments\u003E/The Witcher/saves",
       "fileExtensions": [
         "2da",
         "ncs",
@@ -4261,6 +4389,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4287,7 +4416,7 @@
       "nexusDomain": "witcher2",
       "curseforgeGameId": null,
       "modPath": "CookedPC",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/com.vpltd.TheWitcher2/GameDocuments/Witcher 2/config",
+      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/20920/remote",
       "fileExtensions": [
         "dzip",
         "xml",
@@ -4296,6 +4425,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4322,7 +4452,7 @@
       "nexusDomain": "witcher3",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003CwinDocuments\u003E/The Witcher 3/*.settings",
+      "saveDirHint": "\u003CwinDocuments\u003E/The Witcher 3/gamesaves/*.png",
       "fileExtensions": [
         "bundle",
         "ws",
@@ -4331,6 +4461,7 @@
       "groupingRule": null,
       "featured": 5,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4358,13 +4489,14 @@
       "nexusDomain": "totalwarthreekingdoms",
       "curseforgeGameId": null,
       "modPath": "data",
-      "saveDirHint": "\u003Chome\u003E/.local/share/feral-interactive/Three Kingdoms/VFS/User/AppData/Roaming/The Creative Assembly/ThreeKingdoms/save_games",
+      "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/ThreeKingdoms/save_games",
       "fileExtensions": [
         "pack"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4390,13 +4522,14 @@
       "nexusDomain": "totalwarwarhammer2",
       "curseforgeGameId": null,
       "modPath": "data",
-      "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer2/EOS/save_games",
+      "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer2/save_games",
       "fileExtensions": [
         "pack"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4422,13 +4555,14 @@
       "nexusDomain": "totalwarwarhammer3",
       "curseforgeGameId": null,
       "modPath": "data",
-      "saveDirHint": "\u003Chome\u003E/.local/share/feral-interactive/Total War WARHAMMER III/SaveData/Steam Saves($SteamID)/local/Warhamme3/save_games",
+      "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer3/save_games",
       "fileExtensions": [
         "pack"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4454,11 +4588,12 @@
       "nexusDomain": "trackmaniaunited",
       "curseforgeGameId": null,
       "modPath": "GameData",
-      "saveDirHint": "\u003CwinDocuments\u003E/TrackMania/Config",
+      "saveDirHint": "\u003CwinDocuments\u003E/TrackMania/Profiles",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4483,13 +4618,14 @@
       "nexusDomain": "tropico6",
       "curseforgeGameId": null,
       "modPath": "Tropico6/Content/Paks",
-      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Tropico6/Saved/Config",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/Tropico6/Saved/SaveGames",
       "fileExtensions": [
         "pak"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4520,6 +4656,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4551,6 +4688,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4576,11 +4714,12 @@
       "nexusDomain": "tyranny",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Tyranny/Saved Games",
+      "saveDirHint": "\u003Chome\u003E/Saved Games/Tyranny",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4612,6 +4751,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "private-server",
       "safeRouteHint": "BepInEx mods are fine in solo and on private servers; official servers are the only no-mod zone.",
       "provenance": {
@@ -4645,6 +4785,7 @@
       "groupingRule": null,
       "featured": 12,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4679,6 +4820,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4720,6 +4862,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4746,11 +4889,12 @@
       "nexusDomain": "victoria3",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003Chome\u003E/.local/share/Steam/userdata/\u003CstoreUserId\u003E/529340/remote/save games",
+      "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Victoria 3/save games",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4780,6 +4924,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4811,6 +4956,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": "medium",
+      "saveLayout": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Officially moddable via Steam Workshop \u2014 private Operations lobbies only; modded installs are locked out of public matchmaking, not banned.",
       "provenance": {
@@ -4836,11 +4982,12 @@
       "nexusDomain": "wolongfallendynasty",
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/Wolong/Savedata",
+      "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/Wolong/Savedata/\u003CstoreUserId\u003E/SAVEDATA00",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
       "banRisk": "low",
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4865,13 +5012,14 @@
       "nexusDomain": "xcom2",
       "curseforgeGameId": null,
       "modPath": "XComGame/Mods",
-      "saveDirHint": "\u003Chome\u003E/Library/Application Support/Feral Interactive/XCOM 2",
+      "saveDirHint": "\u003CwinDocuments\u003E/My Games/XCOM2/XComGame/SaveData",
       "fileExtensions": [
         "XComMod"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4902,6 +5050,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4935,6 +5084,7 @@
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
+      "saveLayout": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
