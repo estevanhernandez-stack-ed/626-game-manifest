@@ -5,5 +5,7 @@
   "nexusDomain": "stellaris",
   "fileExtensions": [
     "mod"
-  ]
+  ],
+  "saveDirHint": "<winDocuments>/Paradox Interactive/Stellaris/save games",
+  "saveLayout": "worlds"
 }

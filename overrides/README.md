@@ -93,3 +93,35 @@ Leaving it absent costs nothing — the launcher simply does not offer to share 
 and there is no message about it, because a control that only explains why it cannot work is worse
 than no control. Getting it *wrong* costs someone their character in a public file. **If you are not
 looking at a real install, do not curate this field.**
+
+### Two worked refusals
+
+Curating well means knowing when not to. Both of these looked like easy wins and were not.
+
+**Stellaris — the hint was wrong, so the layout would have been.** It *is* folder-per-campaign, but
+Ludusavi's path points at the game's config directory:
+
+```
+<winDocuments>/Paradox Interactive/Stellaris        .launcher-cache, data, logs, dlc_load.json …
+<winDocuments>/Paradox Interactive/Stellaris/save games   <- the campaigns are here
+```
+
+Declaring `"worlds"` against the first would have listed launcher caches to the user as if they were
+saves. Fixed by overriding `saveDirHint` down one level, and *then* the layout is true. **A layout
+field is only ever as good as the hint it describes.**
+
+**Sons Of The Forest — a partial seam is worse than none.** Its saves are `SaveData.zip`, and the
+player lives *inside* the archive:
+
+```
+PlayerInventorySaveData.json   12,080 bytes
+PlayerStateSaveData.json       21,004 bytes
+PlayerArmourSystemSaveData.json, PlayerClothingSystemSaveData.json …
+```
+
+A glob over the save folder cannot reach inside a zip. Curating `["PlayerProfile.json"]` would have
+looked correct, produced a "shareable" world, and shipped the character's inventory and state anyway.
+**Left absent on purpose.**
+
+It has no `saveLayout` either: save units sit two levels down and split across parallel `Multiplayer/`
+and `MultiplayerClient/` trees, so no single folder's subdirectories are the units.
