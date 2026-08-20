@@ -7,5 +7,6 @@
   "nexusDomain": "schedule1",
   "fileExtensions": [
     "dll"
-  ]
+  ],
+  "saveLayout": "worlds"
 }

@@ -22,6 +22,12 @@ Hand-curated corrections that **win over** mined data. One `<game>.json` per gam
 
 `banRisk` (`"low"` / `"medium"` / `"high"`) marks a game's anti-cheat/ban exposure for online modding. On `high` the launcher warns and gates enabling behind a one-time acknowledgment — it never auto-enables and never hard-blocks (disable stays one click away). Flag it only where modding online genuinely risks a ban (online / kernel anti-cheat). Don't flag offline-friendly single-player games, and don't flag a game whose ban risk the launcher already mediates (e.g. Elden Ring, where the reversible EAC toggle is the safe-modding path).
 
+`saveLayout` (`"worlds"` / `"typedFiles"`) says how the game arranges its saves. `"worlds"` means a folder per world, save or slot — Palworld, Cyberpunk 2077 — which lets the launcher back up and restore **one** of them instead of the whole folder. `"typedFiles"` means several formats of one save side by side, like Elden Ring's `.sl2` / `.co2` / `.err`.
+
+**Check it against a real install before adding it, and check the right folder.** `saveLayout` describes whatever `saveDirHint` resolves to, so a hint pointing one level too high makes the layout actively wrong rather than merely absent. Stellaris is the cautionary case: it genuinely is folder-per-campaign, but its hint resolves to the game's config directory, so declaring `"worlds"` would list `.launcher-cache` and `logs` to the user as if they were saves.
+
+Leaving it out costs nothing. The launcher falls back to whole-folder backup and restore — what every game does today.
+
 ## Adding a game
 
 Drop a `<game>.json` here and open a PR. On merge, the build workflow regenerates and **re-signs** `games-manifest.json`. A game on an engine the launcher already knows ships as this data PR — no app release.

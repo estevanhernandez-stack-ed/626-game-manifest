@@ -13,6 +13,7 @@
     "lua"
   ],
   "featured": 18,
+  "saveLayout": "worlds",
   "safeRoute": "private-server",
   "safeRouteHint": "No anti-cheat — mod freely in solo or on your own server; keep mods off official and other people's servers."
 }
