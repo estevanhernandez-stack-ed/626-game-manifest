@@ -1,0 +1,17 @@
+{
+  "steamAppId": "3041230",
+  "id": "windrose",
+  "name": "Windrose",
+  "engine": "ue-pak",
+  "modPath": "R5/Content/Paks/~mods",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ],
+  "savePlayerPaths": [
+    "**/Accounts/**",
+    "**/Players/**",
+    "**/AccountDescription.json"
+  ]
+}
