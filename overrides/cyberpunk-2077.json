@@ -11,5 +11,6 @@
     "7z",
     "rar"
   ],
-  "featured": 4
+  "featured": 4,
+  "saveLayout": "worlds"
 }
