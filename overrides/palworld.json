@@ -14,6 +14,10 @@
   ],
   "featured": 18,
   "saveLayout": "worlds",
+  "savePlayerPaths": [
+    "Players/**",
+    "LocalData.sav"
+  ],
   "safeRoute": "private-server",
   "safeRouteHint": "No anti-cheat — mod freely in solo or on your own server; keep mods off official and other people's servers."
 }

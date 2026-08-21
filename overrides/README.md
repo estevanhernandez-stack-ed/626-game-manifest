@@ -31,3 +31,97 @@ Leaving it out costs nothing. The launcher falls back to whole-folder backup and
 ## Adding a game
 
 Drop a `<game>.json` here and open a PR. On merge, the build workflow regenerates and **re-signs** `games-manifest.json`. A game on an engine the launcher already knows ships as this data PR — no app release.
+
+## Finding `savePlayerPaths` — the world/character seam
+
+This is the one field you cannot look up. It is a fact about how a studio arranged its save folder,
+and the only way to get it right is to open a real install and look. Two rules first:
+
+**Ask the shape question before the seam question.** Does the player *make* a world? Palworld, Windrose,
+Terraria and Valheim: yes. Cyberpunk and Elden Ring: no — the world is the studio's and the save is
+your character inside it, so there is no seam and the field stays absent. Adding one to a
+character-progression game is not a small mistake; it implies a "share the world" the game cannot
+support.
+
+**Paths are relative to a save UNIT, not the save folder.** A unit is one world folder when
+`saveLayout` is `"worlds"`, and the whole save folder otherwise. The two curated examples are one of
+each, which is why they look so different.
+
+### What to look for
+
+Play the game once, then open the save folder and sort by what changes:
+
+| clue | example |
+|---|---|
+| a folder named for the player concept | `Players/`, `Accounts/`, `characters_local/` |
+| a file whose size tracks YOUR progress, not the world's | Palworld's `LocalData.sav` — 128 KB against `Level.sav`'s 2 MB |
+| **the multiplayer tell** | a world you JOINED keeps only your half. Palworld's joined world is `LocalData.sav` and nothing else — the game is showing you the seam |
+| a folder named for the place | `Worlds/`, `worlds_local/`, `save games/` |
+
+That third row is the strongest signal there is. If the game supports joining someone else's world,
+whatever it keeps locally for that world **is** the player half, by definition.
+
+### The two curated examples
+
+**Palworld** — `saveLayout: "worlds"`, so a unit is one world folder:
+
+```
+Level.sav  LevelMeta.sav  WorldOption.sav   the place
+LocalData.sav  Players/                     you        ->  ["Players/**", "LocalData.sav"]
+```
+
+**Windrose** — not `worlds`, so a unit is the whole save folder:
+
+```
+0.10.0/Worlds/<guid>/       23.6 MB   the place
+0.10.0/Players/<guid>/       1.4 MB   you
+0.10.0/Accounts/<guid>/       54 KB   you
+```
+
+Those three repeat under `RocksDB/`, `RocksDB_v2/`, a nested migration tree and a backups tree — which
+is exactly why the field takes **globs** rather than a list of names:
+
+```json
+["**/Accounts/**", "**/Players/**", "**/AccountDescription.json"]
+```
+
+`**` crosses directories, `*` does not, and everything else is literal.
+
+### When to leave it out
+
+Leaving it absent costs nothing — the launcher simply does not offer to share a world for that game,
+and there is no message about it, because a control that only explains why it cannot work is worse
+than no control. Getting it *wrong* costs someone their character in a public file. **If you are not
+looking at a real install, do not curate this field.**
+
+### Two worked refusals
+
+Curating well means knowing when not to. Both of these looked like easy wins and were not.
+
+**Stellaris — the hint was wrong, so the layout would have been.** It *is* folder-per-campaign, but
+Ludusavi's path points at the game's config directory:
+
+```
+<winDocuments>/Paradox Interactive/Stellaris        .launcher-cache, data, logs, dlc_load.json …
+<winDocuments>/Paradox Interactive/Stellaris/save games   <- the campaigns are here
+```
+
+Declaring `"worlds"` against the first would have listed launcher caches to the user as if they were
+saves. Fixed by overriding `saveDirHint` down one level, and *then* the layout is true. **A layout
+field is only ever as good as the hint it describes.**
+
+**Sons Of The Forest — a partial seam is worse than none.** Its saves are `SaveData.zip`, and the
+player lives *inside* the archive:
+
+```
+PlayerInventorySaveData.json   12,080 bytes
+PlayerStateSaveData.json       21,004 bytes
+PlayerArmourSystemSaveData.json, PlayerClothingSystemSaveData.json …
+```
+
+A glob over the save folder cannot reach inside a zip. Curating `["PlayerProfile.json"]` would have
+looked correct, produced a "shareable" world, and shipped the character's inventory and state anyway.
+**Left absent on purpose.**
+
+It has no `saveLayout` either: save units sit two levels down and split across parallel `Multiplayer/`
+and `MultiplayerClient/` trees, so no single folder's subdirectories are the units.
