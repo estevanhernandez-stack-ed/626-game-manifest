@@ -1,6 +1,6 @@
 # Supported games
 
-**150 games** — 111 engine-curated · 39 Nexus-only. Generated 2026-08-20T16:24:19Z.
+**151 games** — 112 engine-curated · 39 Nexus-only. Generated 2026-08-21T00:21:55Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -27,7 +27,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (111)
+## Engine-curated (112)
 
 | Game | Engine | Mod path | Steam | Nexus |
 |---|---|---|---|---|
@@ -141,6 +141,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Vampire Survivors | `melonloader` | `Mods` | [Steam](https://store.steampowered.com/app/1794680/) | [Nexus](https://www.nexusmods.com/vampiresurvivors) |
 | Vampire: The Masquerade - Bloodlines | `source` | `Vampire` | [Steam](https://store.steampowered.com/app/2600/) | [Nexus](https://www.nexusmods.com/vampirebloodlines) |
 | Warhammer 40,000: Space Marine 2 | `custom` | `client_pc/root/mods` | [Steam](https://store.steampowered.com/app/2183900/) | [Nexus](https://www.nexusmods.com/warhammer40000spacemarine2) |
+| Windrose | `ue-pak` | `R5/Content/Paks/~mods` | [Steam](https://store.steampowered.com/app/3041230/) | — |
 | XCOM 2 | `custom` | `XComGame/Mods` | [Steam](https://store.steampowered.com/app/268500/) | [Nexus](https://www.nexusmods.com/xcom2) |
 
 ## Nexus-only (39)

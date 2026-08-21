@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-08-20T16:24:19Z",
+  "generatedUtc": "2026-08-21T00:21:55Z",
   "counts": {
-    "total": 150,
-    "engineCurated": 111,
+    "total": 151,
+    "engineCurated": 112,
     "nexusOnly": 39
   },
   "games": [
@@ -1417,6 +1417,15 @@
       "engine": "custom",
       "modPath": "client_pc/root/mods",
       "nexusUrl": "https://www.nexusmods.com/warhammer40000spacemarine2"
+    },
+    {
+      "id": "windrose",
+      "name": "Windrose",
+      "tier": "engine-curated",
+      "steamAppId": "3041230",
+      "steamUrl": "https://store.steampowered.com/app/3041230/",
+      "engine": "ue-pak",
+      "modPath": "R5/Content/Paks/~mods"
     },
     {
       "id": "wo-long-fallen-dynasty",
