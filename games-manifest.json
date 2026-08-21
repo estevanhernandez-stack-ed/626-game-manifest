@@ -2963,8 +2963,8 @@
       "banRisk": "medium",
       "saveLayout": "worlds",
       "savePlayerPaths": [
-        "Players/**",
-        "LocalData.sav"
+        "**/Players/**",
+        "**/LocalData.sav"
       ],
       "safeRoute": "private-server",
       "safeRouteHint": "No anti-cheat \u2014 mod freely in solo or on your own server; keep mods off official and other people\u0027s servers.",
