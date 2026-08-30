@@ -10,6 +10,18 @@ never drift from it):
 Stdlib only. Deterministic: games sorted by name, stable field order, timestamp supplied
 by the caller (--generated-utc or SOURCE_DATE env) - the generator never reads the clock.
 
+Saves derivation publishes two INDEPENDENT fields rather than one ordered tier. An early
+proposal had a single ladder (backup < per-save < shareable) on the claim that each rung
+contains the one above; the data says otherwise - windrose has savePlayerPaths and no
+saveLayout, so it is shareable without being per-save. Granularity and shareability are
+separate facts and are published separately. Both are OMITTED when the manifest has not
+established them, because null there means "nobody has checked", never "flat" or "no
+character data".
+
+A "named" tier was proposed too and is deliberately absent: reading a save's own name is
+compiled behaviour in the launcher, not a manifest fact, so no data field could honestly
+carry it and a data PR could claim it for a game the binary cannot name.
+
 Tier derivation mirrors the launcher facades: an entry with an engine is "engine-curated"
 (quick-pick setup); else one with a nexusDomain is "nexus-only" (engine folder-detected at
 runtime). The published manifest only contains entries that earned a tier; anything else
@@ -59,6 +71,14 @@ def project(manifest):
             mod_path = g.get("modPath")
             if mod_path:
                 row["modPath"] = mod_path
+        # Two independent save facts, each omitted unless the manifest establishes it.
+        # "per-save" says one save unit can be handled on its own; "shareable" says the
+        # line between the place and the player is known, so a world can travel without
+        # its character. Neither implies the other.
+        if g.get("saveLayout"):
+            row["saveGranularity"] = "per-save"
+        if g.get("savePlayerPaths"):
+            row["saveShareable"] = True
         if g.get("featured") is not None:
             row["featured"] = g["featured"]
         if nexus:
@@ -78,6 +98,8 @@ def build_json(games, generated_utc):
             "total": len(games),
             "engineCurated": curated,
             "nexusOnly": len(games) - curated,
+            "savesPerSave": sum(1 for g in games if g.get("saveGranularity") == "per-save"),
+            "savesShareable": sum(1 for g in games if g.get("saveShareable")),
         },
         "games": games,
     }
@@ -100,6 +122,17 @@ def link(label, url):
     return f"[{label}]({url})" if url else "—"
 
 
+def saves_cell(g):
+    """What is KNOWN about this game's saves. Every game can be backed up whole, so that is
+    the floor and the honest word for "nobody has curated any more than that"."""
+    bits = []
+    if g.get("saveGranularity") == "per-save":
+        bits.append("per-save")
+    if g.get("saveShareable"):
+        bits.append("shareable")
+    return " · ".join(bits) if bits else "backup"
+
+
 def build_markdown(games, generated_utc):
     curated = [g for g in games if g["tier"] == ENGINE_CURATED]
     nexus_only = [g for g in games if g["tier"] == NEXUS_ONLY]
@@ -110,6 +143,9 @@ def build_markdown(games, generated_utc):
     out = []
     out.append("# Supported games")
     out.append("")
+    per_save = [g for g in games if g.get("saveGranularity") == "per-save"]
+    shareable = [g for g in games if g.get("saveShareable")]
+
     out.append(
         f"**{len(games)} games** — {len(curated)} engine-curated · "
         f"{len(nexus_only)} Nexus-only. Generated {generated_utc}."
@@ -119,6 +155,15 @@ def build_markdown(games, generated_utc):
         "**Engine-curated** games get quick-pick setup — the launcher knows the engine "
         "and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher "
         "detects the engine from the game folder at runtime."
+    )
+    out.append("")
+    out.append(
+        f"**Saves** — every game here can be backed up and restored whole. "
+        f"{len(per_save)} also have a known save layout, so a single save can be handled on "
+        f"its own; {len(shareable)} have a curated player seam, so a world can be shared "
+        f"without the character who lived in it. The two are independent: a game can have "
+        f"the seam without the layout. Blank means nobody has curated it yet, not that the "
+        f"game lacks it."
     )
     out.append("")
     out.append(f"Missing a game? [Request it]({REQUEST_URL}) — facts welcome.")
@@ -135,14 +180,15 @@ def build_markdown(games, generated_utc):
 
     out.append(f"## Engine-curated ({len(curated)})")
     out.append("")
-    out.append("| Game | Engine | Mod path | Steam | Nexus |")
-    out.append("|---|---|---|---|---|")
+    out.append("| Game | Engine | Mod path | Saves | Steam | Nexus |")
+    out.append("|---|---|---|---|---|---|")
     for g in curated:
         out.append(
-            "| {name} | `{engine}` | `{mod}` | {steam} | {nexus} |".format(
+            "| {name} | `{engine}` | `{mod}` | {saves} | {steam} | {nexus} |".format(
                 name=md_escape(g["name"]),
                 engine=g.get("engine", ""),
                 mod=g.get("modPath", "—"),
+                saves=saves_cell(g),
                 steam=link("Steam", g.get("steamUrl")),
                 nexus=link("Nexus", g.get("nexusUrl")),
             )
@@ -151,12 +197,13 @@ def build_markdown(games, generated_utc):
 
     out.append(f"## Nexus-only ({len(nexus_only)})")
     out.append("")
-    out.append("| Game | Steam | Nexus |")
-    out.append("|---|---|---|")
+    out.append("| Game | Saves | Steam | Nexus |")
+    out.append("|---|---|---|---|")
     for g in nexus_only:
         out.append(
-            "| {name} | {steam} | {nexus} |".format(
+            "| {name} | {saves} | {steam} | {nexus} |".format(
                 name=md_escape(g["name"]),
+                saves=saves_cell(g),
                 steam=link("Steam", g.get("steamUrl")),
                 nexus=link("Nexus", g.get("nexusUrl")),
             )
@@ -209,6 +256,37 @@ FIXTURE = {
             "stores": {"steamAppId": "1086940"},
         },
         {
+            # Both save facts, and the only rung an ordered tier would have got right.
+            "id": "palworld",
+            "name": "Palworld",
+            "engine": "ue-pak",
+            "modPath": "Pal/Content/Paks",
+            "nexusDomain": "palworld",
+            "saveLayout": "worlds",
+            "savePlayerPaths": ["**/Players/**"],
+            "stores": {"steamAppId": "1623730"},
+        },
+        {
+            # THE case that killed the single ordered tier: a seam with no layout, so
+            # shareable WITHOUT per-save. A ladder would have to claim per-save here, which
+            # nobody has checked.
+            "id": "windrose",
+            "name": "Windrose",
+            "engine": "ue-pak",
+            "modPath": "mods",
+            "savePlayerPaths": ["**/Accounts/**"],
+            "stores": {},
+        },
+        {
+            # A save fact on a NEXUS-ONLY game. Stellaris is exactly this on the real feed,
+            # so the nexus-only table has to carry the column or the fact leaves the page.
+            "id": "stellaris",
+            "name": "Stellaris",
+            "nexusDomain": "stellaris",
+            "saveLayout": "worlds",
+            "stores": {"steamAppId": "281990"},
+        },
+        {
             "id": "no-steam-game",
             "name": "A Shopless Game",
             "engine": "custom",
@@ -225,8 +303,11 @@ def self_test():
     badge = build_badge(games)
     md = build_markdown(games, "2026-01-01T00:00:00Z")
 
-    assert payload["counts"] == {"total": 3, "engineCurated": 2, "nexusOnly": 1}, payload["counts"]
-    assert badge["message"] == "3" and badge["color"] == BADGE_COLOR
+    assert payload["counts"] == {
+        "total": 6, "engineCurated": 4, "nexusOnly": 2,
+        "savesPerSave": 2, "savesShareable": 2,
+    }, payload["counts"]
+    assert badge["message"] == "6" and badge["color"] == BADGE_COLOR
 
     by_id = {g["id"]: g for g in games}
     er = by_id["elden-ring"]
@@ -241,14 +322,44 @@ def self_test():
     shopless = by_id["no-steam-game"]
     assert "steamAppId" not in shopless and "steamUrl" not in shopless and "nexusUrl" not in shopless
 
-    # ordering: sorted by name casefold -> A Shopless.., Baldur's.., ELDEN RING
-    assert [g["id"] for g in games] == ["no-steam-game", "baldurs-gate-3", "elden-ring"]
+    # --- saves: two independent fields, never an ordered tier ---------------------------
+    pal = by_id["palworld"]
+    assert pal["saveGranularity"] == "per-save" and pal["saveShareable"] is True
+
+    # The case the ladder got wrong: shareable is NOT allowed to imply per-save.
+    wind = by_id["windrose"]
+    assert wind["saveShareable"] is True
+    assert "saveGranularity" not in wind, "shareable must not imply a layout nobody checked"
+
+    # ...and neither does per-save imply a seam.
+    stel = by_id["stellaris"]
+    assert stel["saveGranularity"] == "per-save"
+    assert "saveShareable" not in stel, "a layout must not imply a curated player seam"
+
+    # Unestablished means ABSENT, not false: null in the manifest means nobody has checked.
+    assert "saveGranularity" not in er and "saveShareable" not in er
+
+    assert saves_cell(pal) == "per-save · shareable"
+    assert saves_cell(wind) == "shareable"
+    assert saves_cell(stel) == "per-save"
+    assert saves_cell(er) == "backup"
+
+    # ordering: sorted by name casefold, so ELDEN RING sits between Baldur's and Palworld
+    assert [g["id"] for g in games] == [
+        "no-steam-game", "baldurs-gate-3", "elden-ring", "palworld", "stellaris", "windrose",
+    ]
 
     assert "## Featured" in md and "3. **ELDEN RING** — fromsoft" in md
-    assert "| ELDEN RING | `fromsoft` | `mod` |" in md
-    assert "| Baldur's Gate 3 | [Steam]" in md
+    assert "| ELDEN RING | `fromsoft` | `mod` | backup |" in md
+    assert "| Palworld | `ue-pak` | `Pal/Content/Paks` | per-save · shareable |" in md
+    assert "| Windrose | `ue-pak` | `mods` | shareable |" in md
     assert "no-steam-game" not in md  # ids aren't rendered; names are
-    assert "| A Shopless Game | `custom` | `mods` | — | — |" in md
+    assert "| A Shopless Game | `custom` | `mods` | backup | — | — |" in md
+
+    # A save fact on a nexus-only game reaches the page. Dropping the column from that
+    # table would have taken Stellaris's curated layout off the surface entirely.
+    assert "| Stellaris | per-save | [Steam]" in md
+    assert "| Baldur's Gate 3 | backup | [Steam]" in md
     print("self-test: OK (all assertions passed)")
 
 
