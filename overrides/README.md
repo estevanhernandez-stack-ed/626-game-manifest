@@ -125,3 +125,45 @@ looked correct, produced a "shareable" world, and shipped the character's invent
 
 It has no `saveLayout` either: save units sit two levels down and split across parallel `Multiplayer/`
 and `MultiplayerClient/` trees, so no single folder's subdirectories are the units.
+
+### Before curating a seam: check whether the game stamps an account id INSIDE its saves
+
+**A shareable bundle can remove files. It cannot remove fields.** The seam is a list of paths, so the
+launcher can drop a character's *files* — it cannot reach inside a save and take an id out of it.
+
+Every Steam game keeps `steam_autocloud.vdf` beside its saves, holding the account id, and a shareable
+bundle drops that file. If the game *also* writes the id into the save data, dropping the `.vdf`
+produces a bundle that looks clean, is described as clean, and still identifies its owner. **False
+assurance is worse than no assurance**, because the person acts on it.
+
+So before adding `savePlayerPaths`, grep the save folder for your own Steam id in **three forms** —
+the ID64 as ASCII, the ID64 as little-endian bytes, and the Steam3 account id:
+
+```python
+import os, struct
+id64  = b"7656119XXXXXXXXXX"                      # your ID64, ASCII
+raw   = struct.pack("<Q", 7656119XXXXXXXXXX)      # the same number, little-endian binary
+acct  = b"XXXXXXX"                                 # Steam3 account id (the userdata folder name)
+
+for r, _, fs in os.walk(save_dir):
+    for f in fs:
+        b = open(os.path.join(r, f), "rb").read()
+        if id64 in b or raw in b or acct in b:
+            print(os.path.relpath(os.path.join(r, f), save_dir))
+```
+
+**Only `steam_autocloud.vdf` should come back.** Anything else means the game embeds the id, and the
+seam should not be curated until someone has decided what to do about it.
+
+Two real results from that scan:
+
+| Game | Where the id is | Consequence |
+|---|---|---|
+| Palworld, Windrose, Cyberpunk, Witchfire, … | `steam_autocloud.vdf` only | safe to curate |
+| **Elden Ring** | little-endian **inside 18 of 19 save files** | a seam here would leak the owner. It is also a character game, so it gets none — but that is luck, not a rule |
+| **Gas Station Simulator** | in the **filename** — `GSS_Stats_<id64>_…` | the path itself carries it |
+
+Elden Ring is the cautionary case. Its id sits in a checksummed save, so it cannot be stripped without
+corrupting the file — that is exactly why save re-signing tools exist for FromSoft games. Rewriting it
+would mean recomputing per-slot hashes, which is writing into a save format, which this project does
+not do casually.
