@@ -1,10 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-08-30T14:20:25Z",
+  "generatedUtc": "2026-08-30T18:50:00Z",
   "counts": {
     "total": 151,
     "engineCurated": 112,
-    "nexusOnly": 39
+    "nexusOnly": 39,
+    "savesPerSave": 4,
+    "savesShareable": 2
   },
   "games": [
     {
@@ -191,6 +193,7 @@
       "steamUrl": "https://store.steampowered.com/app/1091500/",
       "engine": "custom",
       "modPath": "archive/pc/mod",
+      "saveGranularity": "per-save",
       "featured": 4,
       "nexusUrl": "https://www.nexusmods.com/cyberpunk2077"
     },
@@ -822,6 +825,8 @@
       "steamUrl": "https://store.steampowered.com/app/1623730/",
       "engine": "ue-pak",
       "modPath": "Pal/Content/Paks/~mods",
+      "saveGranularity": "per-save",
+      "saveShareable": true,
       "featured": 18,
       "nexusUrl": "https://www.nexusmods.com/palworld"
     },
@@ -982,6 +987,7 @@
       "steamUrl": "https://store.steampowered.com/app/3164500/",
       "engine": "melonloader",
       "modPath": "Mods",
+      "saveGranularity": "per-save",
       "nexusUrl": "https://www.nexusmods.com/schedule1"
     },
     {
@@ -1118,6 +1124,7 @@
       "tier": "nexus-only",
       "steamAppId": "281990",
       "steamUrl": "https://store.steampowered.com/app/281990/",
+      "saveGranularity": "per-save",
       "nexusUrl": "https://www.nexusmods.com/stellaris"
     },
     {
@@ -1425,7 +1432,8 @@
       "steamAppId": "3041230",
       "steamUrl": "https://store.steampowered.com/app/3041230/",
       "engine": "ue-pak",
-      "modPath": "R5/Content/Paks/~mods"
+      "modPath": "R5/Content/Paks/~mods",
+      "saveShareable": true
     },
     {
       "id": "wo-long-fallen-dynasty",

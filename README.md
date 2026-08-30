@@ -16,8 +16,39 @@ This repo holds **game identity data only** — names, store IDs, engine keys, m
 | `games-manifest.json.sig` | Detached ECDSA P-256 signature over the exact manifest bytes. |
 | `overrides/` | Hand-curated corrections (`<game>.json`) — these win over mined data. |
 | `SCHEMA.md` | The manifest shape. |
+| `supported-games.json` | The public consumer contract, generated from the manifest. |
+| `SUPPORTED-GAMES.md` | The human-readable game list, generated from the manifest. |
 | `.github/workflows/` | CI that mines → curates → signs → publishes. |
 | `NOTICE` | Attribution for the upstream factual-data sources. |
+
+## The public contract (`supported-games.json`)
+
+Generated from the signed manifest on the same CI rail, so it can never drift from it. The hub website
+and the Discord bot read it, so it changes **additively only**: a field here keeps its name and meaning.
+
+| Field | Always? | What |
+|---|---|---|
+| `id` / `name` | yes | The game's key and display name. |
+| `tier` | yes | `engine-curated` (the launcher knows the engine and mod folder) or `nexus-only` (identified on Nexus; engine detected from the folder at runtime). |
+| `steamAppId` / `steamUrl` | when known | Store identity. |
+| `engine` / `modPath` | engine-curated | How mods reach the game. |
+| `nexusUrl` | when known | Nexus Mods page. |
+| `featured` | rarely | Ordering hint for the featured list. |
+| `saveGranularity` | when curated | `"per-save"` — the save layout is known, so one save can be handled on its own. |
+| `saveShareable` | when curated | `true` — the player seam is curated, so a world can be shared without the character who lived in it. |
+
+**The two save fields are independent, not a ladder.** An early proposal published one ordered value
+(`backup` < `per-save` < `shareable`) on the claim that each contains the one above. The data does not
+work that way: Windrose has a curated seam and no known layout, so it is shareable *without* being
+per-save. A single value would have had to claim a layout nobody has checked.
+
+**Absent means nobody has curated it, never that the game lacks it.** Every game can be backed up and
+restored whole; these fields say only what is known beyond that floor. Consumers should treat a missing
+field as *unknown*, and must not render it as a limitation of the game.
+
+There is deliberately no field for the launcher reading a save's own name. That is compiled behaviour
+in the binary, not a fact about the game, so no data field could honestly carry it — and a data PR
+could set it for a game the launcher cannot actually name.
 
 ## How it's built
 
