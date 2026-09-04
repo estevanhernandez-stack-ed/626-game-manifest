@@ -1,10 +1,10 @@
 # Supported games
 
-**154 games** — 115 engine-curated · 39 Nexus-only. Generated 2026-09-04T15:36:02Z.
+**155 games** — 116 engine-curated · 39 Nexus-only. Generated 2026-09-04T17:29:56Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
-**Saves** — every game here can be backed up and restored whole. 4 also have a known save layout, so a single save can be handled on its own; 2 have a curated player seam, so a world can be shared without the character who lived in it. The two are independent: a game can have the seam without the layout. Blank means nobody has curated it yet, not that the game lacks it.
+**Saves** — every game here can be backed up and restored whole. 5 also have a known save layout, so a single save can be handled on its own; 3 have a curated player seam, so a world can be shared without the character who lived in it. The two are independent: a game can have the seam without the layout. Blank means nobody has curated it yet, not that the game lacks it.
 
 Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-game-manifest/issues/new?template=game-request.yml) — facts welcome.
 
@@ -29,7 +29,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (115)
+## Engine-curated (116)
 
 | Game | Engine | Mod path | Saves | Steam | Nexus |
 |---|---|---|---|---|---|
@@ -90,6 +90,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | MECCHA CHAMELEON | `ue-pak` | `Chameleon/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/4704690/) | [Nexus](https://www.nexusmods.com/mecchachameleon) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | `custom` | `textures/flatlist/_win` | backup | [Steam](https://store.steampowered.com/app/2131640/) | [Nexus](https://www.nexusmods.com/metalgearsolid2mc) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | `custom` | `textures/flatlist/ovr_stm/_win` | backup | [Steam](https://store.steampowered.com/app/2131650/) | [Nexus](https://www.nexusmods.com/metalgearsolid3mc) |
+| Minecraft: Java Edition | `minecraft` | `mods` | per-save · shareable | — | [Nexus](https://www.nexusmods.com/minecraft) |
 | Monster Hunter Rise | `custom` | `natives/STM` | backup | [Steam](https://store.steampowered.com/app/1446780/) | [Nexus](https://www.nexusmods.com/monsterhunterrise) |
 | Monster Hunter Wilds | `custom` | `reframework/autorun` | backup | [Steam](https://store.steampowered.com/app/2246340/) | [Nexus](https://www.nexusmods.com/monsterhunterwilds) |
 | Monster Hunter: World | `custom` | `NativePC` | backup | [Steam](https://store.steampowered.com/app/582010/) | [Nexus](https://www.nexusmods.com/monsterhunterworld) |

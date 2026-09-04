@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-09-04T15:36:02Z",
+  "generatedUtc": "2026-09-04T17:29:56Z",
   "counts": {
-    "total": 154,
-    "engineCurated": 115,
+    "total": 155,
+    "engineCurated": 116,
     "nexusOnly": 39,
-    "savesPerSave": 4,
-    "savesShareable": 2
+    "savesPerSave": 5,
+    "savesShareable": 3
   },
   "games": [
     {
@@ -752,6 +752,16 @@
       "engine": "custom",
       "modPath": "textures/flatlist/ovr_stm/_win",
       "nexusUrl": "https://www.nexusmods.com/metalgearsolid3mc"
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft: Java Edition",
+      "tier": "engine-curated",
+      "engine": "minecraft",
+      "modPath": "mods",
+      "saveGranularity": "per-save",
+      "saveShareable": true,
+      "nexusUrl": "https://www.nexusmods.com/minecraft"
     },
     {
       "id": "monster-hunter-rise",

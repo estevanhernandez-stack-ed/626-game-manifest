@@ -5390,6 +5390,43 @@
       }
     },
     {
+      "id": "minecraft",
+      "name": "Minecraft: Java Edition",
+      "engine": "minecraft",
+      "stores": {
+        "steamAppId": null,
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "minecraft",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
+      "fileExtensions": [
+        "jar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": "worlds",
+      "savePlayerPaths": [
+        "playerdata/**",
+        "stats/**",
+        "advancements/**"
+      ],
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "crime-simulator",
       "name": "Crime Simulator",
       "engine": "bepinex",
