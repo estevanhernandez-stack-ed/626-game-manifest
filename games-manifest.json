@@ -71,7 +71,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -380,7 +381,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -415,7 +417,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -551,7 +554,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -796,7 +800,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -833,7 +838,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -1218,7 +1224,8 @@
         "sources": [
           "ludusavi",
           "curated",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -1430,6 +1437,37 @@
       }
     },
     {
+      "id": "ea-sports-college-football-27",
+      "name": "EA SPORTS College Football 27",
+      "engine": null,
+      "stores": {
+        "steamAppId": "4032350",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": null,
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": null,
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": "offline",
+      "safeRouteHint": "EA\u0027s user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA\u0027s kernel-level anti-cheat and the launcher cannot turn it off.",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "ban-risk"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "elden-ring",
       "name": "Elden Ring",
       "engine": "fromsoft",
@@ -1461,7 +1499,8 @@
           "curated",
           "known-engines",
           "nexus-domains",
-          "popular-games"
+          "popular-games",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -1670,7 +1709,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -1844,7 +1884,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -1911,7 +1952,8 @@
         "sources": [
           "ludusavi",
           "curated",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2048,7 +2090,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2406,7 +2449,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2441,7 +2485,8 @@
           "curated",
           "known-engines",
           "nexus-domains",
-          "popular-games"
+          "popular-games",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2509,7 +2554,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2573,7 +2619,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2686,7 +2733,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2722,7 +2770,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2762,7 +2811,8 @@
           "curated",
           "known-engines",
           "nexus-domains",
-          "popular-games"
+          "popular-games",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -2799,7 +2849,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3048,7 +3099,8 @@
           "curated",
           "known-engines",
           "nexus-domains",
-          "popular-games"
+          "popular-games",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3150,7 +3202,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3314,7 +3367,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3351,7 +3405,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3390,7 +3445,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3426,7 +3482,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -3642,7 +3699,8 @@
           "mo2",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -4976,7 +5034,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -5047,7 +5106,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -5187,7 +5247,8 @@
           "ludusavi",
           "curated",
           "known-engines",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
@@ -5257,7 +5318,8 @@
         "sources": [
           "ludusavi",
           "curated",
-          "nexus-domains"
+          "nexus-domains",
+          "ban-risk"
         ],
         "status": "curated"
       }
