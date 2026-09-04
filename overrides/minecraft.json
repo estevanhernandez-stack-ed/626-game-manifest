@@ -1,0 +1,17 @@
+{
+  "id": "minecraft",
+  "name": "Minecraft: Java Edition",
+  "engine": "minecraft",
+  "modPath": "mods",
+  "nexusDomain": "minecraft",
+  "fileExtensions": [
+    "jar"
+  ],
+  "saveDirHint": "<winAppData>/.minecraft/saves",
+  "saveLayout": "worlds",
+  "savePlayerPaths": [
+    "playerdata/**",
+    "stats/**",
+    "advancements/**"
+  ]
+}
