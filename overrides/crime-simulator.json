@@ -1,0 +1,14 @@
+{
+  "steamAppId": "2737070",
+  "id": "crime-simulator",
+  "name": "Crime Simulator",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "crimesimulator",
+  "fileExtensions": [
+    ".dll",
+    ".zip",
+    ".7z",
+    ".rar"
+  ]
+}

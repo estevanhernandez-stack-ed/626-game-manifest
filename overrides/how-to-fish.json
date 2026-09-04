@@ -1,0 +1,14 @@
+{
+  "steamAppId": "4001890",
+  "id": "how-to-fish",
+  "name": "How to Fish",
+  "engine": "bepinex",
+  "modPath": "How to Fish/BepInEx/plugins",
+  "nexusDomain": "howtofish",
+  "fileExtensions": [
+    ".dll",
+    ".zip",
+    ".7z",
+    ".rar"
+  ]
+}

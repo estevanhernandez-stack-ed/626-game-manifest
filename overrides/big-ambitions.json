@@ -1,0 +1,15 @@
+{
+  "steamAppId": "1331550",
+  "id": "big-ambitions",
+  "name": "Big Ambitions",
+  "engine": "bepinex",
+  "modPath": "BepInEx/plugins",
+  "nexusDomain": "bigambitions",
+  "fileExtensions": [
+    ".dll",
+    ".zip",
+    ".7z",
+    ".rar"
+  ],
+  "saveDirHint": "<home>/AppData/LocalLow/Hovgaard Games/Big Ambitions/SaveGames"
+}
