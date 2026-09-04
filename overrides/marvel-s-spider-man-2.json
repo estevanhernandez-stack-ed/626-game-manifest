@@ -1,0 +1,17 @@
+{
+  "steamAppId": "2651280",
+  "id": "marvel-s-spider-man-2",
+  "name": "Marvel's Spider-Man 2",
+  "engine": "custom",
+  "modPath": "Mods",
+  "nexusDomain": "marvelsspiderman2",
+  "fileExtensions": [
+    "smpcmod",
+    "suit",
+    "stage",
+    "modular",
+    "script"
+  ],
+  "groupingRule": "extension",
+  "saveDirHint": "<winDocuments>/Marvel's Spider-Man 2"
+}

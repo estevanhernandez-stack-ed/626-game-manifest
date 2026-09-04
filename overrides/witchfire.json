@@ -1,0 +1,15 @@
+{
+  "steamAppId": "3156770",
+  "id": "witchfire",
+  "name": "Witchfire",
+  "engine": "ue-pak",
+  "modPath": "Witchfire/Content/Paks",
+  "nexusDomain": "witchfire",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ],
+  "groupingRule": "strip_underscore_p_suffix",
+  "saveDirHint": "<winLocalAppData>/Witchfire/Saved/SaveGames"
+}
