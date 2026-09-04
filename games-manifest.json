@@ -5328,41 +5328,6 @@
       }
     },
     {
-      "id": "fallout-3-game-of-the-year-edition",
-      "name": "Fallout 3 - Game of the Year Edition",
-      "engine": "bethesda",
-      "stores": {
-        "steamAppId": "22370",
-        "gogId": null,
-        "epicAppName": null,
-        "xboxStoreId": null
-      },
-      "nexusDomain": "fallout3",
-      "curseforgeGameId": null,
-      "modPath": "Data",
-      "saveDirHint": null,
-      "fileExtensions": [
-        "esp",
-        "esm",
-        "bsa"
-      ],
-      "groupingRule": null,
-      "featured": null,
-      "banRisk": null,
-      "saveLayout": null,
-      "savePlayerPaths": null,
-      "safeRoute": null,
-      "safeRouteHint": null,
-      "provenance": {
-        "sources": [
-          "curated",
-          "known-engines",
-          "nexus-domains"
-        ],
-        "status": "curated"
-      }
-    },
-    {
       "id": "crime-simulator",
       "name": "Crime Simulator",
       "engine": "bepinex",
@@ -5381,6 +5346,41 @@
         ".zip",
         ".7z",
         ".rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "fallout-3-game-of-the-year-edition",
+      "name": "Fallout 3 - Game of the Year Edition",
+      "engine": "bethesda",
+      "stores": {
+        "steamAppId": "22370",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "fallout3",
+      "curseforgeGameId": null,
+      "modPath": "Data",
+      "saveDirHint": null,
+      "fileExtensions": [
+        "esp",
+        "esm",
+        "bsa"
       ],
       "groupingRule": null,
       "featured": null,
