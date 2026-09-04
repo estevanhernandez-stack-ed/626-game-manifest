@@ -1,0 +1,15 @@
+{
+  "steamAppId": "1149620",
+  "id": "gas-station-simulator",
+  "name": "Gas Station Simulator",
+  "engine": "ue-pak",
+  "modPath": "GSS2/Content/Paks",
+  "nexusDomain": "gasstationsimulator",
+  "fileExtensions": [
+    "pak",
+    "ucas",
+    "utoc"
+  ],
+  "groupingRule": "strip_underscore_p_suffix",
+  "saveDirHint": "<winLocalAppData>/GSS2/Saved/SaveGames"
+}
