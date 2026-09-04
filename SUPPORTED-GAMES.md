@@ -1,6 +1,6 @@
 # Supported games
 
-**151 games** — 112 engine-curated · 39 Nexus-only. Generated 2026-08-31T06:04:15Z.
+**154 games** — 115 engine-curated · 39 Nexus-only. Generated 2026-09-04T02:37:05Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -29,7 +29,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (112)
+## Engine-curated (115)
 
 | Game | Engine | Mod path | Saves | Steam | Nexus |
 |---|---|---|---|---|---|
@@ -37,12 +37,14 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Abiotic Factor | `ue-pak` | `AbioticFactor/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/427410/) | [Nexus](https://www.nexusmods.com/abioticfactor) |
 | ARK: Survival Ascended | `ue-pak` | `ShooterGame/Binaries/Win64/ShooterGame/Mods` | backup | [Steam](https://store.steampowered.com/app/2399830/) | [Nexus](https://www.nexusmods.com/asksurvivalevolved) |
 | Armored Core VI: Fires of Rubicon | `fromsoft` | `mod` | backup | [Steam](https://store.steampowered.com/app/1888160/) | [Nexus](https://www.nexusmods.com/armoredcore6firesofrubicon) |
+| Big Ambitions | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1331550/) | [Nexus](https://www.nexusmods.com/bigambitions) |
 | Black Myth: Wukong | `ue-pak` | `b1/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/2358720/) | [Nexus](https://www.nexusmods.com/blackmythwukong) |
 | Borderlands 3 | `ue-pak` | `OakGame/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/397540/) | [Nexus](https://www.nexusmods.com/borderlands3) |
 | Chivalry 2 | `ue-pak` | `TBL/Content/Paks` | backup | [Steam](https://store.steampowered.com/app/1824220/) | [Nexus](https://www.nexusmods.com/chivalry2) |
 | Cities: Skylines II | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/949230/) | [Nexus](https://www.nexusmods.com/citiesskylines2) |
 | CODE VEIN | `ue-pak` | `CodeVein/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/678960/) | [Nexus](https://www.nexusmods.com/codevein) |
 | Content Warning | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/2881650/) | [Nexus](https://www.nexusmods.com/contentwarning) |
+| Crime Simulator | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/2737070/) | [Nexus](https://www.nexusmods.com/crimesimulator) |
 | Cult of the Lamb | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1313140/) | [Nexus](https://www.nexusmods.com/cultofthelamb) |
 | Cuphead | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/268910/) | [Nexus](https://www.nexusmods.com/cuphead) |
 | Cyberpunk 2077 | `custom` | `archive/pc/mod` | per-save | [Steam](https://store.steampowered.com/app/1091500/) | [Nexus](https://www.nexusmods.com/cyberpunk2077) |
@@ -75,6 +77,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Hogwarts Legacy | `ue-pak` | `Phoenix/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/990080/) | [Nexus](https://www.nexusmods.com/hogwartslegacy) |
 | Hollow Knight | `custom` | `hollow_knight_Data/Managed/Mods` | backup | [Steam](https://store.steampowered.com/app/367520/) | [Nexus](https://www.nexusmods.com/hollowknight) |
 | Hollow Knight: Silksong | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1030300/) | [Nexus](https://www.nexusmods.com/hollowknightsilksong) |
+| How to Fish | `bepinex` | `How to Fish/BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/4001890/) | [Nexus](https://www.nexusmods.com/howtofish) |
 | Inscryption | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1092790/) | [Nexus](https://www.nexusmods.com/inscryption) |
 | Jurassic World Evolution 2 | `custom` | `Win64/ovldata` | backup | [Steam](https://store.steampowered.com/app/1244460/) | [Nexus](https://www.nexusmods.com/jurassicworldevolution2) |
 | Kerbal Space Program | `custom` | `GameData` | backup | [Steam](https://store.steampowered.com/app/220200/) | [Nexus](https://www.nexusmods.com/kerbalspaceprogram) |

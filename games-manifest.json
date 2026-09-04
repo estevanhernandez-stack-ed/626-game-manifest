@@ -248,6 +248,43 @@
       }
     },
     {
+      "id": "big-ambitions",
+      "name": "Big Ambitions",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "1331550",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "bigambitions",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Hovgaard Games/Big Ambitions/SaveGames",
+      "fileExtensions": [
+        ".dll",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "black-myth-wukong",
       "name": "Black Myth: Wukong",
       "engine": "ue-pak",
@@ -1219,7 +1256,7 @@
       }
     },
     {
-      "id": "dragon-s-dogma-ii",
+      "id": "dragon-s-dogma-2",
       "name": "Dragon\u0027s Dogma 2",
       "engine": null,
       "stores": {
@@ -2115,6 +2152,43 @@
         "sources": [
           "ludusavi",
           "mo2",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "how-to-fish",
+      "name": "How to Fish",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "4001890",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "howtofish",
+      "curseforgeGameId": null,
+      "modPath": "How to Fish/BepInEx/plugins",
+      "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Dazed Games/How to Fish/Saves/*.txt",
+      "fileExtensions": [
+        ".dll",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
           "curated",
           "known-engines",
           "nexus-domains"
@@ -5271,6 +5345,42 @@
         "esp",
         "esm",
         "bsa"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "crime-simulator",
+      "name": "Crime Simulator",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "2737070",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "crimesimulator",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "saveDirHint": null,
+      "fileExtensions": [
+        ".dll",
+        ".zip",
+        ".7z",
+        ".rar"
       ],
       "groupingRule": null,
       "featured": null,
