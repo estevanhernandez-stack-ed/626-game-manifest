@@ -1891,6 +1891,42 @@
       }
     },
     {
+      "id": "gas-station-simulator",
+      "name": "Gas Station Simulator",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "1149620",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "gasstationsimulator",
+      "curseforgeGameId": null,
+      "modPath": "GSS2/Content/Paks",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/GSS2/Saved/SaveGames",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "grand-theft-auto-iv",
       "name": "Grand Theft Auto IV: The Complete Edition",
       "engine": null,
@@ -2556,6 +2592,44 @@
           "known-engines",
           "nexus-domains",
           "ban-risk"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "marvel-s-spider-man-2",
+      "name": "Marvel\u0027s Spider-Man 2",
+      "engine": "custom",
+      "stores": {
+        "steamAppId": "2651280",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "marvelsspiderman2",
+      "curseforgeGameId": null,
+      "modPath": "Mods",
+      "saveDirHint": "\u003CwinDocuments\u003E/Marvel\u0027s Spider-Man 2",
+      "fileExtensions": [
+        "smpcmod",
+        "suit",
+        "stage",
+        "modular",
+        "script"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
         ],
         "status": "curated"
       }
@@ -5288,6 +5362,42 @@
           "ludusavi",
           "curated",
           "known-engines"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "witchfire",
+      "name": "Witchfire",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "3156770",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": "witchfire",
+      "curseforgeGameId": null,
+      "modPath": "Witchfire/Content/Paks",
+      "saveDirHint": "\u003CwinLocalAppData\u003E/Witchfire/Saved/SaveGames",
+      "fileExtensions": [
+        "pak",
+        "ucas",
+        "utoc"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains"
         ],
         "status": "curated"
       }

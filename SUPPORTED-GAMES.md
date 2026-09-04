@@ -1,6 +1,6 @@
 # Supported games
 
-**155 games** — 116 engine-curated · 39 Nexus-only. Generated 2026-09-04T17:29:56Z.
+**158 games** — 119 engine-curated · 39 Nexus-only. Generated 2026-09-04T17:39:59Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -29,7 +29,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (116)
+## Engine-curated (119)
 
 | Game | Engine | Mod path | Saves | Steam | Nexus |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Final Fantasy VII Remake Intergrade | `ue-pak` | `End/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/1462040/) | [Nexus](https://www.nexusmods.com/finalfantasy7remake) |
 | Frostpunk 2 | `ue-pak` | `Frostpunk2/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/1601580/) | [Nexus](https://www.nexusmods.com/frostpunk2) |
 | Garry's Mod | `source` | `garrysmod/addons` | backup | [Steam](https://store.steampowered.com/app/4000/) | [Nexus](https://www.nexusmods.com/garrysmod) |
+| Gas Station Simulator | `ue-pak` | `GSS2/Content/Paks` | backup | [Steam](https://store.steampowered.com/app/1149620/) | [Nexus](https://www.nexusmods.com/gasstationsimulator) |
 | Green Hell | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/815370/) | [Nexus](https://www.nexusmods.com/greenhell) |
 | Grounded | `ue-pak` | `Maine/Content/Paks` | backup | [Steam](https://store.steampowered.com/app/962130/) | [Nexus](https://www.nexusmods.com/grounded) |
 | Helldivers 2 | `custom` | `data` | backup | [Steam](https://store.steampowered.com/app/553850/) | [Nexus](https://www.nexusmods.com/helldivers2) |
@@ -87,6 +88,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Lethal Company | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1966720/) | [Nexus](https://www.nexusmods.com/lethalcompany) |
 | Lies of P | `ue-pak` | `LiesofP/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/1627720/) | [Nexus](https://www.nexusmods.com/liesofp) |
 | Marvel Rivals | `ue-pak` | `MarvelGame/Marvel/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/2767030/) | [Nexus](https://www.nexusmods.com/marvelrivals) |
+| Marvel's Spider-Man 2 | `custom` | `Mods` | backup | [Steam](https://store.steampowered.com/app/2651280/) | [Nexus](https://www.nexusmods.com/marvelsspiderman2) |
 | MECCHA CHAMELEON | `ue-pak` | `Chameleon/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/4704690/) | [Nexus](https://www.nexusmods.com/mecchachameleon) |
 | Metal Gear Solid 2: Sons of Liberty - Master Collection Version | `custom` | `textures/flatlist/_win` | backup | [Steam](https://store.steampowered.com/app/2131640/) | [Nexus](https://www.nexusmods.com/metalgearsolid2mc) |
 | Metal Gear Solid 3: Snake Eater - Master Collection Version | `custom` | `textures/flatlist/ovr_stm/_win` | backup | [Steam](https://store.steampowered.com/app/2131650/) | [Nexus](https://www.nexusmods.com/metalgearsolid3mc) |
@@ -148,6 +150,7 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 | Vampire: The Masquerade - Bloodlines | `source` | `Vampire` | backup | [Steam](https://store.steampowered.com/app/2600/) | [Nexus](https://www.nexusmods.com/vampirebloodlines) |
 | Warhammer 40,000: Space Marine 2 | `custom` | `client_pc/root/mods` | backup | [Steam](https://store.steampowered.com/app/2183900/) | [Nexus](https://www.nexusmods.com/warhammer40000spacemarine2) |
 | Windrose | `ue-pak` | `R5/Content/Paks/~mods` | shareable | [Steam](https://store.steampowered.com/app/3041230/) | — |
+| Witchfire | `ue-pak` | `Witchfire/Content/Paks` | backup | [Steam](https://store.steampowered.com/app/3156770/) | [Nexus](https://www.nexusmods.com/witchfire) |
 | XCOM 2 | `custom` | `XComGame/Mods` | backup | [Steam](https://store.steampowered.com/app/268500/) | [Nexus](https://www.nexusmods.com/xcom2) |
 
 ## Nexus-only (39)

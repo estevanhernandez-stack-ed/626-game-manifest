@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-09-04T17:29:56Z",
+  "generatedUtc": "2026-09-04T17:39:59Z",
   "counts": {
-    "total": 155,
-    "engineCurated": 116,
+    "total": 158,
+    "engineCurated": 119,
     "nexusOnly": 39,
     "savesPerSave": 5,
     "savesShareable": 3
@@ -530,6 +530,16 @@
       "nexusUrl": "https://www.nexusmods.com/garrysmod"
     },
     {
+      "id": "gas-station-simulator",
+      "name": "Gas Station Simulator",
+      "tier": "engine-curated",
+      "steamAppId": "1149620",
+      "steamUrl": "https://store.steampowered.com/app/1149620/",
+      "engine": "ue-pak",
+      "modPath": "GSS2/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/gasstationsimulator"
+    },
+    {
       "id": "grand-theft-auto-iv",
       "name": "Grand Theft Auto IV: The Complete Edition",
       "tier": "nexus-only",
@@ -714,6 +724,16 @@
       "engine": "ue-pak",
       "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
       "nexusUrl": "https://www.nexusmods.com/marvelrivals"
+    },
+    {
+      "id": "marvel-s-spider-man-2",
+      "name": "Marvel's Spider-Man 2",
+      "tier": "engine-curated",
+      "steamAppId": "2651280",
+      "steamUrl": "https://store.steampowered.com/app/2651280/",
+      "engine": "custom",
+      "modPath": "Mods",
+      "nexusUrl": "https://www.nexusmods.com/marvelsspiderman2"
     },
     {
       "id": "mass-effect-legendary-edition",
@@ -1474,6 +1494,16 @@
       "engine": "ue-pak",
       "modPath": "R5/Content/Paks/~mods",
       "saveShareable": true
+    },
+    {
+      "id": "witchfire",
+      "name": "Witchfire",
+      "tier": "engine-curated",
+      "steamAppId": "3156770",
+      "steamUrl": "https://store.steampowered.com/app/3156770/",
+      "engine": "ue-pak",
+      "modPath": "Witchfire/Content/Paks",
+      "nexusUrl": "https://www.nexusmods.com/witchfire"
     },
     {
       "id": "wo-long-fallen-dynasty",
