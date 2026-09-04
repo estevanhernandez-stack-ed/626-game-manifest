@@ -1,8 +1,13 @@
 # Curated overrides
 
-Hand-curated corrections that **win over** mined data. One `<game>.json` per game; the **Steam app id is the key**. The build workflow applies these as the final merge step (after the Ludusavi backbone + MO2 enrichment), so a curated `engine` / `modPath` beats whatever the miner guessed — and an override for a game the mined sources don't have simply **adds** it.
+Hand-curated corrections that **win over** mined data. One `<game>.json` per game. The **Steam app id
+is the key when the game has one**; a game sold outside Steam — the EA app, Epic, GOG — is keyed by its
+`id` slug instead. Exactly one of the two is required. The build workflow applies these as the final merge step (after the Ludusavi backbone + MO2 enrichment), so a curated `engine` / `modPath` beats whatever the miner guessed — and an override for a game the mined sources don't have simply **adds** it.
 
-## Format (camelCase; only `steamAppId` is required)
+The build **fails** if two files share an `id` or a Steam app id: one would silently win, and picking a
+winner is not something a build should do quietly.
+
+## Format (camelCase; exactly one of `steamAppId` / `id` is required)
 
 ```json
 {

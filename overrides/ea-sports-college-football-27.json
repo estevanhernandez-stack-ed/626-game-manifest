@@ -1,0 +1,9 @@
+{
+  "steamAppId": "4032350",
+  "id": "ea-sports-college-football-27",
+  "name": "EA SPORTS College Football 27",
+  "nexusDomain": null,
+  "banRisk": "high",
+  "safeRoute": "offline",
+  "safeRouteHint": "EA's user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA's kernel-level anti-cheat and the launcher cannot turn it off."
+}
