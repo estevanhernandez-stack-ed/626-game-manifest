@@ -895,7 +895,7 @@
       "nexusDomain": "darkestdungeon",
       "curseforgeGameId": null,
       "modPath": "mods",
-      "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/262060/remote/profile_*",
+      "saveDirHint": null,
       "fileExtensions": [
         ".darkest",
         ".xml",
