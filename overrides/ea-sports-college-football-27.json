@@ -4,6 +4,6 @@
   "name": "EA SPORTS College Football 27",
   "nexusDomain": null,
   "banRisk": "high",
-  "safeRoute": "offline",
+  "safeRoute": "unclear",
   "safeRouteHint": "EA's user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA's kernel-level anti-cheat and the launcher cannot turn it off."
 }

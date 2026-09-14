@@ -1,0 +1,9 @@
+{
+  "steamAppId": "3940610",
+  "id": "madden-nfl-27",
+  "name": "Madden NFL 27",
+  "nexusDomain": null,
+  "banRisk": "high",
+  "safeRoute": "unclear",
+  "safeRouteHint": "EA's user agreement prohibits modifying their games, with no exception for offline play. This game ships EA's kernel-level anti-cheat, which starts with every launch including offline modes, and the launcher cannot turn it off. How EA enforces this against offline modding is not documented."
+}
