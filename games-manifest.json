@@ -1456,7 +1456,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
-      "safeRoute": "offline",
+      "safeRoute": "unclear",
       "safeRouteHint": "EA\u0027s user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA\u0027s kernel-level anti-cheat and the launcher cannot turn it off.",
       "provenance": {
         "sources": [
@@ -2559,6 +2559,37 @@
           "curated",
           "known-engines",
           "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "madden-nfl-27",
+      "name": "Madden NFL 27",
+      "engine": null,
+      "stores": {
+        "steamAppId": "3940610",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null
+      },
+      "nexusDomain": null,
+      "curseforgeGameId": null,
+      "modPath": null,
+      "saveDirHint": null,
+      "fileExtensions": null,
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "high",
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "safeRoute": "unclear",
+      "safeRouteHint": "EA\u0027s user agreement prohibits modifying their games, with no exception for offline play. This game ships EA\u0027s kernel-level anti-cheat, which starts with every launch including offline modes, and the launcher cannot turn it off. How EA enforces this against offline modding is not documented.",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "ban-risk"
         ],
         "status": "curated"
       }
