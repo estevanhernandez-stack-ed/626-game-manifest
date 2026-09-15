@@ -19,6 +19,7 @@ The published `games-manifest.json` is generated, not hand-edited. CI mines a ba
 | Field | Required | What it is |
 |---|---|---|
 | `steamAppId` | **yes** | Steam App ID (string). The key. An override whose id isn't in the backbone *adds* a new game; one that matches *corrects* it. |
+| `eaContentId` | no | The EA app's content id: the **first** `contentIDs/contentID` in the game's `__Installer\installerdata.xml`. The launcher offers an EA app install only when this matches, so it is the key for EA games. Digits, letters, `.`, `_` and `-` only. |
 | `id` | no | kebab-case slug for the entry (derived from name if omitted). |
 | `name` | no | Display name. |
 | `engine` | no | One of the 9 keys below. Sets the quick-pick + the mod mechanism. Omit if you don't know — a verified `nexusDomain` alone is enough to publish (see below). |
@@ -67,6 +68,7 @@ documented source, same as everything else in this feed.
 This feed publishes only **uncopyrightable facts**, and every datum must be **cross-verified against a second primary source**:
 
 - `steamAppId` → the Steam store page / SteamDB.
+- `eaContentId` → the game's own `__Installer\installerdata.xml` on a real EA app install, read without launching anything. It is not published anywhere else, so name the installed version (`buildMetaData/gameVersion`) in the PR.
 - `engine` → the game's documented mod loader (its Nexus page, official modding docs).
 - `nexusDomain` → the live Nexus Mods page (and that it has real mod activity).
 - `modPath` → the loader's documented mod folder.

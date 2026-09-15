@@ -19,7 +19,7 @@
 | `id` | string | stable slug, unique (primary key) |
 | `name` | string | display name |
 | `engine` | string \| null | must be a known engine key (below); null ⇒ launcher folder-detects at runtime |
-| `stores` | object | `{ steamAppId?, gogId?, epicAppName?, xboxStoreId? }` (only Steam is probed today) |
+| `stores` | object | `{ steamAppId?, gogId?, epicAppName?, xboxStoreId?, eaContentId? }` (Steam and the EA app are probed; an EA app install is offered only when `eaContentId` matches) |
 | `nexusDomain` | string \| null | Nexus game slug (e.g. `skyrimspecialedition`) |
 | `curseforgeGameId` | int \| null | |
 | `modPath` | string \| null | mod folder, relative — **must not** be absolute or contain `..` |
