@@ -5688,32 +5688,30 @@
       }
     },
     {
-      "id": "minecraft",
-      "name": "Minecraft: Java Edition",
-      "engine": "minecraft",
+      "id": "fallout-3-game-of-the-year-edition",
+      "name": "Fallout 3 - Game of the Year Edition",
+      "engine": "bethesda",
       "stores": {
-        "steamAppId": null,
+        "steamAppId": "22370",
         "gogId": null,
         "epicAppName": null,
         "xboxStoreId": null,
         "eaContentId": null
       },
-      "nexusDomain": "minecraft",
+      "nexusDomain": "fallout3",
       "curseforgeGameId": null,
-      "modPath": "mods",
-      "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
+      "modPath": "Data",
+      "saveDirHint": null,
       "fileExtensions": [
-        "jar"
+        "esp",
+        "esm",
+        "bsa"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
-      "saveLayout": "worlds",
-      "savePlayerPaths": [
-        "playerdata/**",
-        "stats/**",
-        "advancements/**"
-      ],
+      "saveLayout": null,
+      "savePlayerPaths": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5763,30 +5761,32 @@
       }
     },
     {
-      "id": "fallout-3-game-of-the-year-edition",
-      "name": "Fallout 3 - Game of the Year Edition",
-      "engine": "bethesda",
+      "id": "minecraft",
+      "name": "Minecraft: Java Edition",
+      "engine": "minecraft",
       "stores": {
-        "steamAppId": "22370",
+        "steamAppId": null,
         "gogId": null,
         "epicAppName": null,
         "xboxStoreId": null,
         "eaContentId": null
       },
-      "nexusDomain": "fallout3",
+      "nexusDomain": "minecraft",
       "curseforgeGameId": null,
-      "modPath": "Data",
-      "saveDirHint": null,
+      "modPath": "mods",
+      "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
       "fileExtensions": [
-        "esp",
-        "esm",
-        "bsa"
+        "jar"
       ],
       "groupingRule": null,
       "featured": null,
       "banRisk": null,
-      "saveLayout": null,
-      "savePlayerPaths": null,
+      "saveLayout": "worlds",
+      "savePlayerPaths": [
+        "playerdata/**",
+        "stats/**",
+        "advancements/**"
+      ],
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
