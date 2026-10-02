@@ -24,6 +24,7 @@ The published `games-manifest.json` is generated, not hand-edited. CI mines a ba
 | `name` | no | Display name. |
 | `engine` | no | One of the 9 keys below. Sets the quick-pick + the mod mechanism. Omit if you don't know — a verified `nexusDomain` alone is enough to publish (see below). |
 | `modPath` | no | The mod folder **relative** to the game root (e.g. `Data`, `Mods`, `Content/Paks/~mods`). Must be relative + safe — no leading `/`, no drive letter, no `..`. |
+| `extraModTrees` | no | The game's OTHER mod folders, relative to the game root, for a game whose mods write to several (e.g. Cyberpunk 2077's `r6/scripts`). Each is gated like `modPath`; an unsafe one is dropped. Descriptive only: the launcher shows a mod's files there, it never moves them. Each folder needs the same documented source as `modPath`. |
 | `nexusDomain` | no | The game's Nexus Mods domain slug (the `…/games/<slug>` part of its Nexus URL). |
 | `banRisk` | no | `low` \| `medium` \| `high` — see the guide below. |
 | `safeRoute` | no | Does a DOCUMENTED safe modding route exist despite the risk? `offline` \| `private-server` \| `official-mods` \| `none` \| `unclear`. Only with a `banRisk`; needs a verified source. |

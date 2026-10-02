@@ -23,6 +23,7 @@
 | `nexusDomain` | string \| null | Nexus game slug (e.g. `skyrimspecialedition`) |
 | `curseforgeGameId` | int \| null | |
 | `modPath` | string \| null | mod folder, relative — **must not** be absolute or contain `..` |
+| `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each is re-validated like `modPath`; an unsafe one is dropped and the rest of the entry kept. Descriptive only: the launcher shows which of them hold a mod's files, never moves them. Additive, optional; binaries that predate it ignore it. |
 | `fileExtensions` | string[] \| null | override to the engine's default extensions |
 | `groupingRule` | string \| null | override to the engine's default grouping |
 | `featured` | int \| null | quick-pick rank; null ⇒ not featured |
