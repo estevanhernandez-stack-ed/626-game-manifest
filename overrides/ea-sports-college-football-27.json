@@ -6,5 +6,6 @@
   "nexusDomain": null,
   "banRisk": "high",
   "safeRoute": "unclear",
-  "safeRouteHint": "EA's user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA's kernel-level anti-cheat and the launcher cannot turn it off."
+  "safeRouteHint": "EA's user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA's kernel-level anti-cheat and the launcher cannot turn it off.",
+  "saveDirHint": "<winDocuments>/EA SPORTS College Football 27/saves"
 }
