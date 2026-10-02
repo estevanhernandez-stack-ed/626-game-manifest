@@ -7,6 +7,7 @@
   "extraModTrees": [
     "r6/scripts",
     "r6/tweaks",
+    "r6/input",
     "red4ext/plugins",
     "bin/x64/plugins/cyber_engine_tweaks/mods"
   ],

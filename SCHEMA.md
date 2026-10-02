@@ -23,7 +23,7 @@
 | `nexusDomain` | string \| null | Nexus game slug (e.g. `skyrimspecialedition`) |
 | `curseforgeGameId` | int \| null | |
 | `modPath` | string \| null | mod folder, relative — **must not** be absolute or contain `..` |
-| `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each is re-validated like `modPath`; an unsafe one is dropped and the rest of the entry kept. Descriptive only: the launcher shows which of them hold a mod's files, never moves them. Additive, optional; binaries that predate it ignore it. |
+| `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each must name a folder below the game root: the launcher drops one that is absolute, drive-qualified, contains `..` or is `.`, and keeps the rest of the entry. It is a relative-path check only; the trees are never written to, so they do not go through `modPath`'s forbidden-paths gate. Descriptive only: the launcher names which trees hold a top-level entry named exactly like a mod, never moves them. Additive, optional; binaries that predate it ignore it. |
 | `fileExtensions` | string[] \| null | override to the engine's default extensions |
 | `groupingRule` | string \| null | override to the engine's default grouping |
 | `featured` | int \| null | quick-pick rank; null ⇒ not featured |
@@ -64,6 +64,8 @@ older launcher (forward-compat) — adding a new engine is launcher code, not da
   public key pinned in the launcher binary (ECDSA P-256 / SHA-256, `IeeeP1363`).
 - `modPath` is re-validated through the launcher's forbidden-paths gate
   (relative-only, no `..`, no escape) — the manifest never widens it.
+- `extraModTrees` entries are checked as relative folders below the game root
+  and are only ever READ (listed), never written to; an unsafe one is dropped.
 - A bad signature / unknown schema / too-high `minBinaryVersion` ⇒ the launcher
   falls back to its embedded manifest. The feed can only ever add/refresh; it
   can never break a working install.
