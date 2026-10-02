@@ -4,6 +4,13 @@
   "name": "Cyberpunk 2077",
   "engine": "custom",
   "modPath": "archive/pc/mod",
+  "extraModTrees": [
+    "r6/scripts",
+    "r6/tweaks",
+    "r6/input",
+    "red4ext/plugins",
+    "bin/x64/plugins/cyber_engine_tweaks/mods"
+  ],
   "nexusDomain": "cyberpunk2077",
   "fileExtensions": [
     "archive",
