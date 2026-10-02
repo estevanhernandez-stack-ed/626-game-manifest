@@ -1491,7 +1491,7 @@
       "nexusDomain": null,
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/EA SPORTS College Football 27/saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
@@ -2650,7 +2650,7 @@
       "nexusDomain": null,
       "curseforgeGameId": null,
       "modPath": null,
-      "saveDirHint": null,
+      "saveDirHint": "\u003CwinDocuments\u003E/Madden NFL 27/saves",
       "fileExtensions": null,
       "groupingRule": null,
       "featured": null,
@@ -5798,5 +5798,6 @@
         "status": "curated"
       }
     }
-  ]
+  ],
+  "loaders": []
 }
