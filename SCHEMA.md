@@ -23,7 +23,7 @@
 | `nexusDomain` | string \| null | Nexus game slug (e.g. `skyrimspecialedition`) |
 | `curseforgeGameId` | int \| null | |
 | `modPath` | string \| null | mod folder, relative — **must not** be absolute or contain `..` |
-| `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each must name a folder below the game root: the launcher drops one that is absolute, drive-qualified, contains `..` or is `.`, and keeps the rest of the entry. It is a relative-path check only; the trees are never written to, so they do not go through `modPath`'s forbidden-paths gate. Descriptive only: the launcher names which trees hold a top-level entry named exactly like a mod, never moves them. Additive, optional; binaries that predate it ignore it. |
+| `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each must name a folder below the game root: the launcher drops one that is absolute, drive-qualified, contains `..`, is `.`, or is the entry's `modPath` or a folder above it, and keeps the rest of the entry. It is a relative-path check only; the trees are never written to, so they do not go through `modPath`'s forbidden-paths gate. Descriptive only: the launcher names which trees hold a top-level entry named exactly like a mod, never moves them. Additive, optional; binaries that predate it ignore it. |
 | `fileExtensions` | string[] \| null | override to the engine's default extensions |
 | `groupingRule` | string \| null | override to the engine's default grouping |
 | `featured` | int \| null | quick-pick rank; null ⇒ not featured |
