@@ -33,6 +33,20 @@ winner is not something a build should do quietly.
 
 Leaving it out costs nothing. The launcher falls back to whole-folder backup and restore — what every game does today.
 
+`modPathModOnly` (`true`, optional) says `modPath` holds nothing but mods. Safe Clear's "Return to vanilla"
+then moves every file left in it into the restore point, mods that 626 can't otherwise prove are mods
+included. **A wrong `true` moves base-game files out of the install**, and the game won't run until Restore,
+so set it only after listing the folder on a real, clean install and finding nothing the game ships.
+Cyberpunk 2077's `archive/pc/mod` qualifies (the base archives live in `archive/pc/content` and `ep1`); a
+Bethesda `Data`, a Total War `data` or any `Content/Paks` never does. Engine mod folders the launcher already
+knows (a UE `~mods`, `BepInEx/plugins`, a SMAPI `Mods`, …) don't need it. The build **refuses** the flag
+without a `modPath`, on the game root, on a base-content folder or on `Content/Paks`, and a refusal stops the
+whole feed from regenerating, so check locally first:
+
+```
+dotnet run --project <626-mod-launcher>/tools/ManifestMiner -- --file <one-game.yaml> --with-overrides --overrides-dir overrides
+```
+
 ## Adding a game
 
 Drop a `<game>.json` here and open a PR. On merge, the build workflow regenerates and **re-signs** `games-manifest.json`. A game on an engine the launcher already knows ships as this data PR — no app release.
