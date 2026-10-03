@@ -18,6 +18,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/7DaysToDie/Saves",
       "fileExtensions": [
         "xml",
@@ -57,6 +58,7 @@
       "curseforgeGameId": null,
       "modPath": "ShooterGame/Binaries/Win64/ShooterGame/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/ShooterGame/Saved/SavedArksLocal",
       "fileExtensions": [
         "pak",
@@ -96,6 +98,7 @@
       "curseforgeGameId": null,
       "modPath": "AbioticFactor/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/AbioticFactor/Saved/SaveGames",
       "fileExtensions": [
         "pak",
@@ -134,6 +137,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": null,
       "groupingRule": null,
@@ -167,6 +171,7 @@
       "curseforgeGameId": null,
       "modPath": "mod",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/ArmoredCore6/\u003CstoreUserId\u003E/AC60000.sl2",
       "fileExtensions": [
         ".dcx",
@@ -206,6 +211,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Astro/Saved/SaveGames",
       "fileExtensions": [
         "pak"
@@ -241,6 +247,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1086940/remote",
       "fileExtensions": [
         "pak"
@@ -277,6 +284,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Hovgaard Games/Big Ambitions/SaveGames",
       "fileExtensions": [
         ".dll",
@@ -316,6 +324,7 @@
       "curseforgeGameId": null,
       "modPath": "b1/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/b1/Saved/SaveGames/\u003CstoreUserId\u003E/*.sav",
       "fileExtensions": [
         "pak",
@@ -354,6 +363,7 @@
       "curseforgeGameId": null,
       "modPath": ".",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Borderlands/SaveData",
       "fileExtensions": null,
       "groupingRule": null,
@@ -387,6 +397,7 @@
       "curseforgeGameId": null,
       "modPath": "OakGame/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Borderlands 3/Saved/SaveGames",
       "fileExtensions": [
         "pak"
@@ -424,6 +435,7 @@
       "curseforgeGameId": null,
       "modPath": "TBL/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": [
         "pak",
@@ -462,6 +474,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Colossal Order/Cities_Skylines/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -495,6 +508,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/949230/remote",
       "fileExtensions": [
         "dll"
@@ -531,6 +545,7 @@
       "curseforgeGameId": null,
       "modPath": "CodeVein/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/CodeVein/Saved/SaveGames",
       "fileExtensions": [
         "pak"
@@ -567,6 +582,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Landfall Games/Content Warning",
       "fileExtensions": [
         ".dll",
@@ -607,6 +623,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Crusader Kings II",
       "fileExtensions": [
         "mod"
@@ -642,6 +659,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Crusader Kings III/save games",
       "fileExtensions": [
         "mod"
@@ -677,6 +695,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Massive Monster/Cult Of The Lamb/saves",
       "fileExtensions": [
         "dll"
@@ -713,6 +732,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Studio MDHR/Cuphead",
       "fileExtensions": [
         "dll"
@@ -755,6 +775,7 @@
         "red4ext/plugins",
         "bin/x64/plugins/cyber_engine_tweaks/mods"
       ],
+      "modPathModOnly": true,
       "saveDirHint": "\u003Chome\u003E/Saved Games/CD Projekt Red/Cyberpunk 2077",
       "fileExtensions": [
         "archive",
@@ -796,6 +817,7 @@
       "curseforgeGameId": null,
       "modPath": "custom",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/mm/SAVE",
       "fileExtensions": [
         "vpk",
@@ -837,6 +859,7 @@
       "curseforgeGameId": null,
       "modPath": "mod",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/DarkSoulsII/\u003CstoreUserId\u003E/DS2SOFS0000.sl2",
       "fileExtensions": null,
       "groupingRule": null,
@@ -873,6 +896,7 @@
       "curseforgeGameId": null,
       "modPath": "mod",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/DarkSoulsIII/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dcx",
@@ -913,6 +937,7 @@
       "curseforgeGameId": null,
       "modPath": "DATA",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/NBGI/DarkSouls",
       "fileExtensions": [
         "dcx",
@@ -953,6 +978,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": [
         ".darkest",
@@ -993,6 +1019,7 @@
       "curseforgeGameId": null,
       "modPath": ".",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/DEATH STRANDING 2 - ON THE BEACH",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1027,6 +1054,7 @@
       "curseforgeGameId": null,
       "modPath": "FSD/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/FSD/Saved/SaveGames/*.sav",
       "fileExtensions": [
         "pak"
@@ -1063,6 +1091,7 @@
       "curseforgeGameId": null,
       "modPath": "Dispatch/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Dispatch/Saved/SaveGames",
       "fileExtensions": [
         ".pak",
@@ -1102,6 +1131,7 @@
       "curseforgeGameId": null,
       "modPath": "Data/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
       "fileExtensions": [
         "pak",
@@ -1141,6 +1171,7 @@
       "curseforgeGameId": null,
       "modPath": "Data/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin Enhanced Edition/PlayerProfiles",
       "fileExtensions": [
         ".pak"
@@ -1178,6 +1209,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Larian Studios/Divinity Original Sin 2/PlayerProfiles/\u003CstoreUserId\u003E/Savegames",
       "fileExtensions": [
         "pak"
@@ -1213,6 +1245,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Klei/DoNotStarveTogether/\u003CstoreUserId\u003E",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1247,6 +1280,7 @@
       "curseforgeGameId": null,
       "modPath": "%DOCUMENTS%\\BioWare\\Dragon Age 2\\packages\\core\\override",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age 2/Characters",
       "fileExtensions": [
         "erf",
@@ -1284,6 +1318,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age Inquisition/Save",
       "fileExtensions": [
         "daimod",
@@ -1321,6 +1356,7 @@
       "curseforgeGameId": null,
       "modPath": "%DOCUMENTS%\\BioWare\\Dragon Age\\packages\\core\\override",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Dragon Age/Characters",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1355,6 +1391,7 @@
       "curseforgeGameId": null,
       "modPath": "natives",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/2054970/remote",
       "fileExtensions": [
         "pak",
@@ -1394,6 +1431,7 @@
       "curseforgeGameId": null,
       "modPath": "nativePC",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/367500/remote",
       "fileExtensions": [
         "arc"
@@ -1431,6 +1469,7 @@
       "curseforgeGameId": null,
       "modPath": "Resources",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Dungeon Siege/Save",
       "fileExtensions": [
         "dsres",
@@ -1470,6 +1509,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Dungeon Siege 2 Broken World/save",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1503,6 +1543,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Dyson Sphere Program",
       "fileExtensions": [
         "dll"
@@ -1539,6 +1580,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/EA SPORTS College Football 27/saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1572,6 +1614,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/EldenRing/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dll",
@@ -1612,6 +1655,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Enderal Special Edition/Saves",
       "fileExtensions": [
         "esp",
@@ -1652,6 +1696,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Europa Universalis IV",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1685,6 +1730,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/Factorio/saves",
       "fileExtensions": [
         "zip"
@@ -1720,6 +1766,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Fallout4/Saves",
       "fileExtensions": [
         "esp",
@@ -1760,6 +1807,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FalloutNV/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -1794,6 +1842,7 @@
       "curseforgeGameId": null,
       "modPath": "Game/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/LEVEL5 Inc_/FANTASY LIFE i/Users",
       "fileExtensions": [
         "pak",
@@ -1834,6 +1883,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2022/savegame*",
       "fileExtensions": [
         "zip"
@@ -1869,6 +1919,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FarmingSimulator2025/savegame*",
       "fileExtensions": [
         "zip"
@@ -1904,6 +1955,7 @@
       "curseforgeGameId": null,
       "modPath": "End/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/FINAL FANTASY VII REMAKE/Steam",
       "fileExtensions": [
         ".pak"
@@ -1941,6 +1993,7 @@
       "curseforgeGameId": null,
       "modPath": "Frostpunk2/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/11bitstudios/Frostpunk2/Steam/Saved/SaveGames",
       "fileExtensions": [
         "pak"
@@ -1977,6 +2030,7 @@
       "curseforgeGameId": null,
       "modPath": "garrysmod/addons",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/garrysmod/saves",
       "fileExtensions": [
         "lua",
@@ -2019,6 +2073,7 @@
       "curseforgeGameId": null,
       "modPath": "GSS2/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/GSS2/Saved/SaveGames",
       "fileExtensions": [
         "pak",
@@ -2057,6 +2112,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/GTA IV/Profiles/\u003CstoreUserId\u003E",
       "fileExtensions": null,
       "groupingRule": null,
@@ -2090,6 +2146,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/GTA V/Profiles/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "asi",
@@ -2129,6 +2186,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/815370/remote",
       "fileExtensions": [
         "dll"
@@ -2165,6 +2223,7 @@
       "curseforgeGameId": null,
       "modPath": "Maine/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Grounded",
       "fileExtensions": [
         "pak",
@@ -2203,6 +2262,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Hearts of Iron IV/save games",
       "fileExtensions": null,
       "groupingRule": null,
@@ -2236,6 +2296,7 @@
       "curseforgeGameId": null,
       "modPath": "data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/Arrowhead/Helldivers2/saves",
       "fileExtensions": [
         ".patch_0",
@@ -2275,6 +2336,7 @@
       "curseforgeGameId": null,
       "modPath": "Phoenix/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Hogwarts Legacy/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
@@ -2314,6 +2376,7 @@
       "curseforgeGameId": null,
       "modPath": "hollow_knight_Data/Managed/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Team Cherry/Hollow Knight/*.bak",
       "fileExtensions": [
         "dll"
@@ -2350,6 +2413,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Team Cherry/Hollow Knight Silksong",
       "fileExtensions": [
         ".dll"
@@ -2387,6 +2451,7 @@
       "curseforgeGameId": null,
       "modPath": "How to Fish/BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Dazed Games/How to Fish/Saves/*.txt",
       "fileExtensions": [
         ".dll",
@@ -2426,6 +2491,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/SaveFile.gwsave",
       "fileExtensions": [
         "dll"
@@ -2462,6 +2528,7 @@
       "curseforgeGameId": null,
       "modPath": "Win64/ovldata",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Jurassic World Evolution 2",
       "fileExtensions": [
         "ovl",
@@ -2499,6 +2566,7 @@
       "curseforgeGameId": null,
       "modPath": "GameData",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/saves",
       "fileExtensions": [
         "cfg",
@@ -2539,6 +2607,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/kingdomcome/saves",
       "fileExtensions": [
         "pak",
@@ -2578,6 +2647,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/kingdomcome2/saves",
       "fileExtensions": [
         ".pak",
@@ -2617,6 +2687,7 @@
       "curseforgeGameId": null,
       "modPath": "left4dead2/addons",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/550/remote",
       "fileExtensions": [
         "vpk"
@@ -2654,6 +2725,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/ZeekerssRBLX/Lethal Company",
       "fileExtensions": [
         "dll"
@@ -2692,6 +2764,7 @@
       "curseforgeGameId": null,
       "modPath": "LiesofP/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/LiesofP/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
@@ -2730,6 +2803,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Madden NFL 27/saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -2763,6 +2837,7 @@
       "curseforgeGameId": null,
       "modPath": "MarvelGame/Marvel/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": null,
       "groupingRule": null,
@@ -2798,6 +2873,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Marvel\u0027s Spider-Man 2",
       "fileExtensions": [
         "smpcmod",
@@ -2838,6 +2914,7 @@
       "curseforgeGameId": null,
       "modPath": "%GAME_PATH%",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/BioWare/Mass Effect Legendary Edition/Save",
       "fileExtensions": null,
       "groupingRule": null,
@@ -2872,6 +2949,7 @@
       "curseforgeGameId": null,
       "modPath": "Chameleon/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Chameleon/SaveGames",
       "fileExtensions": null,
       "groupingRule": null,
@@ -2907,6 +2985,7 @@
       "curseforgeGameId": null,
       "modPath": "textures/flatlist/_win",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/mgs2_savedata_win/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "ctxr",
@@ -2947,6 +3026,7 @@
       "curseforgeGameId": null,
       "modPath": "textures/flatlist/ovr_stm/_win",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/mgs3_savedata_win/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "asi",
@@ -2987,6 +3067,7 @@
       "curseforgeGameId": null,
       "modPath": "natives/STM",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1446780/remote",
       "fileExtensions": [
         "pak",
@@ -3027,6 +3108,7 @@
       "curseforgeGameId": null,
       "modPath": "reframework/autorun",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/2246340/remote/win64_save",
       "fileExtensions": [
         "lua",
@@ -3066,6 +3148,7 @@
       "curseforgeGameId": null,
       "modPath": "NativePC",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/582010/remote",
       "fileExtensions": [
         "pkg",
@@ -3109,6 +3192,7 @@
       "curseforgeGameId": null,
       "modPath": "Modules",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Mount and Blade II Bannerlord/Game Saves",
       "fileExtensions": [
         "xml",
@@ -3149,6 +3233,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Neverwinter Nights/saves",
       "fileExtensions": [
         "hak",
@@ -3187,6 +3272,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/NieR_Automata",
       "fileExtensions": null,
       "groupingRule": null,
@@ -3220,6 +3306,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/NIOH2/Savedata/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dds",
@@ -3259,6 +3346,7 @@
       "curseforgeGameId": null,
       "modPath": "GAMEDATA/PCBANKS/MODS",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/HelloGames/NMS",
       "fileExtensions": [
         "pak"
@@ -3297,6 +3385,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Mobius Digital/Outer Wilds/Saves",
       "fileExtensions": [
         "zip",
@@ -3334,6 +3423,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Klei/OxygenNotIncluded/cloud_save_files/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dll"
@@ -3369,6 +3459,7 @@
       "curseforgeGameId": null,
       "modPath": "Pal/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Pal/Saved/SaveGames/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "pak",
@@ -3413,6 +3504,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Pathfinder Kingmaker/Saved Games",
       "fileExtensions": [
         "dll",
@@ -3451,6 +3543,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Pathfinder Wrath Of The Righteous/Saved Games",
       "fileExtensions": null,
       "groupingRule": null,
@@ -3485,6 +3578,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Kinetic Games/Phasmophobia/*.txt",
       "fileExtensions": [
         "dll"
@@ -3522,6 +3616,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Pillars of Eternity",
       "fileExtensions": null,
       "groupingRule": null,
@@ -3556,6 +3651,7 @@
       "curseforgeGameId": null,
       "modPath": "PillarsOfEternityII_Data/override",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Pillars of Eternity II",
       "fileExtensions": null,
       "groupingRule": null,
@@ -3590,6 +3686,7 @@
       "curseforgeGameId": null,
       "modPath": "win64/ovldata",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Frontier Developments/Planet Zoo/\u003CstoreUserId\u003E/Saves",
       "fileExtensions": [
         "ovl",
@@ -3627,6 +3724,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Zomboid/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -3660,6 +3758,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/semiwork/Repo/saves",
       "fileExtensions": [
         "dll"
@@ -3697,6 +3796,7 @@
       "curseforgeGameId": null,
       "modPath": "ReadyOrNot/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/ReadyOrNot/Saved/SaveGames",
       "fileExtensions": [
         "pak",
@@ -3737,6 +3837,7 @@
       "curseforgeGameId": null,
       "modPath": "lml",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Rockstar Games/Red Dead Redemption 2/Profiles/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "asi",
@@ -3779,6 +3880,7 @@
       "curseforgeGameId": null,
       "modPath": "Remnant2/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Remnant2/Steam/\u003CstoreUserId\u003E",
       "fileExtensions": [
         ".pak",
@@ -3818,6 +3920,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Ludeon Studios/RimWorld",
       "fileExtensions": [
         ".xml",
@@ -3857,6 +3960,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/632360/remote/UserProfiles",
       "fileExtensions": [
         "dll"
@@ -3893,6 +3997,7 @@
       "curseforgeGameId": null,
       "modPath": "Stalker2/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Stalker2/Saved/STEAM/*.bak",
       "fileExtensions": [
         "pak",
@@ -3932,6 +4037,7 @@
       "curseforgeGameId": null,
       "modPath": "FactoryGame/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/FactoryGame/Saved/SaveGames",
       "fileExtensions": [
         "uplugin",
@@ -3969,6 +4075,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/TVGS/Schedule I/Saves/\u003CstoreUserId\u003E",
       "fileExtensions": [
         "dll"
@@ -4006,6 +4113,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/Sekiro/\u003CstoreUserId\u003E/S0000.sl2",
       "fileExtensions": [
         "dcx",
@@ -4047,6 +4155,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/8930",
       "fileExtensions": [
         "civ5mod",
@@ -4085,6 +4194,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Sid Meier\u0027s Civilization VI/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -4118,6 +4228,7 @@
       "curseforgeGameId": null,
       "modPath": "Sifu/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Sifu/Saved/SaveGames/\u003CstoreUserId\u003E/Sifu*.sav",
       "fileExtensions": [
         "pak",
@@ -4155,6 +4266,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/betaPreferences",
       "fileExtensions": [
         "jar"
@@ -4191,6 +4303,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/SlayTheSpire2/steam/\u003CstoreUserId\u003E",
       "fileExtensions": [
         ".pck",
@@ -4230,6 +4343,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/MonomiPark/SlimeRancher2",
       "fileExtensions": [
         "dll"
@@ -4266,6 +4380,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Endnight/SonsOfTheForest/Saves",
       "fileExtensions": [
         "dll"
@@ -4302,6 +4417,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/sokpop/Stacklands",
       "fileExtensions": [
         "dll"
@@ -4338,6 +4454,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Petroglyph/Empire At War/Save",
       "fileExtensions": [
         "xml",
@@ -4381,6 +4498,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/StardewValley/Saves",
       "fileExtensions": [
         ".dll",
@@ -4421,6 +4539,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1716740/remote",
       "fileExtensions": [
         "esm",
@@ -4461,6 +4580,7 @@
       "curseforgeGameId": null,
       "modPath": "Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/SB/Saved/SaveGames",
       "fileExtensions": [
         ".pak",
@@ -4499,6 +4619,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Stellaris/save games",
       "fileExtensions": [
         "mod"
@@ -4534,6 +4655,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/SNAppData/SavedGames",
       "fileExtensions": [
         ".dll",
@@ -4573,6 +4695,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/SNAppData/SavedGames",
       "fileExtensions": [
         ".dll"
@@ -4610,6 +4733,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Nokta Games/Supermarket Simulator",
       "fileExtensions": [
         "dll"
@@ -4646,6 +4770,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/105600/remote/achievements-steam.dat",
       "fileExtensions": [
         "tmod"
@@ -4681,6 +4806,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Eden Games/Test Drive Unlimited 2/savegame/\u003CstoreUserId\u003E",
       "fileExtensions": null,
       "groupingRule": null,
@@ -4714,6 +4840,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/250900/remote",
       "fileExtensions": [
         "lua",
@@ -4754,6 +4881,7 @@
       "curseforgeGameId": null,
       "modPath": "Data Files",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": [
         "esp",
@@ -4792,6 +4920,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -4826,6 +4955,7 @@
       "curseforgeGameId": null,
       "modPath": "OblivionRemastered/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Oblivion Remastered/Saved/SaveGames",
       "fileExtensions": [
         "pak",
@@ -4869,6 +4999,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim/Saves",
       "fileExtensions": null,
       "groupingRule": null,
@@ -4903,6 +5034,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim Special Edition/Saves",
       "fileExtensions": [
         "esp",
@@ -4944,6 +5076,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Skyrim VR/Saves",
       "fileExtensions": [
         "esp",
@@ -4984,6 +5117,7 @@
       "curseforgeGameId": null,
       "modPath": "%DOCUMENTS%/Electronic Arts/The Sims 4/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Electronic Arts/The Sims 4/saves",
       "fileExtensions": [
         ".package",
@@ -5021,6 +5155,7 @@
       "curseforgeGameId": null,
       "modPath": "Data/Override",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/The Witcher/saves",
       "fileExtensions": [
         "2da",
@@ -5063,6 +5198,7 @@
       "curseforgeGameId": null,
       "modPath": "CookedPC",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/20920/remote",
       "fileExtensions": [
         "dzip",
@@ -5102,6 +5238,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/The Witcher 3/gamesaves/*.png",
       "fileExtensions": [
         "bundle",
@@ -5142,6 +5279,7 @@
       "curseforgeGameId": null,
       "modPath": "data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/ThreeKingdoms/save_games",
       "fileExtensions": [
         "pack"
@@ -5178,6 +5316,7 @@
       "curseforgeGameId": null,
       "modPath": "data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer2/save_games",
       "fileExtensions": [
         "pack"
@@ -5214,6 +5353,7 @@
       "curseforgeGameId": null,
       "modPath": "data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/The Creative Assembly/Warhammer3/save_games",
       "fileExtensions": [
         "pack"
@@ -5250,6 +5390,7 @@
       "curseforgeGameId": null,
       "modPath": "GameData",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/TrackMania/Profiles",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5283,6 +5424,7 @@
       "curseforgeGameId": null,
       "modPath": "Tropico6/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/Tropico6/Saved/SaveGames",
       "fileExtensions": [
         "pak"
@@ -5319,6 +5461,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Two Point Studios/Two Point Campus/Cloud",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5352,6 +5495,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Two Point Studios/Two Point Hospital/Cloud",
       "fileExtensions": [
         "dll"
@@ -5388,6 +5532,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/Saved Games/Tyranny",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5421,6 +5566,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Stunlock Studios/VRising/CloudSaves",
       "fileExtensions": [
         "dll"
@@ -5458,6 +5604,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/IronGate/Valheim",
       "fileExtensions": [
         "dll",
@@ -5497,6 +5644,7 @@
       "curseforgeGameId": null,
       "modPath": "Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Croot\u003E/userdata/\u003CstoreUserId\u003E/1794680/remote/SaveData",
       "fileExtensions": [
         "dll"
@@ -5534,6 +5682,7 @@
       "curseforgeGameId": null,
       "modPath": "Vampire",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Cbase\u003E/Unofficial_Patch/Vampire/save",
       "fileExtensions": [
         "vpk",
@@ -5580,6 +5729,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/Paradox Interactive/Victoria 3/save games",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5613,6 +5763,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003Chome\u003E/AppData/LocalLow/Owlcat Games/Warhammer 40000 Rogue Trader/Saved Games",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5646,6 +5797,7 @@
       "curseforgeGameId": null,
       "modPath": "client_pc/root/mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Saber/Space Marine 2/storage/steam/user/\u003CstoreUserId\u003E/Main/config",
       "fileExtensions": [
         "pak"
@@ -5683,6 +5835,7 @@
       "curseforgeGameId": null,
       "modPath": "R5/Content/Paks/~mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/R5/Saved/SaveProfiles/\u003CstoreUserId\u003E/RocksDB_v2",
       "fileExtensions": [
         "pak",
@@ -5724,6 +5877,7 @@
       "curseforgeGameId": null,
       "modPath": "Witchfire/Content/Paks",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinLocalAppData\u003E/Witchfire/Saved/SaveGames",
       "fileExtensions": [
         "pak",
@@ -5762,6 +5916,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/KoeiTecmo/Wolong/Savedata/\u003CstoreUserId\u003E/SAVEDATA00",
       "fileExtensions": null,
       "groupingRule": null,
@@ -5796,6 +5951,7 @@
       "curseforgeGameId": null,
       "modPath": "XComGame/Mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinDocuments\u003E/My Games/XCOM2/XComGame/SaveData",
       "fileExtensions": [
         "XComMod"
@@ -5832,6 +5988,7 @@
       "curseforgeGameId": null,
       "modPath": null,
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": null,
       "groupingRule": null,
@@ -5865,6 +6022,7 @@
       "curseforgeGameId": null,
       "modPath": "Data",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": [
         "esp",
@@ -5902,6 +6060,7 @@
       "curseforgeGameId": null,
       "modPath": "BepInEx/plugins",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": null,
       "fileExtensions": [
         ".dll",
@@ -5940,6 +6099,7 @@
       "curseforgeGameId": null,
       "modPath": "mods",
       "extraModTrees": null,
+      "modPathModOnly": null,
       "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
       "fileExtensions": [
         "jar"
