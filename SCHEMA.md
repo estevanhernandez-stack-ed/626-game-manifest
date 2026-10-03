@@ -23,6 +23,7 @@
 | `nexusDomain` | string \| null | Nexus game slug (e.g. `skyrimspecialedition`) |
 | `curseforgeGameId` | int \| null | |
 | `modPath` | string \| null | mod folder, relative — **must not** be absolute or contain `..` |
+| `modPathModOnly` | bool \| null | `true` says `modPath` holds nothing but mods: no file in it is the game's own (Cyberpunk 2077's `archive/pc/mod` yes; a Bethesda `Data` or a Total War `data` never). Safe Clear's "Return to vanilla" reads it to know it may move everything left in that folder into the restore point. Without it, a `modPath` is swept only when it matches its engine's own mod-only shape (a UE `Content/Paks/~mods`, `BepInEx/plugins`, a SMAPI `Mods`, …); any other mod folder is left alone. Set it only after checking a real install: a wrong `true` moves base-game files out of the game until Restore. **The build refuses an override that sets it** without a `modPath`, on the game root, on a known base-content folder (`Data`, `Modules`, `GameData`, `Content`, `bin`, `Binaries`, …) or on a `Content/Paks` folder, and a refusal stops the whole feed from regenerating, so run the miner's `--with-overrides` locally before merging (see `overrides/README.md`). It binds to the path it describes: a feed that restates the same `modPath` keeps it, a corrected path drops an inherited `true`, and a feed `false` overrides an embedded `true`. Additive, optional; binaries that predate it ignore it. |
 | `extraModTrees` | string[] \| null | other mod folders, relative to the game root, that a game's mods also write to (Cyberpunk 2077: `r6/scripts`, `r6/tweaks`, …). Each must name a folder below the game root: the launcher drops one that is empty, absolute (a leading `/` or `\` on any OS), drive-qualified, contains `..`, has a segment of only dots or spaces, or is `.`, and keeps the rest of the entry. It is a relative-path check only; the trees are never written to, so they do not go through `modPath`'s forbidden-paths gate. At runtime a tree that is, holds or sits inside one of the game's own mod folders is skipped. Descriptive only: the launcher names which trees hold a top-level entry with a mod's name (letters and digits, any case), never moves them. Additive, optional; binaries that predate it ignore it. |
 | `fileExtensions` | string[] \| null | override to the engine's default extensions |
 | `groupingRule` | string \| null | override to the engine's default grouping |
@@ -64,6 +65,9 @@ older launcher (forward-compat) — adding a new engine is launcher code, not da
   public key pinned in the launcher binary (ECDSA P-256 / SHA-256, `IeeeP1363`).
 - `modPath` is re-validated through the launcher's forbidden-paths gate
   (relative-only, no `..`, no escape) — the manifest never widens it.
+- `modPathModOnly` is honoured only on the game's primary, non-user-set location at
+  exactly `modPath`, and never on a folder the launcher's gate refuses (see the field
+  above) or one holding an `.exe`, so a mistyped flag can't open a base folder to sweeping.
 - `extraModTrees` entries are checked as relative folders below the game root
   and are only ever READ (listed), never written to; an unsafe one is dropped.
 - A bad signature / unknown schema / too-high `minBinaryVersion` ⇒ the launcher

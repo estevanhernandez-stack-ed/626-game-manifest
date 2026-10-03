@@ -4,6 +4,7 @@
   "name": "Cyberpunk 2077",
   "engine": "custom",
   "modPath": "archive/pc/mod",
+  "modPathModOnly": true,
   "extraModTrees": [
     "r6/scripts",
     "r6/tweaks",
