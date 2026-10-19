@@ -6125,5 +6125,6 @@
       }
     }
   ],
-  "loaders": []
+  "loaders": [],
+  "loaderReleases": []
 }
