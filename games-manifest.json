@@ -6008,45 +6008,6 @@
       }
     },
     {
-      "id": "crime-simulator",
-      "name": "Crime Simulator",
-      "engine": "bepinex",
-      "stores": {
-        "steamAppId": "2737070",
-        "gogId": null,
-        "epicAppName": null,
-        "xboxStoreId": null,
-        "eaContentId": null
-      },
-      "nexusDomain": "crimesimulator",
-      "curseforgeGameId": null,
-      "modPath": "BepInEx/plugins",
-      "extraModTrees": null,
-      "modPathModOnly": null,
-      "saveDirHint": null,
-      "fileExtensions": [
-        ".dll",
-        ".zip",
-        ".7z",
-        ".rar"
-      ],
-      "groupingRule": null,
-      "featured": null,
-      "banRisk": null,
-      "saveLayout": null,
-      "savePlayerPaths": null,
-      "safeRoute": null,
-      "safeRouteHint": null,
-      "provenance": {
-        "sources": [
-          "curated",
-          "known-engines",
-          "nexus-domains"
-        ],
-        "status": "curated"
-      }
-    },
-    {
       "id": "minecraft",
       "name": "Minecraft: Java Edition",
       "engine": "minecraft",
@@ -6075,6 +6036,45 @@
         "stats/**",
         "advancements/**"
       ],
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "crime-simulator",
+      "name": "Crime Simulator",
+      "engine": "bepinex",
+      "stores": {
+        "steamAppId": "2737070",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null,
+        "eaContentId": null
+      },
+      "nexusDomain": "crimesimulator",
+      "curseforgeGameId": null,
+      "modPath": "BepInEx/plugins",
+      "extraModTrees": null,
+      "modPathModOnly": null,
+      "saveDirHint": null,
+      "fileExtensions": [
+        ".dll",
+        ".zip",
+        ".7z",
+        ".rar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": null,
+      "savePlayerPaths": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -6126,5 +6126,24 @@
     }
   ],
   "loaders": [],
-  "loaderReleases": []
+  "loaderReleases": [
+    {
+      "loader": "REFramework",
+      "version": "v1.5.9.1",
+      "publishedUtc": "2025-03-05T15:56:49Z",
+      "url": "https://github.com/praydog/REFramework/releases/tag/v1.5.9.1"
+    },
+    {
+      "loader": "UE4SS",
+      "version": "v3.0.1",
+      "publishedUtc": "2024-02-14T19:59:38Z",
+      "url": "https://github.com/UE4SS-RE/RE-UE4SS/releases/tag/v3.0.1"
+    },
+    {
+      "loader": "Mod Engine 2",
+      "version": "release-2.1.0",
+      "publishedUtc": "2023-09-01T04:29:34Z",
+      "url": "https://github.com/soulsmods/ModEngine2/releases/tag/release-2.1.0"
+    }
+  ]
 }
