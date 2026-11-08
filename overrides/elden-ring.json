@@ -35,5 +35,5 @@
   ],
   "featured": 3,
   "safeRoute": "offline",
-  "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never carry modded files or saves into vanilla online play."
+  "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never take modded files into vanilla online play, and bring a modded save there only knowingly."
 }
