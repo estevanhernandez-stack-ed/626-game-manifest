@@ -31,6 +31,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -70,6 +71,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Use the official CurseForge mod browser \u2014 sanctioned everywhere except vanilla official servers; avoid loose-file mods on BattlEye servers.",
       "provenance": {
@@ -110,6 +112,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -145,6 +148,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -184,6 +188,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -221,6 +226,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -257,6 +263,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -297,6 +304,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -336,6 +344,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -371,6 +380,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -407,6 +417,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -446,6 +457,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "unclear",
       "safeRouteHint": "No offline mode and EAC on all official play \u2014 mods exist only via the community Unchained launcher on unofficial servers; no documented bans, no official blessing.",
       "provenance": {
@@ -482,6 +494,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -518,6 +531,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -555,6 +569,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -595,6 +610,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -633,6 +649,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -669,6 +686,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -705,6 +723,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -742,6 +761,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -788,6 +808,7 @@
       "banRisk": null,
       "saveLayout": "worlds",
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -831,6 +852,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -867,6 +889,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Mod in offline mode only \u2014 the server flags any injected DLL, not just cheats; even overlays have triggered soft bans online.",
       "provenance": {
@@ -909,6 +932,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Use Mod Engine\u0027s Forced Offline and alternate-save modes; restore vanilla files before returning online.",
       "provenance": {
@@ -950,6 +974,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -991,6 +1016,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1027,6 +1053,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1064,6 +1091,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1103,6 +1131,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1143,6 +1172,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1181,6 +1211,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1219,6 +1250,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1253,6 +1285,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1291,6 +1324,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1329,6 +1363,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1364,6 +1399,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1405,6 +1441,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1441,6 +1478,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1481,6 +1519,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1517,6 +1556,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1553,6 +1593,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1588,6 +1629,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "unclear",
       "safeRouteHint": "EA\u0027s user agreement prohibits modifying their games. Offline single-player modding is widely tolerated; online modes are not. This game ships EA\u0027s kernel-level anti-cheat and the launcher cannot turn it off.",
       "provenance": {
@@ -1626,8 +1668,30 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": [
+        {
+          "extension": ".sl2",
+          "label": "Vanilla",
+          "kind": "vanilla"
+        },
+        {
+          "extension": ".co2",
+          "label": "Seamless Co-op",
+          "kind": "coop"
+        },
+        {
+          "extension": ".err",
+          "label": "Reforged",
+          "kind": "overhaul"
+        },
+        {
+          "extension": ".mod",
+          "label": "Alt Saves",
+          "kind": "overhaul"
+        }
+      ],
       "safeRoute": "offline",
-      "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never carry modded files or saves into vanilla online play.",
+      "safeRouteHint": "Mod offline with EAC disabled (or use Seamless Co-op for multiplayer); never take modded files into vanilla online play, and bring a modded save there only knowingly.",
       "provenance": {
         "sources": [
           "ludusavi",
@@ -1669,6 +1733,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1704,6 +1769,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1740,6 +1806,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1779,6 +1846,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1815,6 +1883,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1854,6 +1923,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Pak mods are solo-safe (EAC isn\u0027t needed offline) and the game blocks modded crossplay itself; no bans documented.",
       "provenance": {
@@ -1893,6 +1963,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1929,6 +2000,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -1965,6 +2037,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2003,6 +2076,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2045,6 +2119,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2085,6 +2160,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2120,6 +2196,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2159,6 +2236,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Single-player modding is long-established \u2014 never enter GTA Online with mods installed.",
       "provenance": {
@@ -2196,6 +2274,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2235,6 +2314,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2270,6 +2350,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2308,6 +2389,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "unclear",
       "safeRouteHint": "No offline mode exists \u2014 GameGuard always runs; cosmetic mods are tolerated so far but unsupported, and a flag won\u0027t be reversed.",
       "provenance": {
@@ -2348,6 +2430,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2386,6 +2469,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2423,6 +2507,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2464,6 +2549,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2501,6 +2587,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2539,6 +2626,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2579,6 +2667,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2619,6 +2708,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2659,6 +2749,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2697,6 +2788,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Workshop and VPK mods never trigger VAC \u2014 official servers just disable them; only injected code risks a ban.",
       "provenance": {
@@ -2735,6 +2827,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2776,6 +2869,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2811,6 +2905,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "unclear",
       "safeRouteHint": "EA\u0027s user agreement prohibits modifying their games, with no exception for offline play. This game ships EA\u0027s kernel-level anti-cheat, which starts with every launch including offline modes, and the launcher cannot turn it off. How EA enforces this against offline modding is not documented.",
       "provenance": {
@@ -2845,6 +2940,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "none",
       "safeRouteHint": "Always-online with file-integrity checks \u2014 mods are blocked, against the terms of service, and there is no offline sandbox.",
       "provenance": {
@@ -2887,6 +2983,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2922,6 +3019,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2957,6 +3055,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -2998,6 +3097,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3039,6 +3139,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3079,6 +3180,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3120,6 +3222,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Cosmetic and offline mods have a clean record; DLC-unlocker mods and modded content in multiplayer have drawn documented permanent bans.",
       "provenance": {
@@ -3162,6 +3265,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Huge mod scene, near-zero ban history \u2014 keep gameplay-altering mods out of multiplayer.",
       "provenance": {
@@ -3204,6 +3308,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3246,6 +3351,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3280,6 +3386,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3319,6 +3426,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3356,6 +3464,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3397,6 +3506,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3433,6 +3543,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3475,6 +3586,7 @@
         "**/Players/**",
         "**/LocalData.sav"
       ],
+      "saveTypes": null,
       "safeRoute": "private-server",
       "safeRouteHint": "No anti-cheat \u2014 mod freely in solo or on your own server; keep mods off official and other people\u0027s servers.",
       "provenance": {
@@ -3516,6 +3628,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3551,6 +3664,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3588,6 +3702,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "unclear",
       "safeRouteHint": "Kinetic\u0027s Code of Conduct bans file mods in all lobby types \u2014 offline singleplayer avoids servers, but reconnecting with a modified save risks your account.",
       "provenance": {
@@ -3624,6 +3739,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3659,6 +3775,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3697,6 +3814,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3732,6 +3850,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3768,6 +3887,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3808,6 +3928,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3852,6 +3973,7 @@
       "banRisk": "high",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "offline",
       "safeRouteHint": "Mod story mode only \u2014 never take mods into Red Dead Online; file mods there draw account bans.",
       "provenance": {
@@ -3892,6 +4014,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3932,6 +4055,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -3970,6 +4094,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4010,6 +4135,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4048,6 +4174,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4085,6 +4212,7 @@
       "banRisk": null,
       "saveLayout": "worlds",
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4126,6 +4254,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4168,6 +4297,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4202,6 +4332,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4239,6 +4370,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4276,6 +4408,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4315,6 +4448,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4353,6 +4487,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4390,6 +4525,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4427,6 +4563,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4470,6 +4607,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4510,6 +4648,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4552,6 +4691,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4592,6 +4732,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4629,6 +4770,7 @@
       "banRisk": null,
       "saveLayout": "worlds",
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4666,6 +4808,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4705,6 +4848,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4743,6 +4887,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4780,6 +4925,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4814,6 +4960,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4853,6 +5000,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4893,6 +5041,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4928,6 +5077,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -4971,6 +5121,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5007,6 +5158,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5048,6 +5200,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5090,6 +5243,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5128,6 +5282,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5170,6 +5325,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5210,6 +5366,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5250,6 +5407,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5289,6 +5447,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5326,6 +5485,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5363,6 +5523,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5398,6 +5559,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5434,6 +5596,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5469,6 +5632,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5505,6 +5669,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5540,6 +5705,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5576,6 +5742,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "private-server",
       "safeRouteHint": "BepInEx mods are fine in solo and on private servers; official servers are the only no-mod zone.",
       "provenance": {
@@ -5615,6 +5782,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5654,6 +5822,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5701,6 +5870,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5737,6 +5907,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5771,6 +5942,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5807,6 +5979,7 @@
       "banRisk": "medium",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": "official-mods",
       "safeRouteHint": "Officially moddable via Steam Workshop \u2014 private Operations lobbies only; modded installs are locked out of public matchmaking, not banned.",
       "provenance": {
@@ -5851,6 +6024,7 @@
         "**/Players/**",
         "**/AccountDescription.json"
       ],
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5889,6 +6063,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5924,6 +6099,7 @@
       "banRisk": "low",
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5961,6 +6137,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -5996,6 +6173,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -6036,6 +6214,7 @@
         "stats/**",
         "advancements/**"
       ],
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -6075,6 +6254,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
@@ -6113,6 +6293,7 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
       "provenance": {
