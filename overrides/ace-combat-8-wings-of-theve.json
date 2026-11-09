@@ -1,0 +1,16 @@
+{
+  "steamAppId": "2288340",
+  "id": "ace-combat-8-wings-of-theve",
+  "name": "ACE COMBAT 8: WINGS OF THEVE",
+  "engine": "ue-pak",
+  "modPath": "Game/Content/Paks/~mods",
+  "nexusDomain": "acecombat8wingsoftheve",
+  "banRisk": "medium",
+  "fileExtensions": [
+    "pak",
+    "utoc",
+    "ucas"
+  ],
+  "safeRoute": "offline",
+  "safeRouteHint": "Mod offline only: EasyAntiCheat refuses to start with UE4SS present, so modded play runs the game directly without anti-cheat. Keep mods out of online modes."
+}
