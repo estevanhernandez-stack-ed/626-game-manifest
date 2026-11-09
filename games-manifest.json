@@ -126,6 +126,47 @@
       }
     },
     {
+      "id": "ace-combat-8-wings-of-theve",
+      "name": "ACE COMBAT 8: WINGS OF THEVE",
+      "engine": "ue-pak",
+      "stores": {
+        "steamAppId": "2288340",
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null,
+        "eaContentId": null
+      },
+      "nexusDomain": "acecombat8wingsoftheve",
+      "curseforgeGameId": null,
+      "modPath": "Game/Content/Paks/~mods",
+      "extraModTrees": null,
+      "modPathModOnly": null,
+      "saveDirHint": "\u003CwinLocalAppData\u003E/BANDAI NAMCO Entertainment/ACE COMBAT 8/Saved/SaveGames",
+      "fileExtensions": [
+        "pak",
+        "utoc",
+        "ucas"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": "medium",
+      "saveLayout": null,
+      "savePlayerPaths": null,
+      "saveTypes": null,
+      "safeRoute": "offline",
+      "safeRouteHint": "Mod offline only: EasyAntiCheat refuses to start with UE4SS present, so modded play runs the game directly without anti-cheat. Keep mods out of online modes.",
+      "provenance": {
+        "sources": [
+          "ludusavi",
+          "curated",
+          "known-engines",
+          "nexus-domains",
+          "ban-risk"
+        ],
+        "status": "curated"
+      }
+    },
+    {
       "id": "age-of-empires-ii-definitive-edition",
       "name": "Age of Empires II: Definitive Edition",
       "engine": null,

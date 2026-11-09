@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "generatedUtc": "2026-11-09T06:03:27Z",
+  "generatedUtc": "2026-11-09T22:45:03Z",
   "counts": {
-    "total": 158,
-    "engineCurated": 119,
+    "total": 159,
+    "engineCurated": 120,
     "nexusOnly": 39,
     "savesPerSave": 5,
     "savesShareable": 3
@@ -28,6 +28,16 @@
       "engine": "ue-pak",
       "modPath": "AbioticFactor/Content/Paks/~mods",
       "nexusUrl": "https://www.nexusmods.com/abioticfactor"
+    },
+    {
+      "id": "ace-combat-8-wings-of-theve",
+      "name": "ACE COMBAT 8: WINGS OF THEVE",
+      "tier": "engine-curated",
+      "steamAppId": "2288340",
+      "steamUrl": "https://store.steampowered.com/app/2288340/",
+      "engine": "ue-pak",
+      "modPath": "Game/Content/Paks/~mods",
+      "nexusUrl": "https://www.nexusmods.com/acecombat8wingsoftheve"
     },
     {
       "id": "age-of-empires-ii-definitive-edition",

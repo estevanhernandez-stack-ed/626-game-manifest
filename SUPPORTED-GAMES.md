@@ -1,6 +1,6 @@
 # Supported games
 
-**158 games** — 119 engine-curated · 39 Nexus-only. Generated 2026-11-09T06:03:27Z.
+**159 games** — 120 engine-curated · 39 Nexus-only. Generated 2026-11-09T22:45:03Z.
 
 **Engine-curated** games get quick-pick setup — the launcher knows the engine and mod folder. **Nexus-only** games are identified on Nexus Mods; the launcher detects the engine from the game folder at runtime.
 
@@ -29,12 +29,13 @@ Missing a game? [Request it](https://github.com/estevanhernandez-stack-ed/626-ga
 17. **RimWorld** — custom
 18. **Palworld** — ue-pak
 
-## Engine-curated (119)
+## Engine-curated (120)
 
 | Game | Engine | Mod path | Saves | Steam | Nexus |
 |---|---|---|---|---|---|
 | 7 Days to Die | `custom` | `Mods` | backup | [Steam](https://store.steampowered.com/app/251570/) | [Nexus](https://www.nexusmods.com/7daystodie) |
 | Abiotic Factor | `ue-pak` | `AbioticFactor/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/427410/) | [Nexus](https://www.nexusmods.com/abioticfactor) |
+| ACE COMBAT 8: WINGS OF THEVE | `ue-pak` | `Game/Content/Paks/~mods` | backup | [Steam](https://store.steampowered.com/app/2288340/) | [Nexus](https://www.nexusmods.com/acecombat8wingsoftheve) |
 | ARK: Survival Ascended | `ue-pak` | `ShooterGame/Binaries/Win64/ShooterGame/Mods` | backup | [Steam](https://store.steampowered.com/app/2399830/) | [Nexus](https://www.nexusmods.com/asksurvivalevolved) |
 | Armored Core VI: Fires of Rubicon | `fromsoft` | `mod` | backup | [Steam](https://store.steampowered.com/app/1888160/) | [Nexus](https://www.nexusmods.com/armoredcore6firesofrubicon) |
 | Big Ambitions | `bepinex` | `BepInEx/plugins` | backup | [Steam](https://store.steampowered.com/app/1331550/) | [Nexus](https://www.nexusmods.com/bigambitions) |
