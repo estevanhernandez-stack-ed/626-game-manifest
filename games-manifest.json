@@ -6227,47 +6227,6 @@
       }
     },
     {
-      "id": "minecraft",
-      "name": "Minecraft: Java Edition",
-      "engine": "minecraft",
-      "stores": {
-        "steamAppId": null,
-        "gogId": null,
-        "epicAppName": null,
-        "xboxStoreId": null,
-        "eaContentId": null
-      },
-      "nexusDomain": "minecraft",
-      "curseforgeGameId": null,
-      "modPath": "mods",
-      "extraModTrees": null,
-      "modPathModOnly": null,
-      "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
-      "fileExtensions": [
-        "jar"
-      ],
-      "groupingRule": null,
-      "featured": null,
-      "banRisk": null,
-      "saveLayout": "worlds",
-      "savePlayerPaths": [
-        "playerdata/**",
-        "stats/**",
-        "advancements/**"
-      ],
-      "saveTypes": null,
-      "safeRoute": null,
-      "safeRouteHint": null,
-      "provenance": {
-        "sources": [
-          "curated",
-          "known-engines",
-          "nexus-domains"
-        ],
-        "status": "curated"
-      }
-    },
-    {
       "id": "crime-simulator",
       "name": "Crime Simulator",
       "engine": "bepinex",
@@ -6334,6 +6293,47 @@
       "banRisk": null,
       "saveLayout": null,
       "savePlayerPaths": null,
+      "saveTypes": null,
+      "safeRoute": null,
+      "safeRouteHint": null,
+      "provenance": {
+        "sources": [
+          "curated",
+          "known-engines",
+          "nexus-domains"
+        ],
+        "status": "curated"
+      }
+    },
+    {
+      "id": "minecraft",
+      "name": "Minecraft: Java Edition",
+      "engine": "minecraft",
+      "stores": {
+        "steamAppId": null,
+        "gogId": null,
+        "epicAppName": null,
+        "xboxStoreId": null,
+        "eaContentId": null
+      },
+      "nexusDomain": "minecraft",
+      "curseforgeGameId": null,
+      "modPath": "mods",
+      "extraModTrees": null,
+      "modPathModOnly": null,
+      "saveDirHint": "\u003CwinAppData\u003E/.minecraft/saves",
+      "fileExtensions": [
+        "jar"
+      ],
+      "groupingRule": null,
+      "featured": null,
+      "banRisk": null,
+      "saveLayout": "worlds",
+      "savePlayerPaths": [
+        "playerdata/**",
+        "stats/**",
+        "advancements/**"
+      ],
       "saveTypes": null,
       "safeRoute": null,
       "safeRouteHint": null,
